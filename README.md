@@ -14,9 +14,8 @@ A comprehensive **retro gaming entertainment system** that combines game launchi
 <img width="630" height="618" alt="image" src="https://github.com/user-attachments/assets/c0e5d9f1-2588-443a-aef8-0fbf3f233888" />
 </p>
 
-## 🕹️ Overview
+## 🕹️ MES GUI
 
-**Mixtli Entertainment System (MES)** is a full-featured retro gaming platform that provides:
 
 ---
  <p align="center">
