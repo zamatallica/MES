@@ -69,7 +69,15 @@ pip install -r requirements.txt
 ### 3️⃣ Environment Configuration
 Create a `.env` file:
 ```env
+# YouTube API Configuration
 YOUTUBE_API_KEY=your_youtube_api_key_here
+
+# Database Configuration
+DATABASE_DRIVER=ODBC Driver 18 for SQL Server
+DATABASE_SERVER=your-server-name,port
+DATABASE_NAME=MES
+DATABASE_USERNAME=your_username
+DATABASE_PASSWORD=your_password
 ```
 
 ### 4️⃣ Database Setup
@@ -86,12 +94,17 @@ conn_str = (
 ```
 
 ### 5️⃣ Emulator Configuration
-```python
-EMULATORS = {
-    "SNES": r"C:\Path\To\RetroArch\retroarch.exe -L C:\Path\To\cores\snes9x_libretro.dll",
-    "NES": r"C:\Path\To\RetroArch\retroarch.exe -L C:\Path\To\cores\nestopia_libretro.dll",
-}
-```
+Ensure your SQL Server is running and update the .env file with your database credentials:
+
+- DATABASE_SERVER: Your SQL Server instance (e.g., localhost,1433 or server-name,port)
+
+- DATABASE_USERNAME: Database username
+
+- DATABASE_PASSWORD: Database password
+
+- DATABASE_NAME: Database name (default: MES)
+
+- DATABASE_DRIVER: ODBC driver name (default: ODBC Driver 18 for SQL Server)
 
 ### 6️⃣ Directory Structure
 ```
