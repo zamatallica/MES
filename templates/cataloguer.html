@@ -366,8 +366,10 @@ input:focus {
 }
 
 .mario {
-  width: 32px;
-  height: 32px;
+  position: absolute;
+  z-index: 99999;
+  width: 132px;
+  height: 132px;
   bottom: 10%;
   left: 5%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="8" y="4" width="8" height="4" fill="%23e52521"/><rect x="16" y="4" width="8" height="4" fill="%23e52521"/><rect x="4" y="8" width="4" height="4" fill="%23e52521"/><rect x="8" y="8" width="16" height="4" fill="%23e52521"/><rect x="24" y="8" width="4" height="4" fill="%23e52521"/><rect x="4" y="12" width="4" height="4" fill="%23e52521"/><rect x="8" y="12" width="16" height="4" fill="%23e52521"/><rect x="24" y="12" width="4" height="4" fill="%23e52521"/><rect x="8" y="16" width="4" height="4" fill="%23e52521"/><rect x="12" y="16" width="8" height="4" fill="%23e52521"/><rect x="20" y="16" width="4" height="4" fill="%23e52521"/><rect x="12" y="20" width="8" height="4" fill="%23e52521"/><rect x="8" y="24" width="4" height="4" fill="%23e52521"/><rect x="12" y="24" width="8" height="4" fill="%23e52521"/><rect x="20" y="24" width="4" height="4" fill="%23e52521"/><rect x="4" y="28" width="4" height="4" fill="%23e52521"/><rect x="8" y="28" width="4" height="4" fill="%23e52521"/><rect x="20" y="28" width="4" height="4" fill="%23e52521"/><rect x="24" y="28" width="4" height="4" fill="%23e52521"/></svg>');
@@ -384,14 +386,15 @@ input:focus {
 }
 
 .sonic {
-  width: 32px;
-  height: 32px;
+  position: absolute;
+  z-index: 99999;
+  width: 132px;
+  height: 132px;
   top: 20%;
   right: 5%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="12" y="4" width="8" height="4" fill="%2300f"/><rect x="8" y="8" width="16" height="4" fill="%2300f"/><rect x="4" y="12" width="24" height="4" fill="%2300f"/><rect x="4" y="16" width="4" height="4" fill="%2300f"/><rect x="8" y="16" width="16" height="4" fill="%2300f"/><rect x="24" y="16" width="4" height="4" fill="%2300f"/><rect x="4" y="20" width="4" height="4" fill="%2300f"/><rect x="8" y="20" width="16" height="4" fill="%2300f"/><rect x="24" y="20" width="4" height="4" fill="%2300f"/><rect x="8" y="24" width="16" height="4" fill="%2300f"/><rect x="12" y="28" width="8" height="4" fill="%2300f"/></svg>');
   animation: floatSonic 25s infinite linear reverse;
 }
-
 @keyframes floatSonic {
   0% {
     transform: translateX(100px) rotate(0deg);
@@ -735,8 +738,8 @@ function selectRom(id) {
       status.className = '';
     });
   
-  // Auto search (in a real implementation)
-  // searchYT();
+  // Auto search youtube
+     searchYT();
 }
 
 // YouTube integration
@@ -751,7 +754,8 @@ async function searchYT() {
   resultsList.innerHTML = "<div class='loading'>Searching YouTube...</div>";
   
   try {
-    const data = getMockYTResults(query);
+     const resp = await fetch(`/search_yt?q=${encodeURIComponent(query)}`);
+     const data = await resp.json();
     
     renderYTResults(data);
   } catch (err) {
@@ -759,6 +763,7 @@ async function searchYT() {
     resultsList.innerHTML = "<div class='error'>Error fetching results</div>";
   }
 }
+
 
 
 function renderYTResults(videos) {
