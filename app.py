@@ -272,7 +272,7 @@ def launch_game():
     base_cmd = EMULATORS.get(platform, EMULATORS["UNKNOWN"])
 
     # Note: base_cmd may itself contain arguments & core selection.
-    # We'll append ROM path quoted.
+    #  append ROM path quoted.
     full_cmd = f'{base_cmd} "{rom_path}"'
 
     try:
@@ -310,9 +310,9 @@ def search_ost():
                 print(f"✅ Found OST: {video_id}")
                 return jsonify({"videoId": video_id})
         except Exception as e:
-            print(f"❌ Failed from {url}: {e}")
+            print(f" Failed from {url}: {e}")
 
-    print("🚫 No OST found")
+    print(" No OST found")
     return jsonify({"videoId": None})
 
 @app.route("/api/roms")
@@ -376,11 +376,11 @@ def save_ost():
         """
         db_exec(sql, (video_id, rom_id))
 
-        print(f"✅ Saved OST for ROM {rom_id}: {video_id}")
+        print(f"Saved OST for ROM {rom_id}: {video_id}")
         return jsonify({"status": "ok"}), 200
 
     except Exception as e:
-        print("❌ Error saving OST:", e)
+        print("Error saving OST:", e)
         return jsonify({"status": "error", "error": str(e)}), 500
 
 
