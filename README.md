@@ -13,16 +13,10 @@ A comprehensive **retro gaming entertainment system** that combines game launchi
 <p align="center">
 <img width="630" height="618" alt="image" src="https://github.com/user-attachments/assets/c0e5d9f1-2588-443a-aef8-0fbf3f233888" />
 </p>
----
 
 ## 🕹️ Overview
 
 **Mixtli Entertainment System (MES)** is a full-featured retro gaming platform that provides:
-
-- 🎞️ **Game Library Browser:** Beautiful carousel interface for browsing ROM collections  
-- 🎵 **OST Cataloguer:** Link YouTube soundtracks to your games  
-- 🧩 **Multi-Platform Support:** SNES, NES, GBA, PS1, N64, and more  
-- 🧠 **Authentic Retro Experience:** CRT effects, scanlines, and pixel-perfect aesthetics  
 
 ---
  <p align="center">
