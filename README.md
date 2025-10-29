@@ -14,7 +14,7 @@ A comprehensive **retro gaming entertainment system** that combines game launchi
 <img width="630" height="618" alt="image" src="https://github.com/user-attachments/assets/c0e5d9f1-2588-443a-aef8-0fbf3f233888" />
 </p>
 
-## 🕹️ MES GUI
+## 🖥️ MES GUI
 
  <p align="center">
 <img width="2555" height="1269" alt="image" src="https://github.com/user-attachments/assets/181f5300-50f8-4608-9ba5-828f5b4075b9" />
