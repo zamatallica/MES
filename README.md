@@ -69,31 +69,117 @@ pip install -r requirements.txt
 ### 3️⃣ Environment Configuration
 Create a `.env` file:
 ```env
+# YouTube API Configuration
 YOUTUBE_API_KEY=your_youtube_api_key_here
+
+# Database Configuration
+DATABASE_DRIVER=ODBC Driver 18 for SQL Server
+DATABASE_SERVER=your-server-name,port
+DATABASE_NAME=MES
+DATABASE_USERNAME=your_username
+DATABASE_PASSWORD=your_password
 ```
 
-### 4️⃣ Database Setup
-Update your connection string in `app.py`:
-```python
-conn_str = (
-    "DRIVER={ODBC Driver 18 for SQL Server};"
-    "SERVER=your_server,port;"
-    "DATABASE=your_database;"
-    "UID=your_username;"
-    "PWD=your_password;"
-    "TrustServerCertificate=yes;"
-)
+### 4️⃣ Emulator Configuration
+Ensure your SQL Server is running and update the .env file with your database credentials:
+
+- DATABASE_SERVER: Your SQL Server instance (e.g., localhost,1433 or server-name,port)
+
+- DATABASE_USERNAME: Database username
+
+- DATABASE_PASSWORD: Database password
+
+- DATABASE_NAME: Database name (default: MES)
+
+- DATABASE_DRIVER: ODBC driver name (default: ODBC Driver 18 for SQL Server)
+
+## 🗃️ Database Support & Maintenance
+
+### ⚙️ Overview
+The **MES** backend runs on **Microsoft SQL Server** and is designed for reliability, data integrity, and self-healing rebuild capability.  
+All schema objects are created within the `MES` database and follow a normalized structure with strict foreign-key relationships.
+
+### 🧱 Database Structure
+
+| Table | Purpose |
+|-------|----------|
+| **MES_Systems** | Master list of supported gaming systems and associated ROM/media directories |
+| **MES_Roms** | Registered ROM entries with name, display name, file path, and system linkage |
+| **MES_Media** | Media metadata for each ROM (icon, box art, screenshots, etc.) |
+| **MESRetroLibrary** | Central library table linking ROMs, systems, media, and OSTs |
+| **GAME_InfoPanel** | Supplemental information (region, publisher, release date, player count) |
+| **MES_STG_ROM_PATHS / CLEAN / ERRORS** | Staging tables used during full library rebuilds |
+
+### 🏗️ Initial Setup
+
+1. **Create the Database**
+   ```sql
+   CREATE DATABASE [MES];
+   GO
+   ```
+
+2. **Execute Table Scripts**
+   Run all `dbo.MES_*.Table.sql` files in the following order:
+   1. `MES_Systems`
+   2. `MES_Roms`
+   3. `MES_Media`
+   4. `MESRetroLibrary`
+   5. `GAME_InfoPanel`
+   6. Staging tables: `MES_STG_ROM_PATHS`, `MES_STG_ROM_CLEAN`, `MES_STG_ROM_ERRORS`
+
+3. **Deploy Stored Procedure**
+   ```sql
+   EXEC dbo.usp_Build_MES_Retro_Library;
+   ```
+   This procedure rebuilds the entire MES dataset from disk, repopulates all staging tables, filters invalid ROMs, and reconstructs the normalized library with full key integrity.
+
+### 🧩 Rebuild Workflow
+
+Running the stored procedure `usp_Build_MES_Retro_Library` performs:
+1. A full drop-and-rebuild of all MES tables.
+2. A bulk import of ROM paths from `F:\MES\roms_paths.txt`.
+3. System discovery and directory mapping.
+4. Validation, cleansing, and error logging of invalid ROMs.
+5. Automatic media path generation and linkage.
+6. Final population of the unified `MESRetroLibrary`.
+
+**Output example:**
+```
+🚨 Starting MES Retro Library full rebuild (nuclear mode)...
+✅ MESRetroLibrary rebuild complete. Systems: 7, ROMs: 234
+⚠ Logged 5 invalid/rejected entries in MES_STG_ROM_ERRORS.
+🎮 All IDs rebuilt clean, dupes filtered, foreign keys intact.
 ```
 
-### 5️⃣ Emulator Configuration
-```python
-EMULATORS = {
-    "SNES": r"C:\Path\To\RetroArch\retroarch.exe -L C:\Path\To\cores\snes9x_libretro.dll",
-    "NES": r"C:\Path\To\RetroArch\retroarch.exe -L C:\Path\To\cores\nestopia_libretro.dll",
-}
+### 🧼 Maintenance
+
+#### Rebuild Library
+```sql
+EXEC dbo.usp_Build_MES_Retro_Library;
 ```
 
-### 6️⃣ Directory Structure
+#### Inspect Error Log
+```sql
+SELECT * FROM dbo.MES_STG_ROM_ERRORS ORDER BY LoggedAt DESC;
+```
+
+#### Verify Integrity
+```sql
+EXEC sp_msforeachtable 'ALTER INDEX ALL ON ? REBUILD';
+DBCC CHECKDB('MES');
+```
+
+#### Backup Database
+```sql
+BACKUP DATABASE MES TO DISK = 'F:\Backups\MES_FULL.bak' WITH COMPRESSION, INIT;
+```
+
+This allows Flask routes to query game metadata, media paths, and OST links dynamically through SQL.
+
+---
+
+
+### 5️⃣ Directory Structure
 ```
 mixtli/
 ├── ROMS/           # Game ROMs by platform
