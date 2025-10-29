@@ -1,0 +1,7 @@
+
+VM
+
+User
+rheltraining
+password
+hansoloshotfirst

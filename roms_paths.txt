@@ -1,0 +1,3838 @@
+F:\MES\ROMS>dir /a/s/b
+F:\MES\ROMS\.sync
+F:\MES\ROMS\GameBoy
+F:\MES\ROMS\GBA
+F:\MES\ROMS\N64
+F:\MES\ROMS\NES
+F:\MES\ROMS\NintendoDS
+F:\MES\ROMS\PS1
+F:\MES\ROMS\PSP
+F:\MES\ROMS\SEGA
+F:\MES\ROMS\SNES
+F:\MES\ROMS\.sync\Archive
+F:\MES\ROMS\.sync\FolderType
+F:\MES\ROMS\.sync\ID
+F:\MES\ROMS\.sync\IgnoreList
+F:\MES\ROMS\.sync\root_acl_entry
+F:\MES\ROMS\.sync\StreamsList
+F:\MES\ROMS\GameBoy\Legend of Zelda, The - Link's Awakening (UE) (v1.2).gb
+F:\MES\ROMS\GameBoy\Pokemon Blue.gb
+F:\MES\ROMS\GameBoy\Pokemon Red.gb
+F:\MES\ROMS\GameBoy\Pokemon Yellow.gb
+F:\MES\ROMS\GBA\Castlevania - Aria of Sorrow (E) (M3) [b1].gba
+F:\MES\ROMS\GBA\Castlevania - Circle of the Moon (U) [!].gba
+F:\MES\ROMS\GBA\Castlevania - Harmony of Dissonance (U) [t1].gba
+F:\MES\ROMS\GBA\Classic NES Series - Zelda II - The Adventure of Link (U) [f1].gba
+F:\MES\ROMS\GBA\Final Fantasy Crystal Chronicles - Loader (MB).mb
+F:\MES\ROMS\GBA\Final Fantasy I & II - Dawn of Souls (E).gba
+F:\MES\ROMS\GBA\Final Fantasy IV Advance (E) (M5) [b1].gba
+F:\MES\ROMS\GBA\Final Fantasy Tactics Advance (E) (M5) [f1] (Save).gba
+F:\MES\ROMS\GBA\Final Fantasy V Advance (E) (M5).gba
+F:\MES\ROMS\GBA\Final Fantasy VI Advance (E) (M6).gba
+F:\MES\ROMS\GBA\Golden Sun (UE) [t1].gba
+F:\MES\ROMS\GBA\Golden Sun - The Lost Age (UE) [!].gba
+F:\MES\ROMS\GBA\Kingdom Hearts - Chain of Memories (E).gba
+F:\MES\ROMS\GBA\Legend of Zelda, The - The Minish Cap (E) (M5) [f_4].gba
+F:\MES\ROMS\GBA\Mario Kart Super Circuit (E) [!].gba
+F:\MES\ROMS\GBA\Metroid (E) [!].nes
+F:\MES\ROMS\GBA\Metroid - Zero Mission (E) (M5).gba
+F:\MES\ROMS\GBA\Metroid Fusion (E) [!].gba
+F:\MES\ROMS\GBA\Pokemon - Emerald Version (U) [b1].gba
+F:\MES\ROMS\GBA\Pokemon - Fire Red Version (U) (V1.0) [f1].gba
+F:\MES\ROMS\GBA\Pokemon - Fire Red.GBA
+F:\MES\ROMS\GBA\Pokemon - Leaf Green.GBA
+F:\MES\ROMS\GBA\Pokemon Chaos Black (Fire Red Hack).gba
+F:\MES\ROMS\GBA\Pokemon Crystal.gbc
+F:\MES\ROMS\GBA\Pokemon Emerald.GBA
+F:\MES\ROMS\GBA\Pokemon Gold.gbc
+F:\MES\ROMS\GBA\Pokemon Mystery Dungeon - Red Rescue Team.GBA
+F:\MES\ROMS\GBA\Pokemon Ruby.GBA
+F:\MES\ROMS\GBA\Pokemon Sapphire.GBA
+F:\MES\ROMS\GBA\Pokemon Silver.gbc
+F:\MES\ROMS\GBA\Super Mario Advance 3 - Yoshi's Island (E) [!].gba
+F:\MES\ROMS\GBA\Tales of Phantasia (E) (M5) [f_4].gba
+F:\MES\ROMS\N64\Akumajou Dracula Mokushiroku - Real Action Adventure (J) [!].z64
+F:\MES\ROMS\N64\Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (J) [!].z64
+F:\MES\ROMS\N64\Armorines - Project S.W.A.R.M. (E) [!].z64
+F:\MES\ROMS\N64\Beast Wars.rom
+F:\MES\ROMS\N64\Bomberman 64 - Arcade Edition.z64
+F:\MES\ROMS\N64\Bomberman 64.z64
+F:\MES\ROMS\N64\Castlevania - Legacy of Darkness.n64
+F:\MES\ROMS\N64\Charlie Blast's Territory (E) [o1].z64
+F:\MES\ROMS\N64\Choro Q 64 II (J) [!].z64
+F:\MES\ROMS\N64\Command & Conquer (E) [!].z64
+F:\MES\ROMS\N64\Custom Robo (J) [!].z64
+F:\MES\ROMS\N64\Custom Robo V2 (J) [!].z64
+F:\MES\ROMS\N64\CyberTiger (E) [!].z64
+F:\MES\ROMS\N64\Deadly Arts (U) [!].z64
+F:\MES\ROMS\N64\Deadly Arts.v64
+F:\MES\ROMS\N64\Dezaemon 3D (J) [!].z64
+F:\MES\ROMS\N64\Disney's Donald Duck - Goin' Quackers (U) [!].z64
+F:\MES\ROMS\N64\Disney's Tarzan (E) [!].z64
+F:\MES\ROMS\N64\Donkey Kong 64.z64
+F:\MES\ROMS\N64\Doom 64.v64
+F:\MES\ROMS\N64\Dual Heroes.v64
+F:\MES\ROMS\N64\Duck Dodgers Starring Daffy Duck (U) [!].z64
+F:\MES\ROMS\N64\Duke Nukem 64.v64
+F:\MES\ROMS\N64\Earthworm Jim 3D.z64
+F:\MES\ROMS\N64\ECW Hardcore Revolution (E) [!].z64
+F:\MES\ROMS\N64\Eikou no Saint Andrews (J) [!].z64
+F:\MES\ROMS\N64\Excitebike 64 - Kiosk.z64
+F:\MES\ROMS\N64\Extreme G 2.v64
+F:\MES\ROMS\N64\Extreme-G (E) [!].z64
+F:\MES\ROMS\N64\Extreme-G XG2 (E) [!].z64
+F:\MES\ROMS\N64\Extremeg.v64
+F:\MES\ROMS\N64\F-ZERO X.z64
+F:\MES\ROMS\N64\Famista 64 (J) [!].z64
+F:\MES\ROMS\N64\Fighting Force 64 (E) [!].z64
+F:\MES\ROMS\N64\Flying Dragon (E) [!].z64
+F:\MES\ROMS\N64\Forsaken 64 (E) [!].z64
+F:\MES\ROMS\N64\Ganbare Goemon - Derudero Douchuu Obake Tenkomori (J) [!].z64
+F:\MES\ROMS\N64\Ganbare Goemon - Neo Momoyama Bakufu no Odori (J) [b1].z64
+F:\MES\ROMS\N64\Gauntlet Legends (E) [!].z64
+F:\MES\ROMS\N64\Getter Love!! Cho Renai Party Game (J) [!].z64
+F:\MES\ROMS\N64\Gex 3 - Deep Cover Gecko (E) (M3)[!].z64
+F:\MES\ROMS\N64\Gex 64 - Enter the Gecko (E) [!].z64
+F:\MES\ROMS\N64\Glover.v64
+F:\MES\ROMS\N64\Golden Nugget 64.v64
+F:\MES\ROMS\N64\GoldenEye 007 (E) [!].v64
+F:\MES\ROMS\N64\GoldenEye 007.z64
+F:\MES\ROMS\N64\Hercules - The Legendary Journeys (E) [!].z64
+F:\MES\ROMS\N64\Hexen (E) [!].z64
+F:\MES\ROMS\N64\Hey You, Pikachu! (U) [!].z64
+F:\MES\ROMS\N64\Hybrid Heaven.z64
+F:\MES\ROMS\N64\Hydro Thunder (E) [!].z64
+F:\MES\ROMS\N64\International Superstar Soccer 64.z64
+F:\MES\ROMS\N64\Kirby 64 - The Crystal Shards.z64
+F:\MES\ROMS\N64\Legend of Zelda, The - Majora's Mask.z64
+F:\MES\ROMS\N64\Legend of Zelda, The - Ocarina of Time - Master Quest.z64
+F:\MES\ROMS\N64\Legend of Zelda, The - Ocarina of Time.n64
+F:\MES\ROMS\N64\Lode Runner 3-D (E) [!].z64
+F:\MES\ROMS\N64\Mace - The Dark Age (E) [!].z64
+F:\MES\ROMS\N64\Mario Kart 64.z64
+F:\MES\ROMS\N64\Mario Party 2.z64
+F:\MES\ROMS\N64\Mario Party 3.z64
+F:\MES\ROMS\N64\Mario Party.v64
+F:\MES\ROMS\N64\Mega Man 64.z64
+F:\MES\ROMS\N64\Midway's Greatest Arcade Hits Volume 1 (U) [o1].z64
+F:\MES\ROMS\N64\Mike Piazza's Strike Zone (U) [!].z64
+F:\MES\ROMS\N64\Mischief Makers.z64
+F:\MES\ROMS\N64\Mission Impossible (E) [!].z64
+F:\MES\ROMS\N64\Monopoly (U) [!].z64
+F:\MES\ROMS\N64\Mortal Kombat 4.z64
+F:\MES\ROMS\N64\Mortal Kombat Trilogy.z64
+F:\MES\ROMS\N64\Ms. Pac-Man - Maze Madness (U) [!].z64
+F:\MES\ROMS\N64\Namco Museum 64 (U) [!].z64
+F:\MES\ROMS\N64\Nightmare Creatures (U) [!].z64
+F:\MES\ROMS\N64\Nuclear Strike 64 (E) (M2) [!].z64
+F:\MES\ROMS\N64\Ogre Battle 64 - Person of Lordly Caliber (J) (V1.1) [!].z64
+F:\MES\ROMS\N64\Onegai Monsters (J) [!].z64
+F:\MES\ROMS\N64\Operation WinBack (E) (M5) [!].z64
+F:\MES\ROMS\N64\Paper Mario.z64
+F:\MES\ROMS\N64\Paperboy (E) [!].z64
+F:\MES\ROMS\N64\Paperboy.rom
+F:\MES\ROMS\N64\PD Ultraman Battle Collection 64 (J) [!].z64
+F:\MES\ROMS\N64\Perfect Dark.z64
+F:\MES\ROMS\N64\Pokemon Snap.rom
+F:\MES\ROMS\N64\Power Rangers - Lightspeed Rescue (E) [!].z64
+F:\MES\ROMS\N64\Powerpuff Girls, The - Chemical X-Traction (U) [!].z64
+F:\MES\ROMS\N64\Premier Manager 64 (E) [!].z64
+F:\MES\ROMS\N64\Puyo Puyo 4 - Puyo Puyo Party (J) [!].z64
+F:\MES\ROMS\N64\Puyo Puyo Sun 64 (J) [!].z64
+F:\MES\ROMS\N64\Quake II.z64
+F:\MES\ROMS\N64\Quake.v64
+F:\MES\ROMS\N64\Quest 64.v64
+F:\MES\ROMS\N64\Rakuga Kids (E) [!].z64
+F:\MES\ROMS\N64\Rally Challenge.rom
+F:\MES\ROMS\N64\Rampage 2 - Universal Tour (E) [!].z64
+F:\MES\ROMS\N64\Rampage.rom
+F:\MES\ROMS\N64\Rat Attack (E) (M6) [!].z64
+F:\MES\ROMS\N64\Rayman 2 - The Great Escape (E) (M5) [!].z64
+F:\MES\ROMS\N64\Razor Freestyle Scooter (U) [!].z64
+F:\MES\ROMS\N64\Re-Volt (E) (M4) [!].z64
+F:\MES\ROMS\N64\Re-Volt.rom
+F:\MES\ROMS\N64\Robot Ponkottsu 64 - Caramel of the 7 Seas (J) [!].z64
+F:\MES\ROMS\N64\Robotech - Crystal Dreams (Beta) [a1].z64
+F:\MES\ROMS\N64\Robotron 64.v64
+F:\MES\ROMS\N64\Rugrats - Treasure Hunt (E) [!].z64
+F:\MES\ROMS\N64\Rugrats in Paris - The Movie (E) [!].z64
+F:\MES\ROMS\N64\SCARS.rom
+F:\MES\ROMS\N64\Scooby-Doo! - Classic Creep Capers (E) [!].z64
+F:\MES\ROMS\N64\Shadow Man (E) [!].z64
+F:\MES\ROMS\N64\Shadow of the Empire.v64
+F:\MES\ROMS\N64\Shadowgate 64 - Trials of the Four Towers (E) [!].z64
+F:\MES\ROMS\N64\Silicon Valley.rom
+F:\MES\ROMS\N64\Sim City 2000 (J) [o1].z64
+F:\MES\ROMS\N64\Smash Brothers.v64
+F:\MES\ROMS\N64\Snowboard Kids 2.v64
+F:\MES\ROMS\N64\South Park - Chef's Luv Shack (E) [!].z64
+F:\MES\ROMS\N64\South Park Rally (E) [!].z64
+F:\MES\ROMS\N64\South Park Rally.rom
+F:\MES\ROMS\N64\South Park.v64
+F:\MES\ROMS\N64\Space Invaders.z64
+F:\MES\ROMS\N64\Spider-Man.z64
+F:\MES\ROMS\N64\Star Fox 64.z64
+F:\MES\ROMS\N64\Star Soldier.rom
+F:\MES\ROMS\N64\Star Wars - Rogue Squadron.n64
+F:\MES\ROMS\N64\Star Wars Episode I - Battle for Naboo.z64
+F:\MES\ROMS\N64\StarCraft 64.z64
+F:\MES\ROMS\N64\Starshot - Space Circus Fever (E) (M3) [!].z64
+F:\MES\ROMS\N64\Super Mario 64.v64
+F:\MES\ROMS\N64\Super Robot Spirits (J) [!].z64
+F:\MES\ROMS\N64\Super Robot Taisen 64 (J) [!].z64
+F:\MES\ROMS\N64\Super Smash Bros.z64
+F:\MES\ROMS\N64\Supercross 2000 (E) [!].z64
+F:\MES\ROMS\N64\Superman (E) (M6) [!].z64
+F:\MES\ROMS\N64\Tigger's Honey Hunt (E) (M7) [!].z64
+F:\MES\ROMS\N64\Tom and Jerry in Fists of Furry (E) [!].z64
+F:\MES\ROMS\N64\Tonic Trouble (U) (V1.1) [!].z64
+F:\MES\ROMS\N64\Tony Hawk Pro Skater.rom
+F:\MES\ROMS\N64\Tony Hawk's Pro Skater 2 (E) [!].z64
+F:\MES\ROMS\N64\Tony Hawk's Pro Skater 3 (U).z64
+F:\MES\ROMS\N64\Turok - Dinosaur Hunter.z64
+F:\MES\ROMS\N64\Turok - Rage Wars.rom
+F:\MES\ROMS\N64\Turok 2 - Seeds of Evil.z64
+F:\MES\ROMS\N64\Turok 3 - Shadow of Oblivion.z64
+F:\MES\ROMS\N64\Twisted Edge.v64
+F:\MES\ROMS\N64\Vigilante 8.rom
+F:\MES\ROMS\N64\Virtual Chess.v64
+F:\MES\ROMS\N64\Virtual Pool 64.v64
+F:\MES\ROMS\N64\War Gods.v64
+F:\MES\ROMS\N64\Wetrix (E) (M6) [!].z64
+F:\MES\ROMS\N64\Wipeout 64 (E) [!].z64
+F:\MES\ROMS\N64\Wonder Project J2 (J) [!].z64
+F:\MES\ROMS\N64\Xena Warrior Princess - The Talisman of Fate (E) [!].z64
+F:\MES\ROMS\N64\Yoshi's Story.v64
+F:\MES\ROMS\NES\10_yard_fight.nes
+F:\MES\ROMS\NES\1100-in-1 [p1][b1].nes
+F:\MES\ROMS\NES\168-in-1 [p1][!].nes
+F:\MES\ROMS\NES\1942.nes
+F:\MES\ROMS\NES\1943.nes
+F:\MES\ROMS\NES\260-in-1 [p1][!].nes
+F:\MES\ROMS\NES\720.nes
+F:\MES\ROMS\NES\Adventures_in_the_magic_kingdom.nes
+F:\MES\ROMS\NES\adventures_of_bayou_billy.nes
+F:\MES\ROMS\NES\adventures_of_dino_riki.nes
+F:\MES\ROMS\NES\adventures_of_Lolo1.nes
+F:\MES\ROMS\NES\adventures_of_Lolo2.nes
+F:\MES\ROMS\NES\adventures_of_Lolo3.nes
+F:\MES\ROMS\NES\adventures_of_Tom_sawyer.nes
+F:\MES\ROMS\NES\Adventure_island2.nes
+F:\MES\ROMS\NES\Adventure_island3.nes
+F:\MES\ROMS\NES\Airwolf.nes
+F:\MES\ROMS\NES\Air_fortress.nes
+F:\MES\ROMS\NES\alfred_Chicken.nes
+F:\MES\ROMS\NES\alien3.nes
+F:\MES\ROMS\NES\Alien_syndrome.nes
+F:\MES\ROMS\NES\All_pro_basketball.nes
+F:\MES\ROMS\NES\Al_unser_racing.nes
+F:\MES\ROMS\NES\Amagon.nes
+F:\MES\ROMS\NES\American_gladiators.nes
+F:\MES\ROMS\NES\Anticipation.nes
+F:\MES\ROMS\NES\Archon.nes
+F:\MES\ROMS\NES\Arch_rivals.nes
+F:\MES\ROMS\NES\Arkanoid.nes
+F:\MES\ROMS\NES\Astyanax.nes
+F:\MES\ROMS\NES\Athena.nes
+F:\MES\ROMS\NES\Athletic_world.nes
+F:\MES\ROMS\NES\Attack_of_the_killer_tomatoes.nes
+F:\MES\ROMS\NES\Baby_Boomer.nes
+F:\MES\ROMS\NES\Back_to_the_future.nes
+F:\MES\ROMS\NES\Back_to_the_future_23.nes
+F:\MES\ROMS\NES\Bad_dudes.nes
+F:\MES\ROMS\NES\Bad_news_baseball.nes
+F:\MES\ROMS\NES\Bad_street_brawler.nes
+F:\MES\ROMS\NES\ball.nes
+F:\MES\ROMS\NES\Balloon Fight (U) [!].nes
+F:\MES\ROMS\NES\Balloon_fight.nes
+F:\MES\ROMS\NES\Bandit_kings_of_ancient_china.nes
+F:\MES\ROMS\NES\Barbie.nes
+F:\MES\ROMS\NES\Bard's_tale.nes
+F:\MES\ROMS\NES\BARTVSWO.NES
+F:\MES\ROMS\NES\Baseball.nes
+F:\MES\ROMS\NES\Baseball_simulator.nes
+F:\MES\ROMS\NES\Baseball_stars.nes
+F:\MES\ROMS\NES\Baseball_stars2.nes
+F:\MES\ROMS\NES\Bases_loaded.nes
+F:\MES\ROMS\NES\Bases_loaded2.nes
+F:\MES\ROMS\NES\Bases_loaded3.nes
+F:\MES\ROMS\NES\Bases_loaded4.nes
+F:\MES\ROMS\NES\Base_wars.nes
+F:\MES\ROMS\NES\Batman.nes
+F:\MES\ROMS\NES\Batman_returns.nes
+F:\MES\ROMS\NES\Batman_return_of_the_joker.nes
+F:\MES\ROMS\NES\Battle Tank (U) [!].nes
+F:\MES\ROMS\NES\Battletoads Double Dragon.nes
+F:\MES\ROMS\NES\Battle_chess.nes
+F:\MES\ROMS\NES\Battle_field.nes
+F:\MES\ROMS\NES\Battle_of_olympus.nes
+F:\MES\ROMS\NES\Battle_toads.nes
+F:\MES\ROMS\NES\beetle_juice.nes
+F:\MES\ROMS\NES\Best_of_the_best.nes
+F:\MES\ROMS\NES\big_bird's_hide_and_speak.nes
+F:\MES\ROMS\NES\Big_foot.nes
+F:\MES\ROMS\NES\bill_and_ted's_excellent_adventure.nes
+F:\MES\ROMS\NES\bill_elliot's_nascar_challenge.nes
+F:\MES\ROMS\NES\Bionic_commando.nes
+F:\MES\ROMS\NES\Black_bass.nes
+F:\MES\ROMS\NES\blades_of_steel.nes
+F:\MES\ROMS\NES\Blaster_master.nes
+F:\MES\ROMS\NES\Bomber_man.nes
+F:\MES\ROMS\NES\Bomber_man2.nes
+F:\MES\ROMS\NES\Boulder_dash.nes
+F:\MES\ROMS\NES\Bo_jackson_baseball.nes
+F:\MES\ROMS\NES\Breakthru.nes
+F:\MES\ROMS\NES\bub.nes
+F:\MES\ROMS\NES\Bubble_bobble.nes
+F:\MES\ROMS\NES\Bubble_bobble2.nes
+F:\MES\ROMS\NES\Bucky_O'hare.nes
+F:\MES\ROMS\NES\bugs_bunny_birthday_blowout.nes
+F:\MES\ROMS\NES\Bugs_bunny_crazy_castle.nes
+F:\MES\ROMS\NES\Bump_n_jump.nes
+F:\MES\ROMS\NES\Burai_fighter.nes
+F:\MES\ROMS\NES\Burger_time.nes
+F:\MES\ROMS\NES\Cabal.nes
+F:\MES\ROMS\NES\Caesar's_palace.nes
+F:\MES\ROMS\NES\California_games.nes
+F:\MES\ROMS\NES\Captain_america.nes
+F:\MES\ROMS\NES\Captain_planet.nes
+F:\MES\ROMS\NES\Captain_skyhawk.nes
+F:\MES\ROMS\NES\Casino_kid.nes
+F:\MES\ROMS\NES\Castelian.nes
+F:\MES\ROMS\NES\Castlevania.nes
+F:\MES\ROMS\NES\Castlevania2.nes
+F:\MES\ROMS\NES\castlevania3.nes
+F:\MES\ROMS\NES\castle_of_deceit.nes
+F:\MES\ROMS\NES\Castle_of_dragon.nes
+F:\MES\ROMS\NES\Caveman_games.nes
+F:\MES\ROMS\NES\Championship_bowling.nes
+F:\MES\ROMS\NES\Championship_pool.nes
+F:\MES\ROMS\NES\Chase_hq.nes
+F:\MES\ROMS\NES\Chiller.nes
+F:\MES\ROMS\NES\Chubby_cherub.nes
+F:\MES\ROMS\NES\Circus Charlie (Japan).nes
+F:\MES\ROMS\NES\city.nes
+F:\MES\ROMS\NES\City_connection.nes
+F:\MES\ROMS\NES\clash_at_demonhead.nes
+F:\MES\ROMS\NES\Clu_clu_land.nes
+F:\MES\ROMS\NES\Cobra_command.nes
+F:\MES\ROMS\NES\Cobra_triangle.nes
+F:\MES\ROMS\NES\codename_viper.nes
+F:\MES\ROMS\NES\Commando.nes
+F:\MES\ROMS\NES\Conan.nes
+F:\MES\ROMS\NES\Conflict.nes
+F:\MES\ROMS\NES\Conqest_of_the_crystal_palace.nes
+F:\MES\ROMS\NES\Contra.nes
+F:\MES\ROMS\NES\Contra_force.nes
+F:\MES\ROMS\NES\Crash_dummies.nes
+F:\MES\ROMS\NES\Crash_n_the_boys_street_challenge.nes
+F:\MES\ROMS\NES\Crystalis.nes
+F:\MES\ROMS\NES\Crystal_mines.nes
+F:\MES\ROMS\NES\CVANIA2.NES
+F:\MES\ROMS\NES\Cyberball.nes
+F:\MES\ROMS\NES\Cybernoid.nes
+F:\MES\ROMS\NES\Darkman.nes
+F:\MES\ROMS\NES\Darkwing_duck.nes
+F:\MES\ROMS\NES\Days_of_thunder.nes
+F:\MES\ROMS\NES\Day_dreamin'_davey.nes
+F:\MES\ROMS\NES\Deadly_towers.nes
+F:\MES\ROMS\NES\defender.nes
+F:\MES\ROMS\NES\Defender2.nes
+F:\MES\ROMS\NES\Defenders_of_the_dynatron_city.nes
+F:\MES\ROMS\NES\Defender_of_the_crown.nes
+F:\MES\ROMS\NES\Deja_vu.nes
+F:\MES\ROMS\NES\Demon_sword.nes
+F:\MES\ROMS\NES\Destiny_of_an_emperor.nes
+F:\MES\ROMS\NES\Dick_tracy.nes
+F:\MES\ROMS\NES\Die_hard.nes
+F:\MES\ROMS\NES\digdug.nes
+F:\MES\ROMS\NES\Digger.nes
+F:\MES\ROMS\NES\Dig_dug2.nes
+F:\MES\ROMS\NES\Dirty_harry.nes
+F:\MES\ROMS\NES\dk.nes
+F:\MES\ROMS\NES\Donkey_kong.nes
+F:\MES\ROMS\NES\Donkey_kong3.nes
+F:\MES\ROMS\NES\Donkey_kong_classics.nes
+F:\MES\ROMS\NES\Donkey_kong_jr.nes
+F:\MES\ROMS\NES\donkey_kong_jr_math.nes
+F:\MES\ROMS\NES\Double_dragon.nes
+F:\MES\ROMS\NES\Double_dragon2.nes
+F:\MES\ROMS\NES\Double_dragon3.nes
+F:\MES\ROMS\NES\Double_dribble.nes
+F:\MES\ROMS\NES\Double_strike.nes
+F:\MES\ROMS\NES\dracula.nes
+F:\MES\ROMS\NES\Dragons'_lair.nes
+F:\MES\ROMS\NES\Dragon_fighter.nes
+F:\MES\ROMS\NES\Dragon_power.nes
+F:\MES\ROMS\NES\Dragon_spirit.nes
+F:\MES\ROMS\NES\Dragon_strike.nes
+F:\MES\ROMS\NES\Dragon_warrior.nes
+F:\MES\ROMS\NES\Dragon_warrior2.nes
+F:\MES\ROMS\NES\Dragon_warrior3.nes
+F:\MES\ROMS\NES\Dragon_warrior4.nes
+F:\MES\ROMS\NES\Duck_hunt.nes
+F:\MES\ROMS\NES\Duck_tales.nes
+F:\MES\ROMS\NES\Duck_tales2.nes
+F:\MES\ROMS\NES\Dudes_with_attitude.nes
+F:\MES\ROMS\NES\Dungeon_magic.nes
+F:\MES\ROMS\NES\dusty_diamond_All_star_softball.nes
+F:\MES\ROMS\NES\Dynowarz.nes
+F:\MES\ROMS\NES\EarthWorm Jim 2 (Unl) [U][!].nes
+F:\MES\ROMS\NES\EarthWorm Jim 3 (Unl) [!].nes
+F:\MES\ROMS\NES\Elevator_action.nes
+F:\MES\ROMS\NES\Eliminator_boat_duel.nes
+F:\MES\ROMS\NES\Empire_strikes_back.nes
+F:\MES\ROMS\NES\excite.nes
+F:\MES\ROMS\NES\Excite_bike.nes
+F:\MES\ROMS\NES\exodus.nes
+F:\MES\ROMS\NES\F15_city_war.nes
+F:\MES\ROMS\NES\Family_feud.nes
+F:\MES\ROMS\NES\Fantasy_zone.nes
+F:\MES\ROMS\NES\faria.nes
+F:\MES\ROMS\NES\Fast_break.nes
+F:\MES\ROMS\NES\Faxanadu.nes
+F:\MES\ROMS\NES\Felix the Cat (U) [!].nes
+F:\MES\ROMS\NES\Felix_the_cat.nes
+F:\MES\ROMS\NES\Fester's_quest.nes
+F:\MES\ROMS\NES\Fighting_golf.nes
+F:\MES\ROMS\NES\Final Fantasy I & II (J) [T+Eng1.00_Demiforce].nes
+F:\MES\ROMS\NES\Final Fantasy II (U) (Prototype).nes
+F:\MES\ROMS\NES\Final Fantasy III (J) [T-Eng].nes
+F:\MES\ROMS\NES\Final Fantasy V (Unl).nes
+F:\MES\ROMS\NES\final_fantasy.nes
+F:\MES\ROMS\NES\Fire_hawk.nes
+F:\MES\ROMS\NES\flintstones.nes
+F:\MES\ROMS\NES\Flying_dragon.nes
+F:\MES\ROMS\NES\Flying_warriors.nes
+F:\MES\ROMS\NES\formula_one_built_to_win.nes
+F:\MES\ROMS\NES\Frankenstein.nes
+F:\MES\ROMS\NES\freedom_force.nes
+F:\MES\ROMS\NES\friday_the_13th.nes
+F:\MES\ROMS\NES\FSTONES.NES
+F:\MES\ROMS\NES\f_117_stealth.nes
+F:\MES\ROMS\NES\G&G.NES
+F:\MES\ROMS\NES\Galaga (E).nes
+F:\MES\ROMS\NES\Galaga - Demons of Death (U) [!].nes
+F:\MES\ROMS\NES\GALAGA.NES
+F:\MES\ROMS\NES\Galaxy_5000.nes
+F:\MES\ROMS\NES\Game_genie.nes
+F:\MES\ROMS\NES\Gargoyle's_quest2.nes
+F:\MES\ROMS\NES\Gauntlet.nes
+F:\MES\ROMS\NES\Gauntlet2.nes
+F:\MES\ROMS\NES\George_foreman's_KO_boxing.nes
+F:\MES\ROMS\NES\Ghost_&_goblins.nes
+F:\MES\ROMS\NES\Ghost_busters.nes
+F:\MES\ROMS\NES\Ghost_busters2.nes
+F:\MES\ROMS\NES\Gilligan's_island.nes
+F:\MES\ROMS\NES\GI_joe.nes
+F:\MES\ROMS\NES\GI_joe_atlantis_factor.nes
+F:\MES\ROMS\NES\Goal 3 (Unl) [!].nes
+F:\MES\ROMS\NES\Goal! (U) [!].nes
+F:\MES\ROMS\NES\Goal! Two (U) [!].nes
+F:\MES\ROMS\NES\goal.nes
+F:\MES\ROMS\NES\Godzilla.nes
+F:\MES\ROMS\NES\Godzilla2.nes
+F:\MES\ROMS\NES\Gold_medal_challenge.nes
+F:\MES\ROMS\NES\Golf.nes
+F:\MES\ROMS\NES\Golf_grand_slam.nes
+F:\MES\ROMS\NES\Golgo_13.nes
+F:\MES\ROMS\NES\Goonies2.nes
+F:\MES\ROMS\NES\Gotcha.nes
+F:\MES\ROMS\NES\GRADIUS.NES
+F:\MES\ROMS\NES\GRADIUS2.NES
+F:\MES\ROMS\NES\Gremlins2.nes
+F:\MES\ROMS\NES\Guardian_legend.nes
+F:\MES\ROMS\NES\Guerilla_war.nes
+F:\MES\ROMS\NES\Gum_shoe.nes
+F:\MES\ROMS\NES\Gunsmoke.nes
+F:\MES\ROMS\NES\Gun_nac.nes
+F:\MES\ROMS\NES\Gyromite.nes
+F:\MES\ROMS\NES\Gyruss.nes
+F:\MES\ROMS\NES\Harlem_globetrotters.nes
+F:\MES\ROMS\NES\Hatris.nes
+F:\MES\ROMS\NES\Heavy_barrel.nes
+F:\MES\ROMS\NES\Heavy_shreddin'.nes
+F:\MES\ROMS\NES\Heroes_of_the_lance.nes
+F:\MES\ROMS\NES\Hogan's_alley.nes
+F:\MES\ROMS\NES\Home_alone.nes
+F:\MES\ROMS\NES\Home_alone2.nes
+F:\MES\ROMS\NES\Hook.nes
+F:\MES\ROMS\NES\Hoops.nes
+F:\MES\ROMS\NES\Hot_slots.nes
+F:\MES\ROMS\NES\Hudson_hawk.nes
+F:\MES\ROMS\NES\hunt_for_red_october.nes
+F:\MES\ROMS\NES\Hydlide.nes
+F:\MES\ROMS\NES\Ice_climber.nes
+F:\MES\ROMS\NES\Ice_hockey.nes
+F:\MES\ROMS\NES\Ikari_warriors.nes
+F:\MES\ROMS\NES\Ikari_warriors2.nes
+F:\MES\ROMS\NES\Ikari_warriors3.nes
+F:\MES\ROMS\NES\Immortal.nes
+F:\MES\ROMS\NES\Indiana_jones_and_the_last_crusade.nes
+F:\MES\ROMS\NES\Indiana_jones_and_the_temple_of_doom.nes
+F:\MES\ROMS\NES\Indy_heat.nes
+F:\MES\ROMS\NES\Infiltrator.nes
+F:\MES\ROMS\NES\Iron_tank.nes
+F:\MES\ROMS\NES\island.nes
+F:\MES\ROMS\NES\Isolated_warrior.nes
+F:\MES\ROMS\NES\Jackal.nes
+F:\MES\ROMS\NES\Jackie_chan_kung_fu.nes
+F:\MES\ROMS\NES\Jack_nicklaus_golf.nes
+F:\MES\ROMS\NES\james_bond_jr.nes
+F:\MES\ROMS\NES\Jaws.nes
+F:\MES\ROMS\NES\Jeopardy_25th_anniversary.nes
+F:\MES\ROMS\NES\Jeopardy_jr.nes
+F:\MES\ROMS\NES\Jetsons.nes
+F:\MES\ROMS\NES\Jimmy_connors_tennis.nes
+F:\MES\ROMS\NES\Joe_&_mac.nes
+F:\MES\ROMS\NES\Jordan_vs_bird.nes
+F:\MES\ROMS\NES\Journey_to_silius.nes
+F:\MES\ROMS\NES\Joust.nes
+F:\MES\ROMS\NES\Jungle_book.nes
+F:\MES\ROMS\NES\Jurassic_park.nes
+F:\MES\ROMS\NES\Karate_champ.nes
+F:\MES\ROMS\NES\Karate_kid.nes
+F:\MES\ROMS\NES\Karnov.nes
+F:\MES\ROMS\NES\Kickle_cubicle.nes
+F:\MES\ROMS\NES\Kick_master.nes
+F:\MES\ROMS\NES\Kid_icarus.nes
+F:\MES\ROMS\NES\Kid_kool.nes
+F:\MES\ROMS\NES\Kid_niki.nes
+F:\MES\ROMS\NES\King's_quest_5.nes
+F:\MES\ROMS\NES\Kings_knight.nes
+F:\MES\ROMS\NES\King_of_kings.nes
+F:\MES\ROMS\NES\king_of_the_ring.nes
+F:\MES\ROMS\NES\Kirby's Adventure (U) (PRG1) [!].nes
+F:\MES\ROMS\NES\Kirby's_adventure.nes
+F:\MES\ROMS\NES\Kiwi_kraze.nes
+F:\MES\ROMS\NES\Klash_ball.nes
+F:\MES\ROMS\NES\Klax.nes
+F:\MES\ROMS\NES\Knight_rider.nes
+F:\MES\ROMS\NES\Krazy_kreatures.nes
+F:\MES\ROMS\NES\Krion_conquest.nes
+F:\MES\ROMS\NES\Krusty's_fun_house.nes
+F:\MES\ROMS\NES\Kungfu.nes
+F:\MES\ROMS\NES\Kung_fu.nes
+F:\MES\ROMS\NES\Kung_fu_heroes.nes
+F:\MES\ROMS\NES\L'empereur.nes
+F:\MES\ROMS\NES\laser_invasion.nes
+F:\MES\ROMS\NES\Legacy_of_the_wizard.nes
+F:\MES\ROMS\NES\Legendary_wings.nes
+F:\MES\ROMS\NES\Legends_of_the_diamond.nes
+F:\MES\ROMS\NES\legend_of_kage.nes
+F:\MES\ROMS\NES\Life_force.nes
+F:\MES\ROMS\NES\Linus_spacehead.nes
+F:\MES\ROMS\NES\little_mermaid.nes
+F:\MES\ROMS\NES\little_nemo.nes
+F:\MES\ROMS\NES\Little_ninja_brothers.nes
+F:\MES\ROMS\NES\Lode_runner.nes
+F:\MES\ROMS\NES\Lone_ranger.nes
+F:\MES\ROMS\NES\Loopz.nes
+F:\MES\ROMS\NES\Low_g_man.nes
+F:\MES\ROMS\NES\Lunar_pool.nes
+F:\MES\ROMS\NES\Mach_rider.nes
+F:\MES\ROMS\NES\Mad_max.nes
+F:\MES\ROMS\NES\Mafat_conspiracy.nes
+F:\MES\ROMS\NES\Magician.nes
+F:\MES\ROMS\NES\magic_darts.nes
+F:\MES\ROMS\NES\magic_of_scheherazade.nes
+F:\MES\ROMS\NES\Magmax.nes
+F:\MES\ROMS\NES\Maniac_mansion.nes
+F:\MES\ROMS\NES\Mappy_land.nes
+F:\MES\ROMS\NES\Marble_madness.nes
+F:\MES\ROMS\NES\Mario 7-in-1 [p1][!].nes
+F:\MES\ROMS\NES\Mario's_time_machine.nes
+F:\MES\ROMS\NES\marvel's_x-men.nes
+F:\MES\ROMS\NES\Master_chu_&_the_drunkard_hu.nes
+F:\MES\ROMS\NES\Mechanized_attack.nes
+F:\MES\ROMS\NES\Megaman.nes
+F:\MES\ROMS\NES\MEGAMAN2.NES
+F:\MES\ROMS\NES\MEGAMAN3.NES
+F:\MES\ROMS\NES\MEGAMAN4.NES
+F:\MES\ROMS\NES\MEGAMAN5.NES
+F:\MES\ROMS\NES\MEGAMAN6.NES
+F:\MES\ROMS\NES\Mendel_palace.nes
+F:\MES\ROMS\NES\Metal_fighter.nes
+F:\MES\ROMS\NES\Metal_gear.nes
+F:\MES\ROMS\NES\Metal_mech.nes
+F:\MES\ROMS\NES\Metal_storm.nes
+F:\MES\ROMS\NES\Metroid.nes
+F:\MES\ROMS\NES\Micro_machines.nes
+F:\MES\ROMS\NES\mighty_bombjack.nes
+F:\MES\ROMS\NES\Mighty_final_fight.nes
+F:\MES\ROMS\NES\Might_&_magic.nes
+F:\MES\ROMS\NES\Mike_tyson's_punch_out.nes
+F:\MES\ROMS\NES\Millipede.nes
+F:\MES\ROMS\NES\Milon's_secret_castle.nes
+F:\MES\ROMS\NES\Mission_cobra.nes
+F:\MES\ROMS\NES\Mission_impossible.nes
+F:\MES\ROMS\NES\Monopoly.nes
+F:\MES\ROMS\NES\Monster_in_my_pocket.nes
+F:\MES\ROMS\NES\Motor_city_patrol.nes
+F:\MES\ROMS\NES\Ms_pacman.nes
+F:\MES\ROMS\NES\Mule.nes
+F:\MES\ROMS\NES\Muscle.nes
+F:\MES\ROMS\NES\Mystery_quest.nes
+F:\MES\ROMS\NES\M_c_kids.nes
+F:\MES\ROMS\NES\Narc.nes
+F:\MES\ROMS\NES\Nes_open_golf.nes
+F:\MES\ROMS\NES\NFL.nes
+F:\MES\ROMS\NES\Nightmare_on_elm_street.nes
+F:\MES\ROMS\NES\Nightshade.nes
+F:\MES\ROMS\NES\Ninja_gaiden.nes
+F:\MES\ROMS\NES\Ninja_gaiden2.nes
+F:\MES\ROMS\NES\Ninja_gaiden3.nes
+F:\MES\ROMS\NES\Ninja_kid.nes
+F:\MES\ROMS\NES\Nobunaga's_ambition.nes
+F:\MES\ROMS\NES\Nobunga's_ambition2.nes
+F:\MES\ROMS\NES\North_&_south.nes
+F:\MES\ROMS\NES\Operation_wolf.nes
+F:\MES\ROMS\NES\Orb-3d.nes
+F:\MES\ROMS\NES\Othello.nes
+F:\MES\ROMS\NES\Overlord.nes
+F:\MES\ROMS\NES\pacman.nes
+F:\MES\ROMS\NES\Pac_manL.nes
+F:\MES\ROMS\NES\Pac_manU.nes
+F:\MES\ROMS\NES\paperboy.nes
+F:\MES\ROMS\NES\Paperboy2.nes
+F:\MES\ROMS\NES\Peter_pan_&_the_pirates.nes
+F:\MES\ROMS\NES\Phantasy Star 2 (Unl).nes
+F:\MES\ROMS\NES\Phantom_fighter.nes
+F:\MES\ROMS\NES\Pictionary.nes
+F:\MES\ROMS\NES\Pinball.nes
+F:\MES\ROMS\NES\Pinball_quest.nes
+F:\MES\ROMS\NES\Pipe_dream.nes
+F:\MES\ROMS\NES\Pirates.nes
+F:\MES\ROMS\NES\Platoon.nes
+F:\MES\ROMS\NES\play_action_football.nes
+F:\MES\ROMS\NES\po.nes
+F:\MES\ROMS\NES\Pokemon Blue (Unl) [!].nes
+F:\MES\ROMS\NES\Pokemon Gold (Unl) [!].nes
+F:\MES\ROMS\NES\Pokemon Green (Unl) [!].nes
+F:\MES\ROMS\NES\Pokemon Silver (Unl).nes
+F:\MES\ROMS\NES\POPERSIA.NES
+F:\MES\ROMS\NES\Popeye.nes
+F:\MES\ROMS\NES\Pow.nes
+F:\MES\ROMS\NES\Power_blade.nes
+F:\MES\ROMS\NES\Power_blade2.nes
+F:\MES\ROMS\NES\Power_punch2.nes
+F:\MES\ROMS\NES\Predator.nes
+F:\MES\ROMS\NES\princess_tomato.nes
+F:\MES\ROMS\NES\Prince_of_persia.nes
+F:\MES\ROMS\NES\pro.nes
+F:\MES\ROMS\NES\pro_am.nes
+F:\MES\ROMS\NES\pro_am2.nes
+F:\MES\ROMS\NES\Pro_wrestling.nes
+F:\MES\ROMS\NES\Punch_out.nes
+F:\MES\ROMS\NES\Punisher.nes
+F:\MES\ROMS\NES\Puss_N_boot.nes
+F:\MES\ROMS\NES\Puzzle.nes
+F:\MES\ROMS\NES\Pyramid.nes
+F:\MES\ROMS\NES\quantum_fighter.nes
+F:\MES\ROMS\NES\quarterback.nes
+F:\MES\ROMS\NES\Q_bert.nes
+F:\MES\ROMS\NES\Race_america.nes
+F:\MES\ROMS\NES\Racket_attack.nes
+F:\MES\ROMS\NES\Rad_gravity.nes
+F:\MES\ROMS\NES\Rad_racer.nes
+F:\MES\ROMS\NES\Rad_racer2.nes
+F:\MES\ROMS\NES\Raid_2020.nes
+F:\MES\ROMS\NES\Raid_on_bungling_bay.nes
+F:\MES\ROMS\NES\Rambo.nes
+F:\MES\ROMS\NES\Rampage.nes
+F:\MES\ROMS\NES\Rampart.nes
+F:\MES\ROMS\NES\Rbi_baseball.nes
+F:\MES\ROMS\NES\Rbi_baseball2.nes
+F:\MES\ROMS\NES\Rbi_baseball3.nes
+F:\MES\ROMS\NES\Remote_control.nes
+F:\MES\ROMS\NES\Renegade.nes
+F:\MES\ROMS\NES\Ren_&_stimpy_buckaroos.nes
+F:\MES\ROMS\NES\Rescue.nes
+F:\MES\ROMS\NES\rescue_rangers.nes
+F:\MES\ROMS\NES\rescue_rangers2.nes
+F:\MES\ROMS\NES\Ring_king.nes
+F:\MES\ROMS\NES\river_city_ransom.nes
+F:\MES\ROMS\NES\Road Fighter (Japan).nes
+F:\MES\ROMS\NES\Road_blasters.nes
+F:\MES\ROMS\NES\Road_runner.nes
+F:\MES\ROMS\NES\Robin_hood.nes
+F:\MES\ROMS\NES\Robo_cop.nes
+F:\MES\ROMS\NES\Robo_cop2.nes
+F:\MES\ROMS\NES\Robo_cop3.nes
+F:\MES\ROMS\NES\Robo_warrior.nes
+F:\MES\ROMS\NES\Rocketeer.nes
+F:\MES\ROMS\NES\Rockin_kats.nes
+F:\MES\ROMS\NES\Rocky_&_bullwinkle.nes
+F:\MES\ROMS\NES\Rock_n_ball.nes
+F:\MES\ROMS\NES\Roger_clemens.nes
+F:\MES\ROMS\NES\Rollerball.nes
+F:\MES\ROMS\NES\Roller_games.nes
+F:\MES\ROMS\NES\Rolling_thunder.nes
+F:\MES\ROMS\NES\Romance_of_the_three_kingdoms.nes
+F:\MES\ROMS\NES\romance_of_the_three_kingdoms2.nes
+F:\MES\ROMS\NES\Roundball.nes
+F:\MES\ROMS\NES\Rush_n_attack.nes
+F:\MES\ROMS\NES\Rygar.nes
+F:\MES\ROMS\NES\Scat.nes
+F:\MES\ROMS\NES\Section_z.nes
+F:\MES\ROMS\NES\Seicross.nes
+F:\MES\ROMS\NES\Sesame_abc.nes
+F:\MES\ROMS\NES\Shadowgate.nes
+F:\MES\ROMS\NES\Shadow_of_the_ninja.nes
+F:\MES\ROMS\NES\Shatter_hand.nes
+F:\MES\ROMS\NES\Shingen_the_ruler.nes
+F:\MES\ROMS\NES\Shinobi.nes
+F:\MES\ROMS\NES\Side_pocket.nes
+F:\MES\ROMS\NES\Silent_assault.nes
+F:\MES\ROMS\NES\Silent_service.nes
+F:\MES\ROMS\NES\Silk_worm.nes
+F:\MES\ROMS\NES\Silver_surfer.nes
+F:\MES\ROMS\NES\simpson.nes
+F:\MES\ROMS\NES\simpsons_bart_meets_radioactive_man.nes
+F:\MES\ROMS\NES\simpsons_bart_vs_space_mutants.nes
+F:\MES\ROMS\NES\simpsons_bart_vs_the_world.nes
+F:\MES\ROMS\NES\SkateOrDie.nes
+F:\MES\ROMS\NES\SkateOrDie2.nes
+F:\MES\ROMS\NES\Sky_kid.nes
+F:\MES\ROMS\NES\Sky_shark.nes
+F:\MES\ROMS\NES\Slalom.nes
+F:\MES\ROMS\NES\Smario.nes
+F:\MES\ROMS\NES\Smash_tv.nes
+F:\MES\ROMS\NES\Smb3.nes
+F:\MES\ROMS\NES\Snakes_revenge.nes
+F:\MES\ROMS\NES\Snake_rattle_&_roll.nes
+F:\MES\ROMS\NES\Snoopy_silly_sports.nes
+F:\MES\ROMS\NES\SNOWBROS.NES
+F:\MES\ROMS\NES\Snow_brothers.nes
+F:\MES\ROMS\NES\Soccer.nes
+F:\MES\ROMS\NES\Solar_jetman.nes
+F:\MES\ROMS\NES\Solomon's_key.nes
+F:\MES\ROMS\NES\Solstice.nes
+F:\MES\ROMS\NES\space.nes
+F:\MES\ROMS\NES\Spelunker.nes
+F:\MES\ROMS\NES\Spiderman.nes
+F:\MES\ROMS\NES\spirtual_warfare.nes
+F:\MES\ROMS\NES\Spy_hunter.nes
+F:\MES\ROMS\NES\Spy_vs_spy.nes
+F:\MES\ROMS\NES\Sqoon.nes
+F:\MES\ROMS\NES\Stack_up.nes
+F:\MES\ROMS\NES\Starship_hector.nes
+F:\MES\ROMS\NES\Startropics.nes
+F:\MES\ROMS\NES\Star_force.nes
+F:\MES\ROMS\NES\Star_soldier.nes
+F:\MES\ROMS\NES\Star_trek_25th_anniversary.nes
+F:\MES\ROMS\NES\Star_trek_next_generation.nes
+F:\MES\ROMS\NES\Stealth.nes
+F:\MES\ROMS\NES\Stinger.nes
+F:\MES\ROMS\NES\Street_cop.nes
+F:\MES\ROMS\NES\Street_fighter_2010.nes
+F:\MES\ROMS\NES\Strider.nes
+F:\MES\ROMS\NES\Super C (USA).nes
+F:\MES\ROMS\NES\Super Contra II (Unl) [!].nes
+F:\MES\ROMS\NES\SUPERMAN.NES
+F:\MES\ROMS\NES\Super_c.nes
+F:\MES\ROMS\NES\Super_dodge_ball.nes
+F:\MES\ROMS\NES\Super_glove_ball.nes
+F:\MES\ROMS\NES\Super_mario_brothers.nes
+F:\MES\ROMS\NES\Super_mario_brothers2.nes
+F:\MES\ROMS\NES\Super_mario_brothers3.nes
+F:\MES\ROMS\NES\super_mario_brothers_duck_hunt.nes
+F:\MES\ROMS\NES\super_offroad.nes
+F:\MES\ROMS\NES\Super_pitfall.nes
+F:\MES\ROMS\NES\Super_spike_v-ball_world_cup.nes
+F:\MES\ROMS\NES\Super_sprint.nes
+F:\MES\ROMS\NES\Super_spy_hunter.nes
+F:\MES\ROMS\NES\swamp_thing.nes
+F:\MES\ROMS\NES\Swords_&_serpants.nes
+F:\MES\ROMS\NES\Sword_master.nes
+F:\MES\ROMS\NES\T&c_surf_design.nes
+F:\MES\ROMS\NES\Taboo.nes
+F:\MES\ROMS\NES\Tagin'_dragon.nes
+F:\MES\ROMS\NES\Tag_team_pro_wrestling.nes
+F:\MES\ROMS\NES\Talespin.nes
+F:\MES\ROMS\NES\Tecmo_baseball.nes
+F:\MES\ROMS\NES\Tecmo_basketball.nes
+F:\MES\ROMS\NES\Tecmo_bowl.nes
+F:\MES\ROMS\NES\Tecmo_cup_soccer.nes
+F:\MES\ROMS\NES\Tecmo_super_bowl.nes
+F:\MES\ROMS\NES\Tecmo_wrestling.nes
+F:\MES\ROMS\NES\Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!p].nes
+F:\MES\ROMS\NES\Teenage_mutant_ninja_turtles.nes
+F:\MES\ROMS\NES\Teenage_mutant_ninja_turtles2.nes
+F:\MES\ROMS\NES\Teenage_mutant_ninja_turtles3.nes
+F:\MES\ROMS\NES\Tennis.nes
+F:\MES\ROMS\NES\Terminator_2_judgement_day.nes
+F:\MES\ROMS\NES\Terra_cresta.nes
+F:\MES\ROMS\NES\Tetris-t.nes
+F:\MES\ROMS\NES\Tetris.nes
+F:\MES\ROMS\NES\Tetris2.nes
+F:\MES\ROMS\NES\three_stooges.nes
+F:\MES\ROMS\NES\thrilla's_safari.nes
+F:\MES\ROMS\NES\Thunder_&_lightning.nes
+F:\MES\ROMS\NES\Tiger_heli.nes
+F:\MES\ROMS\NES\Time_lord.nes
+F:\MES\ROMS\NES\Tiny Toon Adventures (U) [!].nes
+F:\MES\ROMS\NES\Tiny_toons_cartoon_workshop.nes
+F:\MES\ROMS\NES\Tiny_toon_adventures.nes
+F:\MES\ROMS\NES\Tiny_toon_adventures2.nes
+F:\MES\ROMS\NES\TMNT.NES
+F:\MES\ROMS\NES\Tmnt2.nes
+F:\MES\ROMS\NES\Tmnt3.nes
+F:\MES\ROMS\NES\Toki.nes
+F:\MES\ROMS\NES\Tombs_and_treasure.nes
+F:\MES\ROMS\NES\Tom_&_jerry.nes
+F:\MES\ROMS\NES\Toobin.nes
+F:\MES\ROMS\NES\Top_gun.nes
+F:\MES\ROMS\NES\Top_gun2.nes
+F:\MES\ROMS\NES\Top_players_tennis.nes
+F:\MES\ROMS\NES\Totally_rad.nes
+F:\MES\ROMS\NES\Total_recall.nes
+F:\MES\ROMS\NES\Touch_downd_fever.nes
+F:\MES\ROMS\NES\Toxic_crusader.nes
+F:\MES\ROMS\NES\Track_&_field.nes
+F:\MES\ROMS\NES\Track_&_field2.nes
+F:\MES\ROMS\NES\Trog.nes
+F:\MES\ROMS\NES\Trojan.nes
+F:\MES\ROMS\NES\Trolls_on_treasure_island.nes
+F:\MES\ROMS\NES\Twin_cobra.nes
+F:\MES\ROMS\NES\Ultimate_air_combat.nes
+F:\MES\ROMS\NES\Ultimate_basketball.nes
+F:\MES\ROMS\NES\Ultimate_stuntman.nes
+F:\MES\ROMS\NES\Ultima_exodus.nes
+F:\MES\ROMS\NES\Ultima_quest_for_the_avatar.nes
+F:\MES\ROMS\NES\Ultima_war_of_destiny.nes
+F:\MES\ROMS\NES\Ultmate_league_soccer.nes
+F:\MES\ROMS\NES\uncharted_waters.nes
+F:\MES\ROMS\NES\Uninvited.nes
+F:\MES\ROMS\NES\Untouchables.nes
+F:\MES\ROMS\NES\Urban_champion.nes
+F:\MES\ROMS\NES\Vegas_dreams.nes
+F:\MES\ROMS\NES\Venice_beach_volleyball.nes
+F:\MES\ROMS\NES\Vice_project_doom.nes
+F:\MES\ROMS\NES\Vindicators.nes
+F:\MES\ROMS\NES\Volleyball.nes
+F:\MES\ROMS\NES\Wacky_races.nes
+F:\MES\ROMS\NES\Wall_street_kid.nes
+F:\MES\ROMS\NES\Wario's_world.nes
+F:\MES\ROMS\NES\Wayne's_world.nes
+F:\MES\ROMS\NES\Wayne_gretzky.nes
+F:\MES\ROMS\NES\Werewolf.nes
+F:\MES\ROMS\NES\Wheel_of_fortune.nes
+F:\MES\ROMS\NES\Wheel_of_fortune_family_edition.nes
+F:\MES\ROMS\NES\Wheel_of_fortune_starring_vanna_white.nes
+F:\MES\ROMS\NES\where's_waldo.nes
+F:\MES\ROMS\NES\Whomp_em.nes
+F:\MES\ROMS\NES\who_framed_roger_rabbit.nes
+F:\MES\ROMS\NES\Wild_gunman.nes
+F:\MES\ROMS\NES\Willow.nes
+F:\MES\ROMS\NES\Winter_games.nes
+F:\MES\ROMS\NES\Win_lose_or_draw.nes
+F:\MES\ROMS\NES\Wizardry.nes
+F:\MES\ROMS\NES\Wizardry2.nes
+F:\MES\ROMS\NES\Wizards_n_warriors.nes
+F:\MES\ROMS\NES\Wizards_n_warriors2.nes
+F:\MES\ROMS\NES\wizards_n_warriors3.nes
+F:\MES\ROMS\NES\Wolverine.nes
+F:\MES\ROMS\NES\World_championship_wrestling.nes
+F:\MES\ROMS\NES\World_cup_soccer.nes
+F:\MES\ROMS\NES\World_games.nes
+F:\MES\ROMS\NES\Wrath_of_the_black_manta.nes
+F:\MES\ROMS\NES\Wrecking_crew.nes
+F:\MES\ROMS\NES\Wrestlemania.nes
+F:\MES\ROMS\NES\Wrestlemania_challenge.nes
+F:\MES\ROMS\NES\Wrestlemania_steel_cage_challenge.nes
+F:\MES\ROMS\NES\Wurm.nes
+F:\MES\ROMS\NES\Xenophobe.nes
+F:\MES\ROMS\NES\Xevious.nes
+F:\MES\ROMS\NES\Xexyz.nes
+F:\MES\ROMS\NES\Yo_noid.nes
+F:\MES\ROMS\NES\Zelda.nes
+F:\MES\ROMS\NES\zelda2.nes
+F:\MES\ROMS\NintendoDS\0004 - Feel the Magic - XY XX.nds
+F:\MES\ROMS\NintendoDS\0216 - Mario & Luigi - Partners in Time.nds
+F:\MES\ROMS\NintendoDS\0561 - Harvest Moon DS.nds
+F:\MES\ROMS\NintendoDS\0613 - Children of Mana.nds
+F:\MES\ROMS\NintendoDS\0614 - Magical Starsign.nds
+F:\MES\ROMS\NintendoDS\1181 - Hoshigami - Ruining Blue Earth Remix.nds
+F:\MES\ROMS\NintendoDS\1331 - Heroes of Mana.nds
+F:\MES\ROMS\NintendoDS\2107 - Final Fantasy Crystal Chronicles - Ring of Fates.nds
+F:\MES\ROMS\NintendoDS\2305 - Drone Tactics.nds
+F:\MES\ROMS\NintendoDS\2495 - Final Fantasy IV.nds
+F:\MES\ROMS\NintendoDS\2609 - Harvest Moon DS - Island of Happiness.nds
+F:\MES\ROMS\NintendoDS\2640 - Lock's Quest.nds
+F:\MES\ROMS\NintendoDS\2696 - Kirby - Super Star Ultra.nds
+F:\MES\ROMS\NintendoDS\3423 - Blue Dragon Plus.nds
+F:\MES\ROMS\NintendoDS\3574 - Final Fantasy Crystal Chronicles - Echoes of Time.nds
+F:\MES\ROMS\NintendoDS\3652 - Dark Spire, The.nds
+F:\MES\ROMS\NintendoDS\3728 - Super Robot Taisen OG Saga - Endless Frontier.nds
+F:\MES\ROMS\NintendoDS\3834 - Knights in the Nightmare (U)(PYRiDiA).nds
+F:\MES\ROMS\NintendoDS\4150 - Harvest Moon - Frantic Farming.nds
+F:\MES\ROMS\NintendoDS\4225 - Kingdom Hearts - 358-2 Days.nds
+F:\MES\ROMS\NintendoDS\4439 - Harvest Moon DS - Sunshine Islands.nds
+F:\MES\ROMS\NintendoDS\4440 - Star Wars - Battlefront - Elite Squadron.nds
+F:\MES\ROMS\NintendoDS\4527 - Legend of Zelda - Spirit Tracks, The.nds
+F:\MES\ROMS\NintendoDS\4722 - Ragnarok DS.nds
+F:\MES\ROMS\NintendoDS\4788 - Pokemon - SoulSilver Version.nds
+F:\MES\ROMS\NintendoDS\4804 - Infinite Space.nds
+F:\MES\ROMS\NintendoDS\4821 - Shin Megami Tensei - Strange Journey.nds
+F:\MES\ROMS\NintendoDS\4956 - Blue Dragon - Awakened Shadow.nds
+F:\MES\ROMS\NintendoDS\5067 - Dragon Ball - Origins 2.nds
+F:\MES\ROMS\NintendoDS\999 9 Hours, 9 Persons, 9 Doors (U).nds
+F:\MES\ROMS\NintendoDS\Advance Wars Days of Ruin.nds
+F:\MES\ROMS\NintendoDS\Disgaea DS.nds
+F:\MES\ROMS\NintendoDS\Dragon Ball Z - Attack of the Saiyans.nds
+F:\MES\ROMS\NintendoDS\Dragon Ball Z - Supersonic Warriors 2 .nds
+F:\MES\ROMS\NintendoDS\Etrian Odissey.nds
+F:\MES\ROMS\NintendoDS\Etrian Odyssey II - Heroes of Lagaard.nds
+F:\MES\ROMS\NintendoDS\Fighting Fantasy - The Warlock of Firetop Mountain.nds
+F:\MES\ROMS\NintendoDS\Final Fantasy Crystal Chronicles Rings Of Fate.nds
+F:\MES\ROMS\NintendoDS\Final Fantasy III.nds
+F:\MES\ROMS\NintendoDS\Final Fantasy Tactics A2 - Grimoire of the Rift.nds
+F:\MES\ROMS\NintendoDS\Golden Sun Dark Dawn (U).nds
+F:\MES\ROMS\NintendoDS\Lufia - Curse of the Sinistrals (U) Patched.nds
+F:\MES\ROMS\NintendoDS\Lunar - Dragon Song.nds
+F:\MES\ROMS\NintendoDS\Mario & Luigi - Bowser's Inside Story.nds
+F:\MES\ROMS\NintendoDS\MegaMan Battle Network 5 - Double Team DS.nds
+F:\MES\ROMS\NintendoDS\Nostalgia.nds
+F:\MES\ROMS\NintendoDS\PkmnB2_apfix.nds
+F:\MES\ROMS\NintendoDS\Pokemon Black (U).nds
+F:\MES\ROMS\NintendoDS\Pokémon Edición Blanca (E)[FIX].nds
+F:\MES\ROMS\NintendoDS\Rondo of Swords.nds
+F:\MES\ROMS\NintendoDS\Sands of Destruction.nds
+F:\MES\ROMS\NintendoDS\Shin Megami Tensei - Devil Survivor.nds
+F:\MES\ROMS\NintendoDS\Star Fox Command.nds
+F:\MES\ROMS\NintendoDS\Suikoden - Tierkreis.nds
+F:\MES\ROMS\NintendoDS\Super Princess Peach.nds
+F:\MES\ROMS\NintendoDS\Teenage Mutant Ninja Turtles 3 - Mutant Nightmare.nds
+F:\MES\ROMS\NintendoDS\Time Hollow.nds
+F:\MES\ROMS\NintendoDS\Touch The Dead.nds
+F:\MES\ROMS\NintendoDS\Valkyrie Profile - Covenant of the Plume.nds
+F:\MES\ROMS\NintendoDS\Worms Open Warfare 2 arm7.nds
+F:\MES\ROMS\NintendoDS\Yoshis Island.NDS
+F:\MES\ROMS\PS1\Chrono Cross
+F:\MES\ROMS\PS1\FastRecovery
+F:\MES\ROMS\PS1\FF5.jpg
+F:\MES\ROMS\PS1\FF5ico.jpg
+F:\MES\ROMS\PS1\FF6.jpg
+F:\MES\ROMS\PS1\FF6ico.jpg
+F:\MES\ROMS\PS1\Ffchronicles.jpg
+F:\MES\ROMS\PS1\FfchroniclesICO.jpg
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions
+F:\MES\ROMS\PS1\Final Fantasy VIII
+F:\MES\ROMS\PS1\FinalFantasyOrigins_BAJAR
+F:\MES\ROMS\PS1\FinalFantasyV
+F:\MES\ROMS\PS1\FinalFantasyVI
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger
+F:\MES\ROMS\PS1\F_F-5.iso
+F:\MES\ROMS\PS1\F_F-6.iso
+F:\MES\ROMS\PS1\Jet Moto 3
+F:\MES\ROMS\PS1\MasterBoy
+F:\MES\ROMS\PS1\Parasite eve
+F:\MES\ROMS\PS1\RE3 Nemesis
+F:\MES\ROMS\PS1\retro.txt
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 1).bin
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 1).cue
+F:\MES\ROMS\PS1\Chrono Cross\CHRONO CROSS (USA) (DISC 1)ISO.TOC
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 2).bin
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 2).cue
+F:\MES\ROMS\PS1\Chrono Cross\imgccico.jpg
+F:\MES\ROMS\PS1\Chrono Cross\imgChronocrossbox.jpg
+F:\MES\ROMS\PS1\Chrono Cross\SLUS01041
+F:\MES\ROMS\PS1\Chrono Cross\SLUS01041\EBOOT.PBP
+F:\MES\ROMS\PS1\FastRecovery\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\DOCUMENT.DAT
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\KEYS.BIN
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\LICENSE
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\[PSX-PSP] Final Fantasy 7 (Re-Release).torrent
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\LICENSE\UP9000-NPUJ94163_00-0000000000000001.rif
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\fft.jpg
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\fftico.jpg
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\rnt-fflw
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\rnt-fflw.iso
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\rnt-fflw\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy VIII\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_1.ccd
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_1.img
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_2.ccd
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_2.img
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_3.ccd
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_3.img
+F:\MES\ROMS\PS1\Final Fantasy VIII\imgFFVIII.jpg
+F:\MES\ROMS\PS1\Final Fantasy VIII\imgFFVIIIico.jpg
+F:\MES\ROMS\PS1\FinalFantasyV\EBOOT.PBP
+F:\MES\ROMS\PS1\FinalFantasyVI\EBOOT.PBP
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\Final_Fantasy_Anthology.jpg
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa1.bin
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa1.cue
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa1.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa2.bin
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa2.cue
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa2.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa.nfo
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.rar
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r08
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r09
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.rar
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\ChronoTrigger.jpg
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\ChronoTriggerico.jpg
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\FinalFantasyChronicles_ChronoTrigger
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc1.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc2.bin
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc2.cue
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc2.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\PR-FFC2ISO.TOC
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\FinalFantasyChronicles_ChronoTrigger\EBOOT.PBP
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc.nfo
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r08
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r09
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r10
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r11
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.rar
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r08
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r09
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r10
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r11
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r12
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.rar
+F:\MES\ROMS\PS1\Jet Moto 3\EBOOT.PBP
+F:\MES\ROMS\PS1\MasterBoy\Kernel version
+F:\MES\ROMS\PS1\MasterBoy\MasterBoy.pdf
+F:\MES\ROMS\PS1\MasterBoy\PSP
+F:\MES\ROMS\PS1\MasterBoy\README.TXT
+F:\MES\ROMS\PS1\MasterBoy\Kernel version\EBOOT.PBP
+F:\MES\ROMS\PS1\MasterBoy\Kernel version\README.TXT
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\DEFAULT.INI
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\EBOOT.PBP
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\logo
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Music
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\palettes.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\plugins.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Roms GBC
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Roms SMS
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\ASTERIX.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\BALLOON KID.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\MARIO LAND.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\MARIOLAND2.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\logo\neoflash.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Music\music.zip
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\back.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\font.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\glow.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\icons.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\numbers.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Glassy
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Glassy\back.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Glassy\icons.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\back.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\font.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\font.oft.bak
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\glow.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\glow.oft.bak
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\icons.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\numbers.PNG
+F:\MES\ROMS\PS1\Parasite eve\EBOOT.PBP
+F:\MES\ROMS\PS1\RE3 Nemesis\DOCUMENT.DAT
+F:\MES\ROMS\PS1\RE3 Nemesis\EBOOT.PBP
+F:\MES\ROMS\PS1\RE3 Nemesis\KEYS.BIN
+F:\MES\ROMS\PSP\Castlevania Dracula X Chronicles - (Eur).cso
+F:\MES\ROMS\PSP\Crash Bandicoot tag Team Racing.cso
+F:\MES\ROMS\PSP\FFCC.cso
+F:\MES\ROMS\PSP\GOD OF WAR -GHOST OF SPARTA.cso
+F:\MES\ROMS\PSP\Metal Slug Anthology.cso
+F:\MES\ROMS\PSP\Parasite eve The 3rd Birthday Traducido.cso
+F:\MES\ROMS\PSP\PSP
+F:\MES\ROMS\PSP\Silent_Hill_Shattered_Memories Usa-Fix.cso
+F:\MES\ROMS\PSP\PSP\GAME
+F:\MES\ROMS\PSP\PSP\GAME\FinalFantasyType0
+F:\MES\ROMS\SEGA\BLASTER2.SMD
+F:\MES\ROMS\SEGA\BOMBERMA.SMD
+F:\MES\ROMS\SEGA\GAING.SMD
+F:\MES\ROMS\SEGA\GUNSTAR.SMD
+F:\MES\ROMS\SEGA\PENGO.SMD
+F:\MES\ROMS\SEGA\PHANSTAR.SMS
+F:\MES\ROMS\SEGA\PRINCE.SMD
+F:\MES\ROMS\SEGA\SNOWBROS.SMD
+F:\MES\ROMS\SEGA\Toejam & Earl in Panic on Funkotron.smd
+F:\MES\ROMS\SEGA\TOEJAM_A.BIN
+F:\MES\ROMS\SEGA\TOKI.SMD
+F:\MES\ROMS\SNES\3 Ninjas Kick Back
+F:\MES\ROMS\SNES\7th Saga 1
+F:\MES\ROMS\SNES\7th Saga 2
+F:\MES\ROMS\SNES\a-plumber-for-all-seasons_2021-11-22
+F:\MES\ROMS\SNES\AAAHH! Real Monsters
+F:\MES\ROMS\SNES\ABC Monday Night Football
+F:\MES\ROMS\SNES\Accele Brid 1
+F:\MES\ROMS\SNES\Acrobat Mission
+F:\MES\ROMS\SNES\Action Pachio
+F:\MES\ROMS\SNES\ActRaiser 1
+F:\MES\ROMS\SNES\ActRaiser 2
+F:\MES\ROMS\SNES\AD&D - Eye of the Beholder
+F:\MES\ROMS\SNES\Addams Family 1
+F:\MES\ROMS\SNES\Addams Family 2
+F:\MES\ROMS\SNES\Addams Family Values
+F:\MES\ROMS\SNES\Adventures of Rocky & Bullwinkle
+F:\MES\ROMS\SNES\Aero Fighters
+F:\MES\ROMS\SNES\Aero the Acro-Bat 1
+F:\MES\ROMS\SNES\Aero the Acro-Bat 2
+F:\MES\ROMS\SNES\Aerobiz
+F:\MES\ROMS\SNES\Aerobiz Supersonic
+F:\MES\ROMS\SNES\Air Cavalry
+F:\MES\ROMS\SNES\Air Strike Patrol
+F:\MES\ROMS\SNES\Aladdin
+F:\MES\ROMS\SNES\Alfred Chicken
+F:\MES\ROMS\SNES\Alien 3.smc
+F:\MES\ROMS\SNES\Alien Vs Predator.smc
+F:\MES\ROMS\SNES\American Gladiators
+F:\MES\ROMS\SNES\An American Tale - Fievel Goes West
+F:\MES\ROMS\SNES\Anarchy 2
+F:\MES\ROMS\SNES\Animaniacs.smc
+F:\MES\ROMS\SNES\AP4AS
+F:\MES\ROMS\SNES\Arcana
+F:\MES\ROMS\SNES\Ardy Lightfoot
+F:\MES\ROMS\SNES\Arkanoid.smc
+F:\MES\ROMS\SNES\Art of Fighting
+F:\MES\ROMS\SNES\Axelay
+F:\MES\ROMS\SNES\A_Plumber_For_All_Seasons_2021-11-22.zip
+F:\MES\ROMS\SNES\Ballz 3D
+F:\MES\ROMS\SNES\Barbie Super Model
+F:\MES\ROMS\SNES\Barbie Vacation Adventure
+F:\MES\ROMS\SNES\Barkley Shut Up and Jam
+F:\MES\ROMS\SNES\Barts Nightmare.smc
+F:\MES\ROMS\SNES\Bass Masters Classic
+F:\MES\ROMS\SNES\Bass Masters Classic Pro Edition
+F:\MES\ROMS\SNES\Bassins' Black Bass Fishing with Hank Parker
+F:\MES\ROMS\SNES\Batman & Robin.smc
+F:\MES\ROMS\SNES\Batman Forever.smc
+F:\MES\ROMS\SNES\Batman Returns.smc
+F:\MES\ROMS\SNES\Batman Revenge of the Joker.smc
+F:\MES\ROMS\SNES\Battle Blaze
+F:\MES\ROMS\SNES\Battle Cars
+F:\MES\ROMS\SNES\Battle Clash
+F:\MES\ROMS\SNES\Battle Grand Prix
+F:\MES\ROMS\SNES\Battletoads & Double Dragon - The Ultimate Team.smc
+F:\MES\ROMS\SNES\Battletoads - Battlemaniacs.smc
+F:\MES\ROMS\SNES\Battletoads in Battlemaniacs (U) [!].smc
+F:\MES\ROMS\SNES\Bazooka Blitzkrieg
+F:\MES\ROMS\SNES\Beauty and the Beast
+F:\MES\ROMS\SNES\Beavis and Butthead
+F:\MES\ROMS\SNES\Bebe's Kids
+F:\MES\ROMS\SNES\Beethoven's 2nd
+F:\MES\ROMS\SNES\Best of the Best
+F:\MES\ROMS\SNES\Big Sky Trooper
+F:\MES\ROMS\SNES\Biker Mice From Mars
+F:\MES\ROMS\SNES\Bill Laimbeer's Combat Basketball
+F:\MES\ROMS\SNES\Bill Walsh College Football
+F:\MES\ROMS\SNES\Bio Metal
+F:\MES\ROMS\SNES\Black Thorne
+F:\MES\ROMS\SNES\Blaze On
+F:\MES\ROMS\SNES\Bobby's World
+F:\MES\ROMS\SNES\Bomberman 1.smc
+F:\MES\ROMS\SNES\Bomberman 2.smc
+F:\MES\ROMS\SNES\Bomberman 3.smc
+F:\MES\ROMS\SNES\Bomberman 4.smc
+F:\MES\ROMS\SNES\Bomberman 5.smc
+F:\MES\ROMS\SNES\Bonkers
+F:\MES\ROMS\SNES\Boogerman - A Pick and Flick Adventure
+F:\MES\ROMS\SNES\Boxing Legends of the Ring
+F:\MES\ROMS\SNES\Brain Lord
+F:\MES\ROMS\SNES\Bram Stoker's Dracula
+F:\MES\ROMS\SNES\Brandish
+F:\MES\ROMS\SNES\Brawl Brothers
+F:\MES\ROMS\SNES\BreakThru!
+F:\MES\ROMS\SNES\Breath of Fire 1.smc
+F:\MES\ROMS\SNES\Breath of Fire 2.smc
+F:\MES\ROMS\SNES\Breath of Fire.smc
+F:\MES\ROMS\SNES\breath2.smc
+F:\MES\ROMS\SNES\Brett Hull Hockey
+F:\MES\ROMS\SNES\Brett Hull Hockey 95
+F:\MES\ROMS\SNES\Bronkie Health Hero
+F:\MES\ROMS\SNES\Brunswick Bowling
+F:\MES\ROMS\SNES\Brutal Paws Of Fury
+F:\MES\ROMS\SNES\btdd.smc
+F:\MES\ROMS\SNES\Bubsy 2
+F:\MES\ROMS\SNES\Bubsy Bobcat
+F:\MES\ROMS\SNES\Bugs Bunny.smc
+F:\MES\ROMS\SNES\Bulls Vs. Blazers
+F:\MES\ROMS\SNES\Bust-a-Move
+F:\MES\ROMS\SNES\Cacoma Knight
+F:\MES\ROMS\SNES\Cal Ripken's Baseball
+F:\MES\ROMS\SNES\California Games 2
+F:\MES\ROMS\SNES\Cannondale Cup
+F:\MES\ROMS\SNES\Capcom MVP Football
+F:\MES\ROMS\SNES\Capcom's Soccer Shootout
+F:\MES\ROMS\SNES\Captain America & the Avengers
+F:\MES\ROMS\SNES\Captain Commando
+F:\MES\ROMS\SNES\Captain Novolin
+F:\MES\ROMS\SNES\Carrier Aces
+F:\MES\ROMS\SNES\Casper
+F:\MES\ROMS\SNES\castle5.smc
+F:\MES\ROMS\SNES\Castlevania 4.smc
+F:\MES\ROMS\SNES\Castlevania 5.smc
+F:\MES\ROMS\SNES\Castlevania Dracula X.smc
+F:\MES\ROMS\SNES\Champions World Class Soccer
+F:\MES\ROMS\SNES\Championship Pool
+F:\MES\ROMS\SNES\Championship Soccer '94
+F:\MES\ROMS\SNES\Chavez Boxing
+F:\MES\ROMS\SNES\Chavez Boxing 2
+F:\MES\ROMS\SNES\Chess Master
+F:\MES\ROMS\SNES\Chester Cheetah - Too Cool to Fool
+F:\MES\ROMS\SNES\Chester Cheetah - Wild Wild Quest
+F:\MES\ROMS\SNES\Choplifter 3
+F:\MES\ROMS\SNES\Chrono Trigger.smc
+F:\MES\ROMS\SNES\Chuck Rock
+F:\MES\ROMS\SNES\Civilization
+F:\MES\ROMS\SNES\Clay Fighter 1.smc
+F:\MES\ROMS\SNES\Clay Fighter 2.smc
+F:\MES\ROMS\SNES\Claymates
+F:\MES\ROMS\SNES\Cliff Hanger
+F:\MES\ROMS\SNES\Clue
+F:\MES\ROMS\SNES\College Slam Basketball
+F:\MES\ROMS\SNES\Columns
+F:\MES\ROMS\SNES\Combatribes
+F:\MES\ROMS\SNES\Congo's Caper
+F:\MES\ROMS\SNES\Contra 3 - The Alien Wars.smc
+F:\MES\ROMS\SNES\Contra III - The Alien Wars (U) [!].smc
+F:\MES\ROMS\SNES\Cool Spot
+F:\MES\ROMS\SNES\Cool World
+F:\MES\ROMS\SNES\Cutthroat Island
+F:\MES\ROMS\SNES\Cybernator - With Sound Test
+F:\MES\ROMS\SNES\D Ballz 2 Jap
+F:\MES\ROMS\SNES\D Ballz 3 Jap
+F:\MES\ROMS\SNES\D-Force
+F:\MES\ROMS\SNES\Daffy Duck - The Marvin Missions.smc
+F:\MES\ROMS\SNES\Darius Twin
+F:\MES\ROMS\SNES\David Crane's Amazing Tennis
+F:\MES\ROMS\SNES\Demolition Man
+F:\MES\ROMS\SNES\Demon's Crest (E).smc
+F:\MES\ROMS\SNES\Demon's Crest.smc
+F:\MES\ROMS\SNES\Dennis the Menace
+F:\MES\ROMS\SNES\Desert Strike - Return to the Gulf
+F:\MES\ROMS\SNES\Destero Porno
+F:\MES\ROMS\SNES\Dig and Spike Vollyball
+F:\MES\ROMS\SNES\Dino City
+F:\MES\ROMS\SNES\Dirt Trax FX
+F:\MES\ROMS\SNES\Dkc.smc
+F:\MES\ROMS\SNES\Dkc2.smc
+F:\MES\ROMS\SNES\Dkc3.smc
+F:\MES\ROMS\SNES\Dodgeball
+F:\MES\ROMS\SNES\Donald Duck -  Maui Mallard in Cold Shadow
+F:\MES\ROMS\SNES\Donkey Kong Country 1.smc
+F:\MES\ROMS\SNES\Donkey Kong Country 2 - Diddy's Kong Quest.smc
+F:\MES\ROMS\SNES\Donkey Kong Country 3 - Dixie Kong's Double Trouble.smc
+F:\MES\ROMS\SNES\Doom Troopers
+F:\MES\ROMS\SNES\Doomsday Warrior
+F:\MES\ROMS\SNES\Double Dragon 2.smc
+F:\MES\ROMS\SNES\Double Dragon 5 - The Shadow Falls.smc
+F:\MES\ROMS\SNES\Dragon - The Bruce Lee Story
+F:\MES\ROMS\SNES\Dragon View
+F:\MES\ROMS\SNES\Dragon's Lair
+F:\MES\ROMS\SNES\Drakkhen
+F:\MES\ROMS\SNES\Dream TV
+F:\MES\ROMS\SNES\Dungeon Master
+F:\MES\ROMS\SNES\E.V.O. Search for Eden
+F:\MES\ROMS\SNES\EA College Football 97'
+F:\MES\ROMS\SNES\Earthbound.smc
+F:\MES\ROMS\SNES\Earthworm Jim (E) [!].smc
+F:\MES\ROMS\SNES\Earthworm Jim 1.smc
+F:\MES\ROMS\SNES\Earthworm Jim 2.smc
+F:\MES\ROMS\SNES\Eek! the Cat
+F:\MES\ROMS\SNES\Elite Soccer
+F:\MES\ROMS\SNES\Emmitt Smith Football
+F:\MES\ROMS\SNES\Equinox
+F:\MES\ROMS\SNES\ESPN Baseball Tonight
+F:\MES\ROMS\SNES\ESPN Hockey Night
+F:\MES\ROMS\SNES\ESPN Speed World
+F:\MES\ROMS\SNES\ESPN Sunday Night NFL
+F:\MES\ROMS\SNES\Exertainment Mountain Bike Rally
+F:\MES\ROMS\SNES\F-Zero 1.smc
+F:\MES\ROMS\SNES\F-Zero 2 - Grand Prix.smc
+F:\MES\ROMS\SNES\F-Zero.smc
+F:\MES\ROMS\SNES\F1 Pole Position
+F:\MES\ROMS\SNES\F1 Roc 1 - Race of Champions
+F:\MES\ROMS\SNES\F1 Roc 2 - Race of Champions
+F:\MES\ROMS\SNES\Faceball
+F:\MES\ROMS\SNES\Family Dog
+F:\MES\ROMS\SNES\Family Fued
+F:\MES\ROMS\SNES\Fatal Fury 1.smc
+F:\MES\ROMS\SNES\Fatal Fury 2.smc
+F:\MES\ROMS\SNES\Fatal Fury Special.smc
+F:\MES\ROMS\SNES\ff2.smc
+F:\MES\ROMS\SNES\FF4.SMC
+F:\MES\ROMS\SNES\ff5.smc
+F:\MES\ROMS\SNES\Fifa 95
+F:\MES\ROMS\SNES\Fifa 96
+F:\MES\ROMS\SNES\Fifa 97
+F:\MES\ROMS\SNES\FIFA 98
+F:\MES\ROMS\SNES\FIFA International Soccer.smc
+F:\MES\ROMS\SNES\Fighter's History.smc
+F:\MES\ROMS\SNES\Final Fantasy (Mystic Quest).smc
+F:\MES\ROMS\SNES\Final Fantasy 1 Mystic Quest.smc
+F:\MES\ROMS\SNES\Final Fantasy 2.smc
+F:\MES\ROMS\SNES\Final Fantasy 3.smc
+F:\MES\ROMS\SNES\Final Fantasy 4.smc
+F:\MES\ROMS\SNES\Final Fantasy 5.smc
+F:\MES\ROMS\SNES\Final Fantasy 6.smc
+F:\MES\ROMS\SNES\Final Fantasy II (U) (V1.0) [!].smc
+F:\MES\ROMS\SNES\Final Fantasy II.smc
+F:\MES\ROMS\SNES\Final Fantasy III (U) (V1.0) (Bugfix Edition Hack).smc
+F:\MES\ROMS\SNES\Final Fantasy V (J) [b1].smc
+F:\MES\ROMS\SNES\Final Fantasy VI (J) [T+Eng1.2_RPGOne][h1] (All Fixes).smc
+F:\MES\ROMS\SNES\Final Fight 3.smc
+F:\MES\ROMS\SNES\Final Fight Guy
+F:\MES\ROMS\SNES\Fire Striker
+F:\MES\ROMS\SNES\Firepower 2000
+F:\MES\ROMS\SNES\First Samurai
+F:\MES\ROMS\SNES\Flashback
+F:\MES\ROMS\SNES\Football Fury
+F:\MES\ROMS\SNES\Foreman For Real
+F:\MES\ROMS\SNES\Frank Thomas' Big Hurt Baseball
+F:\MES\ROMS\SNES\Frankenstein
+F:\MES\ROMS\SNES\Frantic Flea
+F:\MES\ROMS\SNES\Full Throttle Racing
+F:\MES\ROMS\SNES\Fun 'N Games
+F:\MES\ROMS\SNES\Fuzzy Shooting
+F:\MES\ROMS\SNES\Fzero2.smc
+F:\MES\ROMS\SNES\Gemfire
+F:\MES\ROMS\SNES\Genghis Khan 1
+F:\MES\ROMS\SNES\Genghis Khan 2 - Clan of the Grey Wolf
+F:\MES\ROMS\SNES\George Foreman K.O. Boxing
+F:\MES\ROMS\SNES\Ghoul Patrol
+F:\MES\ROMS\SNES\Gods
+F:\MES\ROMS\SNES\Goof Troop
+F:\MES\ROMS\SNES\GP-1
+F:\MES\ROMS\SNES\GP-1 Part 2
+F:\MES\ROMS\SNES\Gradius 3.smc
+F:\MES\ROMS\SNES\Gradius III (U) [!].smc
+F:\MES\ROMS\SNES\Great Waldo Search
+F:\MES\ROMS\SNES\Great Waldo Search - Copy
+F:\MES\ROMS\SNES\GS Mikami jap
+F:\MES\ROMS\SNES\GS Mikami jap - Copy
+F:\MES\ROMS\SNES\Gun Force
+F:\MES\ROMS\SNES\Hagane
+F:\MES\ROMS\SNES\Hal's Hole in One Golf
+F:\MES\ROMS\SNES\Hardball 3
+F:\MES\ROMS\SNES\Harley's Humongous Adventure
+F:\MES\ROMS\SNES\Harvest Moon
+F:\MES\ROMS\SNES\Head-On Soccer
+F:\MES\ROMS\SNES\Hit the Ice
+F:\MES\ROMS\SNES\Home Alone 1
+F:\MES\ROMS\SNES\Home Alone 2
+F:\MES\ROMS\SNES\Home Improvement
+F:\MES\ROMS\SNES\Hook
+F:\MES\ROMS\SNES\Hot Teens Slideshow
+F:\MES\ROMS\SNES\Hunt for Red October
+F:\MES\ROMS\SNES\Hyper V-Ball
+F:\MES\ROMS\SNES\Hyper Zone
+F:\MES\ROMS\SNES\Ignition Factor
+F:\MES\ROMS\SNES\Illusion of Gaia
+F:\MES\ROMS\SNES\Imperium
+F:\MES\ROMS\SNES\Incantation
+F:\MES\ROMS\SNES\Indiana Jones - Trilogy
+F:\MES\ROMS\SNES\Inindo
+F:\MES\ROMS\SNES\Inspector Gadget
+F:\MES\ROMS\SNES\International Superstar Soccer Deluxe (E).smc
+F:\MES\ROMS\SNES\International Superstar Soccer Deluxe.smc
+F:\MES\ROMS\SNES\International Tennis Tour
+F:\MES\ROMS\SNES\International Tennis Tour - Copy
+F:\MES\ROMS\SNES\Irem Skins Game
+F:\MES\ROMS\SNES\Irem Skins Game - Copy
+F:\MES\ROMS\SNES\Itchy & Scratchy
+F:\MES\ROMS\SNES\Itchy & Scratchy - Copy
+F:\MES\ROMS\SNES\Izzy's Quest for the Olympic Rings
+F:\MES\ROMS\SNES\Izzy's Quest for the Olympic Rings - Copy
+F:\MES\ROMS\SNES\Jack Nicklaus Golf
+F:\MES\ROMS\SNES\Jack Nicklaus Golf - Copy
+F:\MES\ROMS\SNES\James Bond Jr
+F:\MES\ROMS\SNES\Jammit
+F:\MES\ROMS\SNES\Jeopardy! - Deluxe Edition
+F:\MES\ROMS\SNES\Jeopardy! - Sports Edition
+F:\MES\ROMS\SNES\Jetsons.smc
+F:\MES\ROMS\SNES\Jim Powers - The Lost Dimension 3D
+F:\MES\ROMS\SNES\jim2.smc
+F:\MES\ROMS\SNES\Jimmy Connors Pro Tennis Tour
+F:\MES\ROMS\SNES\Jimmy Houston's Bass Tournament USA
+F:\MES\ROMS\SNES\Joe and Mac 1 - Caveman Ninja
+F:\MES\ROMS\SNES\Joe and Mac 2
+F:\MES\ROMS\SNES\Judge Dredd
+F:\MES\ROMS\SNES\Jungle Strike
+F:\MES\ROMS\SNES\Jurassic Park 1
+F:\MES\ROMS\SNES\Jurassic Park 2
+F:\MES\ROMS\SNES\Justice League Task Force
+F:\MES\ROMS\SNES\Kablooey
+F:\MES\ROMS\SNES\Kawasaki Carribean Challenge
+F:\MES\ROMS\SNES\Kawasaki Superbike Challenge
+F:\MES\ROMS\SNES\Ken Griffey Jr's. Winning Run Baseball
+F:\MES\ROMS\SNES\Ken Griffy Jr Baseball
+F:\MES\ROMS\SNES\Kendo Rage
+F:\MES\ROMS\SNES\Kid Klown in Crazy Chase
+F:\MES\ROMS\SNES\Killer Instinct.smc
+F:\MES\ROMS\SNES\King Arthur & The Knights of Justice
+F:\MES\ROMS\SNES\King of the Monsters 1
+F:\MES\ROMS\SNES\King of the Monsters 2
+F:\MES\ROMS\SNES\Kirby Super Star (U) [!].smc
+F:\MES\ROMS\SNES\Kirby Super Star.smc
+F:\MES\ROMS\SNES\Kirby's Avalanche (U) [!].smc
+F:\MES\ROMS\SNES\Kirby's Avalanche.smc
+F:\MES\ROMS\SNES\Knights of the Round
+F:\MES\ROMS\SNES\Kyle Petty's No Fear Racing
+F:\MES\ROMS\SNES\Lagoon
+F:\MES\ROMS\SNES\Lamborghini - American Challenge
+F:\MES\ROMS\SNES\Legend
+F:\MES\ROMS\SNES\Legend of Zelda, The - A Link to the Past (E) [!].smc
+F:\MES\ROMS\SNES\Lemmings
+F:\MES\ROMS\SNES\Lemmings 2
+F:\MES\ROMS\SNES\Lester The Unlikely
+F:\MES\ROMS\SNES\Lethal Enforcers
+F:\MES\ROMS\SNES\Lethal Weapon
+F:\MES\ROMS\SNES\Liberty or Death
+F:\MES\ROMS\SNES\Lion's Porno 2
+F:\MES\ROMS\SNES\Lions Porno 1
+F:\MES\ROMS\SNES\Lock-On
+F:\MES\ROMS\SNES\Looney Tunes - Acme Animation Factory
+F:\MES\ROMS\SNES\Looney Tunes - B-Ball
+F:\MES\ROMS\SNES\Lord of the Ring.smc
+F:\MES\ROMS\SNES\Lords of Darkness
+F:\MES\ROMS\SNES\Lufia & The Fortress of Doom
+F:\MES\ROMS\SNES\Lufia 1
+F:\MES\ROMS\SNES\Lufia 2
+F:\MES\ROMS\SNES\Lufia II - Rise of the Sinistrals
+F:\MES\ROMS\SNES\Madden 95
+F:\MES\ROMS\SNES\Madden 96
+F:\MES\ROMS\SNES\Madden 97
+F:\MES\ROMS\SNES\Madden 98
+F:\MES\ROMS\SNES\Madden NFL '93
+F:\MES\ROMS\SNES\Madden NFL '94.smc
+F:\MES\ROMS\SNES\Madden NFL Football
+F:\MES\ROMS\SNES\Magic Boy
+F:\MES\ROMS\SNES\Magic Johnson's Super Slam Dunk
+F:\MES\ROMS\SNES\Magic Sword
+F:\MES\ROMS\SNES\Mario Paint.smc
+F:\MES\ROMS\SNES\MARIO.SMC
+F:\MES\ROMS\SNES\Mark Davis' The Fishing Master
+F:\MES\ROMS\SNES\Marvel Super Heroes - War of the Gems
+F:\MES\ROMS\SNES\Math Blaster
+F:\MES\ROMS\SNES\Maximum Carnage.smc
+F:\MES\ROMS\SNES\Mecarobot Golf
+F:\MES\ROMS\SNES\Mech Warrior
+F:\MES\ROMS\SNES\Mech Warrior 3050
+F:\MES\ROMS\SNES\Mega Man 7.smc
+F:\MES\ROMS\SNES\Mega Man VII (E).smc
+F:\MES\ROMS\SNES\Mega Man X (U) (V1.0) [!].smc
+F:\MES\ROMS\SNES\Mega Man X 1.smc
+F:\MES\ROMS\SNES\Mega Man X 2.smc
+F:\MES\ROMS\SNES\Mega Man X 3.smc
+F:\MES\ROMS\SNES\Mega Man X2.smc
+F:\MES\ROMS\SNES\Mega Man X3.smc
+F:\MES\ROMS\SNES\Metal Combat (US).smc
+F:\MES\ROMS\SNES\Metal Combat - Falcon's Revenge
+F:\MES\ROMS\SNES\Metal Marines
+F:\MES\ROMS\SNES\Metal Morph
+F:\MES\ROMS\SNES\Metroid.smc
+F:\MES\ROMS\SNES\Michael Andretti's Indy Car Challenge
+F:\MES\ROMS\SNES\Michael Jordan - Chaos in the Windy City
+F:\MES\ROMS\SNES\Mickey & Minnie - The Great Circus Mystery.smc
+F:\MES\ROMS\SNES\Mickey Mania.smc
+F:\MES\ROMS\SNES\Mickey's Playtown Adventure - A Day Of Discovery!.smc
+F:\MES\ROMS\SNES\Mickey's Ultimate Challenge.smc
+F:\MES\ROMS\SNES\Micro Machines
+F:\MES\ROMS\SNES\Might and Magic 3
+F:\MES\ROMS\SNES\Mighty Max
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers  - Battle Racers
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers - Fighting Edition
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers - Movie Edition
+F:\MES\ROMS\SNES\MK2.SMC
+F:\MES\ROMS\SNES\MKOMBAT.SMC
+F:\MES\ROMS\SNES\MLBPA Baseball
+F:\MES\ROMS\SNES\Mohawk and Headphone Jack
+F:\MES\ROMS\SNES\Monopoly
+F:\MES\ROMS\SNES\Mortal Kombat 1.smc
+F:\MES\ROMS\SNES\Mortal Kombat 2.smc
+F:\MES\ROMS\SNES\Mortal Kombat 3 - Ultimate.smc
+F:\MES\ROMS\SNES\Mr. Do!
+F:\MES\ROMS\SNES\Mr. Nutz
+F:\MES\ROMS\SNES\Ms.smc
+F:\MES\ROMS\SNES\Musya
+F:\MES\ROMS\SNES\Natsume Championship Wrestling
+F:\MES\ROMS\SNES\NBA All-Star Challenge.smc
+F:\MES\ROMS\SNES\NBA Give 'N Go
+F:\MES\ROMS\SNES\NBA Hang Time
+F:\MES\ROMS\SNES\NBA Jam - Majerle
+F:\MES\ROMS\SNES\NBA Jam Tournament Edition
+F:\MES\ROMS\SNES\NBA Jam.smc
+F:\MES\ROMS\SNES\NBA Live 95
+F:\MES\ROMS\SNES\NBA Live 96
+F:\MES\ROMS\SNES\NBA Live 97
+F:\MES\ROMS\SNES\NBA Live 98
+F:\MES\ROMS\SNES\NBA Showdown
+F:\MES\ROMS\SNES\NCAA Basketball
+F:\MES\ROMS\SNES\NCAA Final Four Basketball
+F:\MES\ROMS\SNES\Newman Hass Indy Car Racing
+F:\MES\ROMS\SNES\NFL Football
+F:\MES\ROMS\SNES\NFL Quarterback Club
+F:\MES\ROMS\SNES\NFL Quarterback Club '96
+F:\MES\ROMS\SNES\NHL 94
+F:\MES\ROMS\SNES\NHL 95
+F:\MES\ROMS\SNES\NHL 96
+F:\MES\ROMS\SNES\NHL 97
+F:\MES\ROMS\SNES\NHL 98
+F:\MES\ROMS\SNES\NHL Stanley Cup
+F:\MES\ROMS\SNES\NHLPA Hockey '93
+F:\MES\ROMS\SNES\Nickelodeon Guts
+F:\MES\ROMS\SNES\Nigel Mansell's World Championship Racing
+F:\MES\ROMS\SNES\Ninja Gaiden Trilogy.smc
+F:\MES\ROMS\SNES\No Escape
+F:\MES\ROMS\SNES\Nobunaga's Ambition
+F:\MES\ROMS\SNES\Nobunaga's Ambition 2
+F:\MES\ROMS\SNES\Nolan Ryan's Baseball
+F:\MES\ROMS\SNES\Nosferatu
+F:\MES\ROMS\SNES\Obitus
+F:\MES\ROMS\SNES\Ogre Battle
+F:\MES\ROMS\SNES\Ohmono Black Bass
+F:\MES\ROMS\SNES\Olympic Summer Games 96
+F:\MES\ROMS\SNES\On the Ball
+F:\MES\ROMS\SNES\Operation Europe
+F:\MES\ROMS\SNES\Operation Logic Bomb
+F:\MES\ROMS\SNES\Operation Thunderbolt
+F:\MES\ROMS\SNES\Oscar
+F:\MES\ROMS\SNES\Out Of This World 1
+F:\MES\ROMS\SNES\Out of This World 2
+F:\MES\ROMS\SNES\Out to Lunch
+F:\MES\ROMS\SNES\Outlander
+F:\MES\ROMS\SNES\Pac Attack
+F:\MES\ROMS\SNES\Pac in Time
+F:\MES\ROMS\SNES\Pac Man 2 - The New Adventures
+F:\MES\ROMS\SNES\Pac-Man 1.smc
+F:\MES\ROMS\SNES\Pac-Man 2 (The New Adventures).smc
+F:\MES\ROMS\SNES\Pachio
+F:\MES\ROMS\SNES\Pacific Theater of Operations
+F:\MES\ROMS\SNES\Pacific Theater of Operations 2
+F:\MES\ROMS\SNES\Packy and Marlon
+F:\MES\ROMS\SNES\Paladins Quest 1
+F:\MES\ROMS\SNES\Paladins Quest 2
+F:\MES\ROMS\SNES\Paper Boy 2
+F:\MES\ROMS\SNES\Peace Keepers
+F:\MES\ROMS\SNES\Pebble Beach Golf Links
+F:\MES\ROMS\SNES\PGA European Tour
+F:\MES\ROMS\SNES\PGA Tour 96
+F:\MES\ROMS\SNES\PGA Tour Golf
+F:\MES\ROMS\SNES\Phalanx
+F:\MES\ROMS\SNES\Phantom 2040
+F:\MES\ROMS\SNES\Pieces
+F:\MES\ROMS\SNES\Pilotwings
+F:\MES\ROMS\SNES\Pinball Fantasies
+F:\MES\ROMS\SNES\Pit Fighter
+F:\MES\ROMS\SNES\Pitfall
+F:\MES\ROMS\SNES\Plok
+F:\MES\ROMS\SNES\Pocky
+F:\MES\ROMS\SNES\Pong
+F:\MES\ROMS\SNES\Populous
+F:\MES\ROMS\SNES\Porky Pig's Haunted Holiday
+F:\MES\ROMS\SNES\Power Instinct
+F:\MES\ROMS\SNES\Power Moves
+F:\MES\ROMS\SNES\Power Piggs of the Dark Age
+F:\MES\ROMS\SNES\PowerInstinct
+F:\MES\ROMS\SNES\Prehistorik Man
+F:\MES\ROMS\SNES\Primal Rage
+F:\MES\ROMS\SNES\Pro Quarterback
+F:\MES\ROMS\SNES\Pro Sport Hockey
+F:\MES\ROMS\SNES\Pushover
+F:\MES\ROMS\SNES\Q Bert 3
+F:\MES\ROMS\SNES\Race Drivin'
+F:\MES\ROMS\SNES\Radical Rex
+F:\MES\ROMS\SNES\Raiden Trad
+F:\MES\ROMS\SNES\Rampart
+F:\MES\ROMS\SNES\Ranma ½.smc
+F:\MES\ROMS\SNES\Rape Games
+F:\MES\ROMS\SNES\Rapid Fire Counter
+F:\MES\ROMS\SNES\Realm
+F:\MES\ROMS\SNES\Redline F-1 Racer
+F:\MES\ROMS\SNES\Relief Pitcher
+F:\MES\ROMS\SNES\Ren and Stimpy - Buckaroos
+F:\MES\ROMS\SNES\Ren and Stimpy - Fire Dog
+F:\MES\ROMS\SNES\Ren and Stimpy - Time Warp
+F:\MES\ROMS\SNES\Ren and Stimpy - Veediots
+F:\MES\ROMS\SNES\Return of the Jedi.smc
+F:\MES\ROMS\SNES\Revolution X
+F:\MES\ROMS\SNES\Rex Ronan
+F:\MES\ROMS\SNES\Riddick Bowe Boxing
+F:\MES\ROMS\SNES\Rifle Simulator (NG-Dump Known)
+F:\MES\ROMS\SNES\Rise of the Phoenix
+F:\MES\ROMS\SNES\Rise of the Robots
+F:\MES\ROMS\SNES\Rival Turf
+F:\MES\ROMS\SNES\River City Ransom
+F:\MES\ROMS\SNES\Road Riot 4WD
+F:\MES\ROMS\SNES\Road Runner's Death Valley Rally
+F:\MES\ROMS\SNES\Robocop 3
+F:\MES\ROMS\SNES\Robocop VS The Terminator
+F:\MES\ROMS\SNES\Robotrek
+F:\MES\ROMS\SNES\Rock & Roll Racing
+F:\MES\ROMS\SNES\Rocketeer
+F:\MES\ROMS\SNES\Rockman & Forte Jap.smc
+F:\MES\ROMS\SNES\Rocko's Modern Life
+F:\MES\ROMS\SNES\Rocky the Rodent
+F:\MES\ROMS\SNES\Roger Clemens's MVP Baseball
+F:\MES\ROMS\SNES\Roller Hockey 95
+F:\MES\ROMS\SNES\Romance of the Three Kingdoms 2
+F:\MES\ROMS\SNES\Romance of the Three Kingdoms 3
+F:\MES\ROMS\SNES\Romance of the Three Kingdoms 4
+F:\MES\ROMS\SNES\Samurai Showdown.smc
+F:\MES\ROMS\SNES\Saturday Night Slammaster
+F:\MES\ROMS\SNES\Scooby Doo
+F:\MES\ROMS\SNES\SeaQuest
+F:\MES\ROMS\SNES\Secret of Evermore.smc
+F:\MES\ROMS\SNES\Secret of Mana 1.smc
+F:\MES\ROMS\SNES\Secret of mana 2.smc
+F:\MES\ROMS\SNES\Secret of Mana.smc
+F:\MES\ROMS\SNES\Secret of the Stars.smc
+F:\MES\ROMS\SNES\Sex Pics
+F:\MES\ROMS\SNES\Sexy HK Game Girls 1
+F:\MES\ROMS\SNES\Sexy HK Game Girls 2
+F:\MES\ROMS\SNES\Shadow
+F:\MES\ROMS\SNES\Shadow Run
+F:\MES\ROMS\SNES\Shanghai 2 - The Dragon's Eye
+F:\MES\ROMS\SNES\Shaq Fu
+F:\MES\ROMS\SNES\Shien's Revenge
+F:\MES\ROMS\SNES\Shoot Your Load
+F:\MES\ROMS\SNES\Side Pocket
+F:\MES\ROMS\SNES\Sim Ant
+F:\MES\ROMS\SNES\Sim City 2000.smc
+F:\MES\ROMS\SNES\Sim City.smc
+F:\MES\ROMS\SNES\Sim Earth
+F:\MES\ROMS\SNES\Sink or Swim
+F:\MES\ROMS\SNES\Skul Jagger
+F:\MES\ROMS\SNES\Sky Blazer
+F:\MES\ROMS\SNES\Smart Ball
+F:\MES\ROMS\SNES\Smash TV
+F:\MES\ROMS\SNES\Snow White in Happily Ever After
+F:\MES\ROMS\SNES\Soldiers of Fortune
+F:\MES\ROMS\SNES\Sonic Blastman 2.smc
+F:\MES\ROMS\SNES\Sonic Blastman.smc
+F:\MES\ROMS\SNES\Sonic the Hetchog.smc
+F:\MES\ROMS\SNES\Soul Blazer
+F:\MES\ROMS\SNES\Space Ace
+F:\MES\ROMS\SNES\Space Football
+F:\MES\ROMS\SNES\Space Invaders (The Original Game).smc
+F:\MES\ROMS\SNES\Space Invaders - The Original Game.smc
+F:\MES\ROMS\SNES\Space Megaforce
+F:\MES\ROMS\SNES\Spanky's Quest
+F:\MES\ROMS\SNES\Sparkster
+F:\MES\ROMS\SNES\Spawn
+F:\MES\ROMS\SNES\Spectre
+F:\MES\ROMS\SNES\Speed Racer
+F:\MES\ROMS\SNES\Speedy Gonzales
+F:\MES\ROMS\SNES\Spell Craft
+F:\MES\ROMS\SNES\Spider Man and Venom - Maximum Carnage.smc
+F:\MES\ROMS\SNES\Spin Dizzy Worlds
+F:\MES\ROMS\SNES\Sporting News Power Baseball
+F:\MES\ROMS\SNES\Sports Illustrated Championship Football & Baseball
+F:\MES\ROMS\SNES\Star Fox (U) (V1.0) [!].smc
+F:\MES\ROMS\SNES\Star Fox 1.smc
+F:\MES\ROMS\SNES\Star Fox 2 (Beta TD) [b1].smc
+F:\MES\ROMS\SNES\Star Fox 2 (Early Beta).smc
+F:\MES\ROMS\SNES\Star Fox Competition - Weekend Edition.smc
+F:\MES\ROMS\SNES\Star Trek - Deep Space Nine v2.smc
+F:\MES\ROMS\SNES\Star Trek - Deep Space Nine.smc
+F:\MES\ROMS\SNES\Star Trek - Starfleet Academy.smc
+F:\MES\ROMS\SNES\Star Trek - The Next Generation.smc
+F:\MES\ROMS\SNES\Star Trek.smc
+F:\MES\ROMS\SNES\Stargate.smc
+F:\MES\ROMS\SNES\Steel Talons
+F:\MES\ROMS\SNES\Sterling Sharpe End 2 End
+F:\MES\ROMS\SNES\Stone Protectors
+F:\MES\ROMS\SNES\Street Combat
+F:\MES\ROMS\SNES\Street Fighter 2 - The New Challengers
+F:\MES\ROMS\SNES\Street Fighter 2 Black Belt Edition
+F:\MES\ROMS\SNES\Street Fighter 2 Carnage
+F:\MES\ROMS\SNES\Street Fighter 2 Champ.smc
+F:\MES\ROMS\SNES\Street Fighter 2 Lightning Edition.smc
+F:\MES\ROMS\SNES\Street Fighter 2 Modified Edition Hype Hack
+F:\MES\ROMS\SNES\Street Fighter 2 New Moves Edition Japan
+F:\MES\ROMS\SNES\Street Fighter 2 Next Generation
+F:\MES\ROMS\SNES\Street Fighter 2 Special Accelerated Edition
+F:\MES\ROMS\SNES\Street Fighter 2 Turbo.smc
+F:\MES\ROMS\SNES\Street Fighter 2 World Warrior
+F:\MES\ROMS\SNES\Street Hockey '95
+F:\MES\ROMS\SNES\Street Racer
+F:\MES\ROMS\SNES\Strike Gunner
+F:\MES\ROMS\SNES\Stunt Race FX
+F:\MES\ROMS\SNES\Sunset Riders.smc
+F:\MES\ROMS\SNES\Super Adventure Island 1.smc
+F:\MES\ROMS\SNES\Super Adventure Island 2.smc
+F:\MES\ROMS\SNES\Super Aquatic Games
+F:\MES\ROMS\SNES\Super Baseball 2020
+F:\MES\ROMS\SNES\Super Baseball Simulator 1000
+F:\MES\ROMS\SNES\Super Bases Loaded 1
+F:\MES\ROMS\SNES\Super Bases Loaded 2
+F:\MES\ROMS\SNES\Super Bases Loaded 3
+F:\MES\ROMS\SNES\Super Batter Up
+F:\MES\ROMS\SNES\Super Battle Tank 1.smc
+F:\MES\ROMS\SNES\Super Battle Tank 2.smc
+F:\MES\ROMS\SNES\Super Battleship.smc
+F:\MES\ROMS\SNES\Super Black Bass
+F:\MES\ROMS\SNES\Super Bomberman 1.smc
+F:\MES\ROMS\SNES\Super Bomberman 2.smc
+F:\MES\ROMS\SNES\Super Bomberman.smc
+F:\MES\ROMS\SNES\Super Bonk
+F:\MES\ROMS\SNES\Super Bowling
+F:\MES\ROMS\SNES\Super Buster Brothers
+F:\MES\ROMS\SNES\Super Caesars Palace
+F:\MES\ROMS\SNES\Super Castlevania IV (U) [t1].smc
+F:\MES\ROMS\SNES\Super Chase HQ
+F:\MES\ROMS\SNES\Super Conflict
+F:\MES\ROMS\SNES\Super Double Dragon (E) [!].smc
+F:\MES\ROMS\SNES\Super Double Dragon.smc
+F:\MES\ROMS\SNES\Super Earth Defence Force
+F:\MES\ROMS\SNES\Super Ghouls 'N Ghosts (E).smc
+F:\MES\ROMS\SNES\Super Ghouls and Ghosts
+F:\MES\ROMS\SNES\Super Goal! 1
+F:\MES\ROMS\SNES\Super Goal! 2.smc
+F:\MES\ROMS\SNES\Super Godzilla
+F:\MES\ROMS\SNES\Super High Impact
+F:\MES\ROMS\SNES\Super James Pond
+F:\MES\ROMS\SNES\Super Mario All-Stars + Super Mario World.smc
+F:\MES\ROMS\SNES\Super Mario Kart.smc
+F:\MES\ROMS\SNES\Super Mario Paint.smc
+F:\MES\ROMS\SNES\Super Mario RPG - Legend of the Seven Stars.smc
+F:\MES\ROMS\SNES\Super Mario World
+F:\MES\ROMS\SNES\Super Mario World (E) (V1.0) [h1C].smc
+F:\MES\ROMS\SNES\Super Mario World 2 (Yoshi's Island).smc
+F:\MES\ROMS\SNES\Super Mario World 2 - Yoshi's Island.smc
+F:\MES\ROMS\SNES\Super Mario World.smc
+F:\MES\ROMS\SNES\Super Metroid.smc
+F:\MES\ROMS\SNES\Super Ninja Boy
+F:\MES\ROMS\SNES\Super Noah's Ark 3D
+F:\MES\ROMS\SNES\Super Nova
+F:\MES\ROMS\SNES\Super Off Road - The Baja
+F:\MES\ROMS\SNES\Super Pinball Behind the Mask
+F:\MES\ROMS\SNES\Super Play Action Football
+F:\MES\ROMS\SNES\Super Punch-Out!!.smc
+F:\MES\ROMS\SNES\Super Putty
+F:\MES\ROMS\SNES\Super R-Type
+F:\MES\ROMS\SNES\Super RBI Baseball
+F:\MES\ROMS\SNES\Super Scope 6
+F:\MES\ROMS\SNES\Super Shadow of the Beast
+F:\MES\ROMS\SNES\Super Slapshot
+F:\MES\ROMS\SNES\Super Soccer
+F:\MES\ROMS\SNES\Super Soccer Champion
+F:\MES\ROMS\SNES\Super Solitaire
+F:\MES\ROMS\SNES\Super Star Wars - Empire Strikes Back.smc
+F:\MES\ROMS\SNES\Super Star Wars-Return of the Jedi.smc
+F:\MES\ROMS\SNES\Super Star Wars.smc
+F:\MES\ROMS\SNES\Super Strike Eagle
+F:\MES\ROMS\SNES\Super Tennis
+F:\MES\ROMS\SNES\Super Tom & Jerry
+F:\MES\ROMS\SNES\Super Troll Islands
+F:\MES\ROMS\SNES\Super Turrican 1.smc
+F:\MES\ROMS\SNES\Super Turrican 2.smc
+F:\MES\ROMS\SNES\Super Valis 4
+F:\MES\ROMS\SNES\Super Widget
+F:\MES\ROMS\SNES\SuperMarioRPG.smc
+F:\MES\ROMS\SNES\Suzuka 8 Hours
+F:\MES\ROMS\SNES\Swat Kats
+F:\MES\ROMS\SNES\Syndicate
+F:\MES\ROMS\SNES\Tales of Phantasia.smc
+F:\MES\ROMS\SNES\Taz-Mania
+F:\MES\ROMS\SNES\Tecmo Super Baseball
+F:\MES\ROMS\SNES\Tecmo Super Bowl 1
+F:\MES\ROMS\SNES\Tecmo Super Bowl 2
+F:\MES\ROMS\SNES\Tecmo Super Bowl 3
+F:\MES\ROMS\SNES\Tecmo Super NBA Basketball
+F:\MES\ROMS\SNES\Teenage Mutant Ninja Turtles 4 - Turtles in Time.smc
+F:\MES\ROMS\SNES\Teenage Mutant Ninja Turtles 5.smc
+F:\MES\ROMS\SNES\Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].smc
+F:\MES\ROMS\SNES\Tekken 2 Jap
+F:\MES\ROMS\SNES\Ten Chimy
+F:\MES\ROMS\SNES\Terminator 1.smc
+F:\MES\ROMS\SNES\Terminator 2 -  The Arcade Game.smc
+F:\MES\ROMS\SNES\Terminator 2.smc
+F:\MES\ROMS\SNES\Test Drive 2
+F:\MES\ROMS\SNES\Tetris & Dr. Mario.smc
+F:\MES\ROMS\SNES\Tetris & Dr.smc
+F:\MES\ROMS\SNES\Tetris 2.smc
+F:\MES\ROMS\SNES\Tetris Attack.smc
+F:\MES\ROMS\SNES\The Legend of Zelda (A Link to The Past).smc
+F:\MES\ROMS\SNES\The Lord of the Rings - Volume One.smc
+F:\MES\ROMS\SNES\The Lost Vikings
+F:\MES\ROMS\SNES\The Tick
+F:\MES\ROMS\SNES\Theme Park
+F:\MES\ROMS\SNES\Thomas the Tank
+F:\MES\ROMS\SNES\Thunder Spirits
+F:\MES\ROMS\SNES\Tic Tac Toe
+F:\MES\ROMS\SNES\Time Cop
+F:\MES\ROMS\SNES\Time Slip
+F:\MES\ROMS\SNES\Time Trax
+F:\MES\ROMS\SNES\Timon & Pumba
+F:\MES\ROMS\SNES\Tinstar
+F:\MES\ROMS\SNES\Tiny Toons Adventure.smc
+F:\MES\ROMS\SNES\Tiny Toons Sports
+F:\MES\ROMS\SNES\TKO Super Championship Boxing
+F:\MES\ROMS\SNES\TNN Bass Fishing
+F:\MES\ROMS\SNES\Toilet
+F:\MES\ROMS\SNES\Tony Meola's Sidekicks Soccer
+F:\MES\ROMS\SNES\Top English
+F:\MES\ROMS\SNES\Top Gear 1
+F:\MES\ROMS\SNES\Top Gear 2
+F:\MES\ROMS\SNES\Top Gear 3000
+F:\MES\ROMS\SNES\Total Carnage
+F:\MES\ROMS\SNES\Tournamrnt Fighter
+F:\MES\ROMS\SNES\Toy Story
+F:\MES\ROMS\SNES\Toys
+F:\MES\ROMS\SNES\Troddlers
+F:\MES\ROMS\SNES\Troy Aikman NFL Football
+F:\MES\ROMS\SNES\True Lies
+F:\MES\ROMS\SNES\Tuff E Nuff
+F:\MES\ROMS\SNES\Turn and Burn - No-Fly Zone
+F:\MES\ROMS\SNES\Twisted Tales of Spike McFang
+F:\MES\ROMS\SNES\U.N. Squadron
+F:\MES\ROMS\SNES\Ultima - Runes of Virtue 2
+F:\MES\ROMS\SNES\Ultima 6
+F:\MES\ROMS\SNES\Ultima 7 - The Black Gate
+F:\MES\ROMS\SNES\Ultimate Fighter
+F:\MES\ROMS\SNES\Ultraman -Towards the Future
+F:\MES\ROMS\SNES\Uncharted Waters 1
+F:\MES\ROMS\SNES\Uncharted Waters 2
+F:\MES\ROMS\SNES\Uni Racers
+F:\MES\ROMS\SNES\Universal Soldier
+F:\MES\ROMS\SNES\Untouchables
+F:\MES\ROMS\SNES\Urban Strike
+F:\MES\ROMS\SNES\Utopia
+F:\MES\ROMS\SNES\Vegas Stakes
+F:\MES\ROMS\SNES\Villgust - Transcore
+F:\MES\ROMS\SNES\Virtual Bart
+F:\MES\ROMS\SNES\Vortex
+F:\MES\ROMS\SNES\Waialae Golf
+F:\MES\ROMS\SNES\Wanderers from Ys
+F:\MES\ROMS\SNES\War 2410
+F:\MES\ROMS\SNES\War 3010 - The Revolution
+F:\MES\ROMS\SNES\Wario's Woods.smc
+F:\MES\ROMS\SNES\Warlock
+F:\MES\ROMS\SNES\Warp Speed
+F:\MES\ROMS\SNES\Wayne Gretzky Hockey
+F:\MES\ROMS\SNES\Wayne's World
+F:\MES\ROMS\SNES\WCW Super Brawl
+F:\MES\ROMS\SNES\We're Back - A Dinosaur Story
+F:\MES\ROMS\SNES\Weapon Lord
+F:\MES\ROMS\SNES\What A Chess
+F:\MES\ROMS\SNES\Wheel of Fortune
+F:\MES\ROMS\SNES\Wheel Of Fortune - Deluxe Edition
+F:\MES\ROMS\SNES\Where in the World is Carmen Sandiego
+F:\MES\ROMS\SNES\Where in Time is Carmen Sandiego
+F:\MES\ROMS\SNES\Whizz
+F:\MES\ROMS\SNES\Wicked 18 Golf
+F:\MES\ROMS\SNES\Wild Guns
+F:\MES\ROMS\SNES\Wild Snake
+F:\MES\ROMS\SNES\Williams Arcade Games
+F:\MES\ROMS\SNES\Williams Arcade Games - Atari
+F:\MES\ROMS\SNES\Wing Commander
+F:\MES\ROMS\SNES\Wings 2
+F:\MES\ROMS\SNES\Winter Extreme Sking
+F:\MES\ROMS\SNES\Winter Olympics.smc
+F:\MES\ROMS\SNES\Wizard of Oz
+F:\MES\ROMS\SNES\Wizardry 5
+F:\MES\ROMS\SNES\Wolf Child
+F:\MES\ROMS\SNES\Wolfenstein 3D.smc
+F:\MES\ROMS\SNES\Wolverine Adamantiun Rage.smc
+F:\MES\ROMS\SNES\Wordtris
+F:\MES\ROMS\SNES\World Cup USA 94
+F:\MES\ROMS\SNES\World Heroes 1
+F:\MES\ROMS\SNES\World Heroes 2.smc
+F:\MES\ROMS\SNES\World League Basketball
+F:\MES\ROMS\SNES\World League Soccer.smc
+F:\MES\ROMS\SNES\World Soccer 94 - Road to Glory
+F:\MES\ROMS\SNES\Worms
+F:\MES\ROMS\SNES\WWF Raw
+F:\MES\ROMS\SNES\WWF Royal Rumble
+F:\MES\ROMS\SNES\WWF Super Wrestlemania
+F:\MES\ROMS\SNES\WWF Wrestlemania
+F:\MES\ROMS\SNES\WWF Wrestlemania Arcade
+F:\MES\ROMS\SNES\X - Kalibur 2097
+F:\MES\ROMS\SNES\X - Men 1.smc
+F:\MES\ROMS\SNES\X - Men 2 - Mutant Apocalypse.smc
+F:\MES\ROMS\SNES\X - Zone
+F:\MES\ROMS\SNES\Xardion
+F:\MES\ROMS\SNES\Yogi Bear
+F:\MES\ROMS\SNES\Yoshi's Cookie
+F:\MES\ROMS\SNES\Yoshi's Island.smc
+F:\MES\ROMS\SNES\Yoshi's Safari.smc
+F:\MES\ROMS\SNES\Young Merlin
+F:\MES\ROMS\SNES\Zelda - A Link to The Past.smc
+F:\MES\ROMS\SNES\Zero the Kamikaze Squirrel
+F:\MES\ROMS\SNES\AP4AS\a-plumber-for-all-seasons_2021-11-22.bps
+F:\MES\ROMS\SNES\AP4AS\a-plumber-for-all-seasons_2021-11-22.smc
+F:\MES\ROMS\SNES\AP4AS\HOW-TO-PLAY.txt
+F:\MES\ROMS\SNES\AP4AS\README.html
+F:\MES\ROMS\SNES\AP4AS\Soundtrack
+F:\MES\ROMS\SNES\AP4AS\Super Mario World.smc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\00 HOW TO PLAY THE SONGS.txt
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\00 SONG INFO.txt
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\01 Intro.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\02 By The River.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\03 Turnings Of The Season.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\04 Meadow Walk.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\05 Damp Dugout.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\06 Heading Upstream.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\07 Shallow Waters.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\08 Leaf Sunrays.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\09 Mansion of Mrs. Gloom.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\10 Firewood Fortress.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\11 Day's Rays.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\12 Thicket.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\13 Light Drizzle.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\14 Fog And Shadow.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\15 Phases of Water.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\16 Golden Leaves.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\17 Autumn Color.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\18 Seasonal Swimming.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\19 The Marine Biologist (unused).spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\20 Snowscape.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\21 Blind Smuir.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\22 Breakbeat Darkness.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\23 Above It All.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\24 The End Of.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\25 Battle Of Destiny.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\26 Credits.spc
+F:\MES\ROMS\SNES\AP4AS\Soundtrack\27 Seasons Passed.spc
+
+F:\MES\ROMS>dir /a/s/b
+F:\MES\ROMS\.sync
+F:\MES\ROMS\GameBoy
+F:\MES\ROMS\GBA
+F:\MES\ROMS\N64
+F:\MES\ROMS\NES
+F:\MES\ROMS\NintendoDS
+F:\MES\ROMS\PS1
+F:\MES\ROMS\PSP
+F:\MES\ROMS\SEGA
+F:\MES\ROMS\SNES
+F:\MES\ROMS\.sync\Archive
+F:\MES\ROMS\.sync\FolderType
+F:\MES\ROMS\.sync\ID
+F:\MES\ROMS\.sync\IgnoreList
+F:\MES\ROMS\.sync\root_acl_entry
+F:\MES\ROMS\.sync\StreamsList
+F:\MES\ROMS\GameBoy\Legend of Zelda, The - Link's Awakening (UE) (v1.2).gb
+F:\MES\ROMS\GameBoy\Pokemon Blue.gb
+F:\MES\ROMS\GameBoy\Pokemon Red.gb
+F:\MES\ROMS\GameBoy\Pokemon Yellow.gb
+F:\MES\ROMS\GBA\Castlevania - Aria of Sorrow (E) (M3) [b1].gba
+F:\MES\ROMS\GBA\Castlevania - Circle of the Moon (U) [!].gba
+F:\MES\ROMS\GBA\Castlevania - Harmony of Dissonance (U) [t1].gba
+F:\MES\ROMS\GBA\Classic NES Series - Zelda II - The Adventure of Link (U) [f1].gba
+F:\MES\ROMS\GBA\Final Fantasy Crystal Chronicles - Loader (MB).mb
+F:\MES\ROMS\GBA\Final Fantasy I & II - Dawn of Souls (E).gba
+F:\MES\ROMS\GBA\Final Fantasy IV Advance (E) (M5) [b1].gba
+F:\MES\ROMS\GBA\Final Fantasy Tactics Advance (E) (M5) [f1] (Save).gba
+F:\MES\ROMS\GBA\Final Fantasy V Advance (E) (M5).gba
+F:\MES\ROMS\GBA\Final Fantasy VI Advance (E) (M6).gba
+F:\MES\ROMS\GBA\Golden Sun (UE) [t1].gba
+F:\MES\ROMS\GBA\Golden Sun - The Lost Age (UE) [!].gba
+F:\MES\ROMS\GBA\Kingdom Hearts - Chain of Memories (E).gba
+F:\MES\ROMS\GBA\Legend of Zelda, The - The Minish Cap (E) (M5) [f_4].gba
+F:\MES\ROMS\GBA\Mario Kart Super Circuit (E) [!].gba
+F:\MES\ROMS\GBA\Metroid (E) [!].nes
+F:\MES\ROMS\GBA\Metroid - Zero Mission (E) (M5).gba
+F:\MES\ROMS\GBA\Metroid Fusion (E) [!].gba
+F:\MES\ROMS\GBA\Pokemon - Emerald Version (U) [b1].gba
+F:\MES\ROMS\GBA\Pokemon - Fire Red Version (U) (V1.0) [f1].gba
+F:\MES\ROMS\GBA\Pokemon - Fire Red.GBA
+F:\MES\ROMS\GBA\Pokemon - Leaf Green.GBA
+F:\MES\ROMS\GBA\Pokemon Chaos Black (Fire Red Hack).gba
+F:\MES\ROMS\GBA\Pokemon Crystal.gbc
+F:\MES\ROMS\GBA\Pokemon Emerald.GBA
+F:\MES\ROMS\GBA\Pokemon Gold.gbc
+F:\MES\ROMS\GBA\Pokemon Mystery Dungeon - Red Rescue Team.GBA
+F:\MES\ROMS\GBA\Pokemon Ruby.GBA
+F:\MES\ROMS\GBA\Pokemon Sapphire.GBA
+F:\MES\ROMS\GBA\Pokemon Silver.gbc
+F:\MES\ROMS\GBA\Super Mario Advance 3 - Yoshi's Island (E) [!].gba
+F:\MES\ROMS\GBA\Tales of Phantasia (E) (M5) [f_4].gba
+F:\MES\ROMS\N64\Akumajou Dracula Mokushiroku - Real Action Adventure (J) [!].z64
+F:\MES\ROMS\N64\Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (J) [!].z64
+F:\MES\ROMS\N64\Armorines - Project S.W.A.R.M. (E) [!].z64
+F:\MES\ROMS\N64\Beast Wars.rom
+F:\MES\ROMS\N64\Bomberman 64 - Arcade Edition.z64
+F:\MES\ROMS\N64\Bomberman 64.z64
+F:\MES\ROMS\N64\Castlevania - Legacy of Darkness.n64
+F:\MES\ROMS\N64\Charlie Blast's Territory (E) [o1].z64
+F:\MES\ROMS\N64\Choro Q 64 II (J) [!].z64
+F:\MES\ROMS\N64\Command & Conquer (E) [!].z64
+F:\MES\ROMS\N64\Custom Robo (J) [!].z64
+F:\MES\ROMS\N64\Custom Robo V2 (J) [!].z64
+F:\MES\ROMS\N64\CyberTiger (E) [!].z64
+F:\MES\ROMS\N64\Deadly Arts (U) [!].z64
+F:\MES\ROMS\N64\Deadly Arts.v64
+F:\MES\ROMS\N64\Dezaemon 3D (J) [!].z64
+F:\MES\ROMS\N64\Disney's Donald Duck - Goin' Quackers (U) [!].z64
+F:\MES\ROMS\N64\Disney's Tarzan (E) [!].z64
+F:\MES\ROMS\N64\Donkey Kong 64.z64
+F:\MES\ROMS\N64\Doom 64.v64
+F:\MES\ROMS\N64\Dual Heroes.v64
+F:\MES\ROMS\N64\Duck Dodgers Starring Daffy Duck (U) [!].z64
+F:\MES\ROMS\N64\Duke Nukem 64.v64
+F:\MES\ROMS\N64\Earthworm Jim 3D.z64
+F:\MES\ROMS\N64\ECW Hardcore Revolution (E) [!].z64
+F:\MES\ROMS\N64\Eikou no Saint Andrews (J) [!].z64
+F:\MES\ROMS\N64\Excitebike 64 - Kiosk.z64
+F:\MES\ROMS\N64\Extreme G 2.v64
+F:\MES\ROMS\N64\Extreme-G (E) [!].z64
+F:\MES\ROMS\N64\Extreme-G XG2 (E) [!].z64
+F:\MES\ROMS\N64\Extremeg.v64
+F:\MES\ROMS\N64\F-ZERO X.z64
+F:\MES\ROMS\N64\Famista 64 (J) [!].z64
+F:\MES\ROMS\N64\Fighting Force 64 (E) [!].z64
+F:\MES\ROMS\N64\Flying Dragon (E) [!].z64
+F:\MES\ROMS\N64\Forsaken 64 (E) [!].z64
+F:\MES\ROMS\N64\Ganbare Goemon - Derudero Douchuu Obake Tenkomori (J) [!].z64
+F:\MES\ROMS\N64\Ganbare Goemon - Neo Momoyama Bakufu no Odori (J) [b1].z64
+F:\MES\ROMS\N64\Gauntlet Legends (E) [!].z64
+F:\MES\ROMS\N64\Getter Love!! Cho Renai Party Game (J) [!].z64
+F:\MES\ROMS\N64\Gex 3 - Deep Cover Gecko (E) (M3)[!].z64
+F:\MES\ROMS\N64\Gex 64 - Enter the Gecko (E) [!].z64
+F:\MES\ROMS\N64\Glover.v64
+F:\MES\ROMS\N64\Golden Nugget 64.v64
+F:\MES\ROMS\N64\GoldenEye 007 (E) [!].v64
+F:\MES\ROMS\N64\GoldenEye 007.z64
+F:\MES\ROMS\N64\Hercules - The Legendary Journeys (E) [!].z64
+F:\MES\ROMS\N64\Hexen (E) [!].z64
+F:\MES\ROMS\N64\Hey You, Pikachu! (U) [!].z64
+F:\MES\ROMS\N64\Hybrid Heaven.z64
+F:\MES\ROMS\N64\Hydro Thunder (E) [!].z64
+F:\MES\ROMS\N64\International Superstar Soccer 64.z64
+F:\MES\ROMS\N64\Kirby 64 - The Crystal Shards.z64
+F:\MES\ROMS\N64\Legend of Zelda, The - Majora's Mask.z64
+F:\MES\ROMS\N64\Legend of Zelda, The - Ocarina of Time - Master Quest.z64
+F:\MES\ROMS\N64\Legend of Zelda, The - Ocarina of Time.n64
+F:\MES\ROMS\N64\Lode Runner 3-D (E) [!].z64
+F:\MES\ROMS\N64\Mace - The Dark Age (E) [!].z64
+F:\MES\ROMS\N64\Mario Kart 64.z64
+F:\MES\ROMS\N64\Mario Party 2.z64
+F:\MES\ROMS\N64\Mario Party 3.z64
+F:\MES\ROMS\N64\Mario Party.v64
+F:\MES\ROMS\N64\Mega Man 64.z64
+F:\MES\ROMS\N64\Midway's Greatest Arcade Hits Volume 1 (U) [o1].z64
+F:\MES\ROMS\N64\Mike Piazza's Strike Zone (U) [!].z64
+F:\MES\ROMS\N64\Mischief Makers.z64
+F:\MES\ROMS\N64\Mission Impossible (E) [!].z64
+F:\MES\ROMS\N64\Monopoly (U) [!].z64
+F:\MES\ROMS\N64\Mortal Kombat 4.z64
+F:\MES\ROMS\N64\Mortal Kombat Trilogy.z64
+F:\MES\ROMS\N64\Ms. Pac-Man - Maze Madness (U) [!].z64
+F:\MES\ROMS\N64\Namco Museum 64 (U) [!].z64
+F:\MES\ROMS\N64\Nightmare Creatures (U) [!].z64
+F:\MES\ROMS\N64\Nuclear Strike 64 (E) (M2) [!].z64
+F:\MES\ROMS\N64\Ogre Battle 64 - Person of Lordly Caliber (J) (V1.1) [!].z64
+F:\MES\ROMS\N64\Onegai Monsters (J) [!].z64
+F:\MES\ROMS\N64\Operation WinBack (E) (M5) [!].z64
+F:\MES\ROMS\N64\Paper Mario.z64
+F:\MES\ROMS\N64\Paperboy (E) [!].z64
+F:\MES\ROMS\N64\Paperboy.rom
+F:\MES\ROMS\N64\PD Ultraman Battle Collection 64 (J) [!].z64
+F:\MES\ROMS\N64\Perfect Dark.z64
+F:\MES\ROMS\N64\Pokemon Snap.rom
+F:\MES\ROMS\N64\Power Rangers - Lightspeed Rescue (E) [!].z64
+F:\MES\ROMS\N64\Powerpuff Girls, The - Chemical X-Traction (U) [!].z64
+F:\MES\ROMS\N64\Premier Manager 64 (E) [!].z64
+F:\MES\ROMS\N64\Puyo Puyo 4 - Puyo Puyo Party (J) [!].z64
+F:\MES\ROMS\N64\Puyo Puyo Sun 64 (J) [!].z64
+F:\MES\ROMS\N64\Quake II.z64
+F:\MES\ROMS\N64\Quake.v64
+F:\MES\ROMS\N64\Quest 64.v64
+F:\MES\ROMS\N64\Rakuga Kids (E) [!].z64
+F:\MES\ROMS\N64\Rally Challenge.rom
+F:\MES\ROMS\N64\Rampage 2 - Universal Tour (E) [!].z64
+F:\MES\ROMS\N64\Rampage.rom
+F:\MES\ROMS\N64\Rat Attack (E) (M6) [!].z64
+F:\MES\ROMS\N64\Rayman 2 - The Great Escape (E) (M5) [!].z64
+F:\MES\ROMS\N64\Razor Freestyle Scooter (U) [!].z64
+F:\MES\ROMS\N64\Re-Volt (E) (M4) [!].z64
+F:\MES\ROMS\N64\Re-Volt.rom
+F:\MES\ROMS\N64\Robot Ponkottsu 64 - Caramel of the 7 Seas (J) [!].z64
+F:\MES\ROMS\N64\Robotech - Crystal Dreams (Beta) [a1].z64
+F:\MES\ROMS\N64\Robotron 64.v64
+F:\MES\ROMS\N64\Rugrats - Treasure Hunt (E) [!].z64
+F:\MES\ROMS\N64\Rugrats in Paris - The Movie (E) [!].z64
+F:\MES\ROMS\N64\SCARS.rom
+F:\MES\ROMS\N64\Scooby-Doo! - Classic Creep Capers (E) [!].z64
+F:\MES\ROMS\N64\Shadow Man (E) [!].z64
+F:\MES\ROMS\N64\Shadow of the Empire.v64
+F:\MES\ROMS\N64\Shadowgate 64 - Trials of the Four Towers (E) [!].z64
+F:\MES\ROMS\N64\Silicon Valley.rom
+F:\MES\ROMS\N64\Sim City 2000 (J) [o1].z64
+F:\MES\ROMS\N64\Smash Brothers.v64
+F:\MES\ROMS\N64\Snowboard Kids 2.v64
+F:\MES\ROMS\N64\South Park - Chef's Luv Shack (E) [!].z64
+F:\MES\ROMS\N64\South Park Rally (E) [!].z64
+F:\MES\ROMS\N64\South Park Rally.rom
+F:\MES\ROMS\N64\South Park.v64
+F:\MES\ROMS\N64\Space Invaders.z64
+F:\MES\ROMS\N64\Spider-Man.z64
+F:\MES\ROMS\N64\Star Fox 64.z64
+F:\MES\ROMS\N64\Star Soldier.rom
+F:\MES\ROMS\N64\Star Wars - Rogue Squadron.n64
+F:\MES\ROMS\N64\Star Wars Episode I - Battle for Naboo.z64
+F:\MES\ROMS\N64\StarCraft 64.z64
+F:\MES\ROMS\N64\Starshot - Space Circus Fever (E) (M3) [!].z64
+F:\MES\ROMS\N64\Super Mario 64.v64
+F:\MES\ROMS\N64\Super Robot Spirits (J) [!].z64
+F:\MES\ROMS\N64\Super Robot Taisen 64 (J) [!].z64
+F:\MES\ROMS\N64\Super Smash Bros.z64
+F:\MES\ROMS\N64\Supercross 2000 (E) [!].z64
+F:\MES\ROMS\N64\Superman (E) (M6) [!].z64
+F:\MES\ROMS\N64\Tigger's Honey Hunt (E) (M7) [!].z64
+F:\MES\ROMS\N64\Tom and Jerry in Fists of Furry (E) [!].z64
+F:\MES\ROMS\N64\Tonic Trouble (U) (V1.1) [!].z64
+F:\MES\ROMS\N64\Tony Hawk Pro Skater.rom
+F:\MES\ROMS\N64\Tony Hawk's Pro Skater 2 (E) [!].z64
+F:\MES\ROMS\N64\Tony Hawk's Pro Skater 3 (U).z64
+F:\MES\ROMS\N64\Turok - Dinosaur Hunter.z64
+F:\MES\ROMS\N64\Turok - Rage Wars.rom
+F:\MES\ROMS\N64\Turok 2 - Seeds of Evil.z64
+F:\MES\ROMS\N64\Turok 3 - Shadow of Oblivion.z64
+F:\MES\ROMS\N64\Twisted Edge.v64
+F:\MES\ROMS\N64\Vigilante 8.rom
+F:\MES\ROMS\N64\Virtual Chess.v64
+F:\MES\ROMS\N64\Virtual Pool 64.v64
+F:\MES\ROMS\N64\War Gods.v64
+F:\MES\ROMS\N64\Wetrix (E) (M6) [!].z64
+F:\MES\ROMS\N64\Wipeout 64 (E) [!].z64
+F:\MES\ROMS\N64\Wonder Project J2 (J) [!].z64
+F:\MES\ROMS\N64\Xena Warrior Princess - The Talisman of Fate (E) [!].z64
+F:\MES\ROMS\N64\Yoshi's Story.v64
+F:\MES\ROMS\NES\10_yard_fight.nes
+F:\MES\ROMS\NES\1100-in-1 [p1][b1].nes
+F:\MES\ROMS\NES\168-in-1 [p1][!].nes
+F:\MES\ROMS\NES\1942.nes
+F:\MES\ROMS\NES\1943.nes
+F:\MES\ROMS\NES\260-in-1 [p1][!].nes
+F:\MES\ROMS\NES\720.nes
+F:\MES\ROMS\NES\Adventures_in_the_magic_kingdom.nes
+F:\MES\ROMS\NES\adventures_of_bayou_billy.nes
+F:\MES\ROMS\NES\adventures_of_dino_riki.nes
+F:\MES\ROMS\NES\adventures_of_Lolo1.nes
+F:\MES\ROMS\NES\adventures_of_Lolo2.nes
+F:\MES\ROMS\NES\adventures_of_Lolo3.nes
+F:\MES\ROMS\NES\adventures_of_Tom_sawyer.nes
+F:\MES\ROMS\NES\Adventure_island2.nes
+F:\MES\ROMS\NES\Adventure_island3.nes
+F:\MES\ROMS\NES\Airwolf.nes
+F:\MES\ROMS\NES\Air_fortress.nes
+F:\MES\ROMS\NES\alfred_Chicken.nes
+F:\MES\ROMS\NES\alien3.nes
+F:\MES\ROMS\NES\Alien_syndrome.nes
+F:\MES\ROMS\NES\All_pro_basketball.nes
+F:\MES\ROMS\NES\Al_unser_racing.nes
+F:\MES\ROMS\NES\Amagon.nes
+F:\MES\ROMS\NES\American_gladiators.nes
+F:\MES\ROMS\NES\Anticipation.nes
+F:\MES\ROMS\NES\Archon.nes
+F:\MES\ROMS\NES\Arch_rivals.nes
+F:\MES\ROMS\NES\Arkanoid.nes
+F:\MES\ROMS\NES\Astyanax.nes
+F:\MES\ROMS\NES\Athena.nes
+F:\MES\ROMS\NES\Athletic_world.nes
+F:\MES\ROMS\NES\Attack_of_the_killer_tomatoes.nes
+F:\MES\ROMS\NES\Baby_Boomer.nes
+F:\MES\ROMS\NES\Back_to_the_future.nes
+F:\MES\ROMS\NES\Back_to_the_future_23.nes
+F:\MES\ROMS\NES\Bad_dudes.nes
+F:\MES\ROMS\NES\Bad_news_baseball.nes
+F:\MES\ROMS\NES\Bad_street_brawler.nes
+F:\MES\ROMS\NES\ball.nes
+F:\MES\ROMS\NES\Balloon Fight (U) [!].nes
+F:\MES\ROMS\NES\Balloon_fight.nes
+F:\MES\ROMS\NES\Bandit_kings_of_ancient_china.nes
+F:\MES\ROMS\NES\Barbie.nes
+F:\MES\ROMS\NES\Bard's_tale.nes
+F:\MES\ROMS\NES\BARTVSWO.NES
+F:\MES\ROMS\NES\Baseball.nes
+F:\MES\ROMS\NES\Baseball_simulator.nes
+F:\MES\ROMS\NES\Baseball_stars.nes
+F:\MES\ROMS\NES\Baseball_stars2.nes
+F:\MES\ROMS\NES\Bases_loaded.nes
+F:\MES\ROMS\NES\Bases_loaded2.nes
+F:\MES\ROMS\NES\Bases_loaded3.nes
+F:\MES\ROMS\NES\Bases_loaded4.nes
+F:\MES\ROMS\NES\Base_wars.nes
+F:\MES\ROMS\NES\Batman.nes
+F:\MES\ROMS\NES\Batman_returns.nes
+F:\MES\ROMS\NES\Batman_return_of_the_joker.nes
+F:\MES\ROMS\NES\Battle Tank (U) [!].nes
+F:\MES\ROMS\NES\Battletoads Double Dragon.nes
+F:\MES\ROMS\NES\Battle_chess.nes
+F:\MES\ROMS\NES\Battle_field.nes
+F:\MES\ROMS\NES\Battle_of_olympus.nes
+F:\MES\ROMS\NES\Battle_toads.nes
+F:\MES\ROMS\NES\beetle_juice.nes
+F:\MES\ROMS\NES\Best_of_the_best.nes
+F:\MES\ROMS\NES\big_bird's_hide_and_speak.nes
+F:\MES\ROMS\NES\Big_foot.nes
+F:\MES\ROMS\NES\bill_and_ted's_excellent_adventure.nes
+F:\MES\ROMS\NES\bill_elliot's_nascar_challenge.nes
+F:\MES\ROMS\NES\Bionic_commando.nes
+F:\MES\ROMS\NES\Black_bass.nes
+F:\MES\ROMS\NES\blades_of_steel.nes
+F:\MES\ROMS\NES\Blaster_master.nes
+F:\MES\ROMS\NES\Bomber_man.nes
+F:\MES\ROMS\NES\Bomber_man2.nes
+F:\MES\ROMS\NES\Boulder_dash.nes
+F:\MES\ROMS\NES\Bo_jackson_baseball.nes
+F:\MES\ROMS\NES\Breakthru.nes
+F:\MES\ROMS\NES\bub.nes
+F:\MES\ROMS\NES\Bubble_bobble.nes
+F:\MES\ROMS\NES\Bubble_bobble2.nes
+F:\MES\ROMS\NES\Bucky_O'hare.nes
+F:\MES\ROMS\NES\bugs_bunny_birthday_blowout.nes
+F:\MES\ROMS\NES\Bugs_bunny_crazy_castle.nes
+F:\MES\ROMS\NES\Bump_n_jump.nes
+F:\MES\ROMS\NES\Burai_fighter.nes
+F:\MES\ROMS\NES\Burger_time.nes
+F:\MES\ROMS\NES\Cabal.nes
+F:\MES\ROMS\NES\Caesar's_palace.nes
+F:\MES\ROMS\NES\California_games.nes
+F:\MES\ROMS\NES\Captain_america.nes
+F:\MES\ROMS\NES\Captain_planet.nes
+F:\MES\ROMS\NES\Captain_skyhawk.nes
+F:\MES\ROMS\NES\Casino_kid.nes
+F:\MES\ROMS\NES\Castelian.nes
+F:\MES\ROMS\NES\Castlevania.nes
+F:\MES\ROMS\NES\Castlevania2.nes
+F:\MES\ROMS\NES\castlevania3.nes
+F:\MES\ROMS\NES\castle_of_deceit.nes
+F:\MES\ROMS\NES\Castle_of_dragon.nes
+F:\MES\ROMS\NES\Caveman_games.nes
+F:\MES\ROMS\NES\Championship_bowling.nes
+F:\MES\ROMS\NES\Championship_pool.nes
+F:\MES\ROMS\NES\Chase_hq.nes
+F:\MES\ROMS\NES\Chiller.nes
+F:\MES\ROMS\NES\Chubby_cherub.nes
+F:\MES\ROMS\NES\Circus Charlie (Japan).nes
+F:\MES\ROMS\NES\city.nes
+F:\MES\ROMS\NES\City_connection.nes
+F:\MES\ROMS\NES\clash_at_demonhead.nes
+F:\MES\ROMS\NES\Clu_clu_land.nes
+F:\MES\ROMS\NES\Cobra_command.nes
+F:\MES\ROMS\NES\Cobra_triangle.nes
+F:\MES\ROMS\NES\codename_viper.nes
+F:\MES\ROMS\NES\Commando.nes
+F:\MES\ROMS\NES\Conan.nes
+F:\MES\ROMS\NES\Conflict.nes
+F:\MES\ROMS\NES\Conqest_of_the_crystal_palace.nes
+F:\MES\ROMS\NES\Contra.nes
+F:\MES\ROMS\NES\Contra_force.nes
+F:\MES\ROMS\NES\Crash_dummies.nes
+F:\MES\ROMS\NES\Crash_n_the_boys_street_challenge.nes
+F:\MES\ROMS\NES\Crystalis.nes
+F:\MES\ROMS\NES\Crystal_mines.nes
+F:\MES\ROMS\NES\CVANIA2.NES
+F:\MES\ROMS\NES\Cyberball.nes
+F:\MES\ROMS\NES\Cybernoid.nes
+F:\MES\ROMS\NES\Darkman.nes
+F:\MES\ROMS\NES\Darkwing_duck.nes
+F:\MES\ROMS\NES\Days_of_thunder.nes
+F:\MES\ROMS\NES\Day_dreamin'_davey.nes
+F:\MES\ROMS\NES\Deadly_towers.nes
+F:\MES\ROMS\NES\defender.nes
+F:\MES\ROMS\NES\Defender2.nes
+F:\MES\ROMS\NES\Defenders_of_the_dynatron_city.nes
+F:\MES\ROMS\NES\Defender_of_the_crown.nes
+F:\MES\ROMS\NES\Deja_vu.nes
+F:\MES\ROMS\NES\Demon_sword.nes
+F:\MES\ROMS\NES\Destiny_of_an_emperor.nes
+F:\MES\ROMS\NES\Dick_tracy.nes
+F:\MES\ROMS\NES\Die_hard.nes
+F:\MES\ROMS\NES\digdug.nes
+F:\MES\ROMS\NES\Digger.nes
+F:\MES\ROMS\NES\Dig_dug2.nes
+F:\MES\ROMS\NES\Dirty_harry.nes
+F:\MES\ROMS\NES\dk.nes
+F:\MES\ROMS\NES\Donkey_kong.nes
+F:\MES\ROMS\NES\Donkey_kong3.nes
+F:\MES\ROMS\NES\Donkey_kong_classics.nes
+F:\MES\ROMS\NES\Donkey_kong_jr.nes
+F:\MES\ROMS\NES\donkey_kong_jr_math.nes
+F:\MES\ROMS\NES\Double_dragon.nes
+F:\MES\ROMS\NES\Double_dragon2.nes
+F:\MES\ROMS\NES\Double_dragon3.nes
+F:\MES\ROMS\NES\Double_dribble.nes
+F:\MES\ROMS\NES\Double_strike.nes
+F:\MES\ROMS\NES\dracula.nes
+F:\MES\ROMS\NES\Dragons'_lair.nes
+F:\MES\ROMS\NES\Dragon_fighter.nes
+F:\MES\ROMS\NES\Dragon_power.nes
+F:\MES\ROMS\NES\Dragon_spirit.nes
+F:\MES\ROMS\NES\Dragon_strike.nes
+F:\MES\ROMS\NES\Dragon_warrior.nes
+F:\MES\ROMS\NES\Dragon_warrior2.nes
+F:\MES\ROMS\NES\Dragon_warrior3.nes
+F:\MES\ROMS\NES\Dragon_warrior4.nes
+F:\MES\ROMS\NES\Duck_hunt.nes
+F:\MES\ROMS\NES\Duck_tales.nes
+F:\MES\ROMS\NES\Duck_tales2.nes
+F:\MES\ROMS\NES\Dudes_with_attitude.nes
+F:\MES\ROMS\NES\Dungeon_magic.nes
+F:\MES\ROMS\NES\dusty_diamond_All_star_softball.nes
+F:\MES\ROMS\NES\Dynowarz.nes
+F:\MES\ROMS\NES\EarthWorm Jim 2 (Unl) [U][!].nes
+F:\MES\ROMS\NES\EarthWorm Jim 3 (Unl) [!].nes
+F:\MES\ROMS\NES\Elevator_action.nes
+F:\MES\ROMS\NES\Eliminator_boat_duel.nes
+F:\MES\ROMS\NES\Empire_strikes_back.nes
+F:\MES\ROMS\NES\excite.nes
+F:\MES\ROMS\NES\Excite_bike.nes
+F:\MES\ROMS\NES\exodus.nes
+F:\MES\ROMS\NES\F15_city_war.nes
+F:\MES\ROMS\NES\Family_feud.nes
+F:\MES\ROMS\NES\Fantasy_zone.nes
+F:\MES\ROMS\NES\faria.nes
+F:\MES\ROMS\NES\Fast_break.nes
+F:\MES\ROMS\NES\Faxanadu.nes
+F:\MES\ROMS\NES\Felix the Cat (U) [!].nes
+F:\MES\ROMS\NES\Felix_the_cat.nes
+F:\MES\ROMS\NES\Fester's_quest.nes
+F:\MES\ROMS\NES\Fighting_golf.nes
+F:\MES\ROMS\NES\Final Fantasy I & II (J) [T+Eng1.00_Demiforce].nes
+F:\MES\ROMS\NES\Final Fantasy II (U) (Prototype).nes
+F:\MES\ROMS\NES\Final Fantasy III (J) [T-Eng].nes
+F:\MES\ROMS\NES\Final Fantasy V (Unl).nes
+F:\MES\ROMS\NES\final_fantasy.nes
+F:\MES\ROMS\NES\Fire_hawk.nes
+F:\MES\ROMS\NES\flintstones.nes
+F:\MES\ROMS\NES\Flying_dragon.nes
+F:\MES\ROMS\NES\Flying_warriors.nes
+F:\MES\ROMS\NES\formula_one_built_to_win.nes
+F:\MES\ROMS\NES\Frankenstein.nes
+F:\MES\ROMS\NES\freedom_force.nes
+F:\MES\ROMS\NES\friday_the_13th.nes
+F:\MES\ROMS\NES\FSTONES.NES
+F:\MES\ROMS\NES\f_117_stealth.nes
+F:\MES\ROMS\NES\G&G.NES
+F:\MES\ROMS\NES\Galaga (E).nes
+F:\MES\ROMS\NES\Galaga - Demons of Death (U) [!].nes
+F:\MES\ROMS\NES\GALAGA.NES
+F:\MES\ROMS\NES\Galaxy_5000.nes
+F:\MES\ROMS\NES\Game_genie.nes
+F:\MES\ROMS\NES\Gargoyle's_quest2.nes
+F:\MES\ROMS\NES\Gauntlet.nes
+F:\MES\ROMS\NES\Gauntlet2.nes
+F:\MES\ROMS\NES\George_foreman's_KO_boxing.nes
+F:\MES\ROMS\NES\Ghost_&_goblins.nes
+F:\MES\ROMS\NES\Ghost_busters.nes
+F:\MES\ROMS\NES\Ghost_busters2.nes
+F:\MES\ROMS\NES\Gilligan's_island.nes
+F:\MES\ROMS\NES\GI_joe.nes
+F:\MES\ROMS\NES\GI_joe_atlantis_factor.nes
+F:\MES\ROMS\NES\Goal 3 (Unl) [!].nes
+F:\MES\ROMS\NES\Goal! (U) [!].nes
+F:\MES\ROMS\NES\Goal! Two (U) [!].nes
+F:\MES\ROMS\NES\goal.nes
+F:\MES\ROMS\NES\Godzilla.nes
+F:\MES\ROMS\NES\Godzilla2.nes
+F:\MES\ROMS\NES\Gold_medal_challenge.nes
+F:\MES\ROMS\NES\Golf.nes
+F:\MES\ROMS\NES\Golf_grand_slam.nes
+F:\MES\ROMS\NES\Golgo_13.nes
+F:\MES\ROMS\NES\Goonies2.nes
+F:\MES\ROMS\NES\Gotcha.nes
+F:\MES\ROMS\NES\GRADIUS.NES
+F:\MES\ROMS\NES\GRADIUS2.NES
+F:\MES\ROMS\NES\Gremlins2.nes
+F:\MES\ROMS\NES\Guardian_legend.nes
+F:\MES\ROMS\NES\Guerilla_war.nes
+F:\MES\ROMS\NES\Gum_shoe.nes
+F:\MES\ROMS\NES\Gunsmoke.nes
+F:\MES\ROMS\NES\Gun_nac.nes
+F:\MES\ROMS\NES\Gyromite.nes
+F:\MES\ROMS\NES\Gyruss.nes
+F:\MES\ROMS\NES\Harlem_globetrotters.nes
+F:\MES\ROMS\NES\Hatris.nes
+F:\MES\ROMS\NES\Heavy_barrel.nes
+F:\MES\ROMS\NES\Heavy_shreddin'.nes
+F:\MES\ROMS\NES\Heroes_of_the_lance.nes
+F:\MES\ROMS\NES\Hogan's_alley.nes
+F:\MES\ROMS\NES\Home_alone.nes
+F:\MES\ROMS\NES\Home_alone2.nes
+F:\MES\ROMS\NES\Hook.nes
+F:\MES\ROMS\NES\Hoops.nes
+F:\MES\ROMS\NES\Hot_slots.nes
+F:\MES\ROMS\NES\Hudson_hawk.nes
+F:\MES\ROMS\NES\hunt_for_red_october.nes
+F:\MES\ROMS\NES\Hydlide.nes
+F:\MES\ROMS\NES\Ice_climber.nes
+F:\MES\ROMS\NES\Ice_hockey.nes
+F:\MES\ROMS\NES\Ikari_warriors.nes
+F:\MES\ROMS\NES\Ikari_warriors2.nes
+F:\MES\ROMS\NES\Ikari_warriors3.nes
+F:\MES\ROMS\NES\Immortal.nes
+F:\MES\ROMS\NES\Indiana_jones_and_the_last_crusade.nes
+F:\MES\ROMS\NES\Indiana_jones_and_the_temple_of_doom.nes
+F:\MES\ROMS\NES\Indy_heat.nes
+F:\MES\ROMS\NES\Infiltrator.nes
+F:\MES\ROMS\NES\Iron_tank.nes
+F:\MES\ROMS\NES\island.nes
+F:\MES\ROMS\NES\Isolated_warrior.nes
+F:\MES\ROMS\NES\Jackal.nes
+F:\MES\ROMS\NES\Jackie_chan_kung_fu.nes
+F:\MES\ROMS\NES\Jack_nicklaus_golf.nes
+F:\MES\ROMS\NES\james_bond_jr.nes
+F:\MES\ROMS\NES\Jaws.nes
+F:\MES\ROMS\NES\Jeopardy_25th_anniversary.nes
+F:\MES\ROMS\NES\Jeopardy_jr.nes
+F:\MES\ROMS\NES\Jetsons.nes
+F:\MES\ROMS\NES\Jimmy_connors_tennis.nes
+F:\MES\ROMS\NES\Joe_&_mac.nes
+F:\MES\ROMS\NES\Jordan_vs_bird.nes
+F:\MES\ROMS\NES\Journey_to_silius.nes
+F:\MES\ROMS\NES\Joust.nes
+F:\MES\ROMS\NES\Jungle_book.nes
+F:\MES\ROMS\NES\Jurassic_park.nes
+F:\MES\ROMS\NES\Karate_champ.nes
+F:\MES\ROMS\NES\Karate_kid.nes
+F:\MES\ROMS\NES\Karnov.nes
+F:\MES\ROMS\NES\Kickle_cubicle.nes
+F:\MES\ROMS\NES\Kick_master.nes
+F:\MES\ROMS\NES\Kid_icarus.nes
+F:\MES\ROMS\NES\Kid_kool.nes
+F:\MES\ROMS\NES\Kid_niki.nes
+F:\MES\ROMS\NES\King's_quest_5.nes
+F:\MES\ROMS\NES\Kings_knight.nes
+F:\MES\ROMS\NES\King_of_kings.nes
+F:\MES\ROMS\NES\king_of_the_ring.nes
+F:\MES\ROMS\NES\Kirby's Adventure (U) (PRG1) [!].nes
+F:\MES\ROMS\NES\Kirby's_adventure.nes
+F:\MES\ROMS\NES\Kiwi_kraze.nes
+F:\MES\ROMS\NES\Klash_ball.nes
+F:\MES\ROMS\NES\Klax.nes
+F:\MES\ROMS\NES\Knight_rider.nes
+F:\MES\ROMS\NES\Krazy_kreatures.nes
+F:\MES\ROMS\NES\Krion_conquest.nes
+F:\MES\ROMS\NES\Krusty's_fun_house.nes
+F:\MES\ROMS\NES\Kungfu.nes
+F:\MES\ROMS\NES\Kung_fu.nes
+F:\MES\ROMS\NES\Kung_fu_heroes.nes
+F:\MES\ROMS\NES\L'empereur.nes
+F:\MES\ROMS\NES\laser_invasion.nes
+F:\MES\ROMS\NES\Legacy_of_the_wizard.nes
+F:\MES\ROMS\NES\Legendary_wings.nes
+F:\MES\ROMS\NES\Legends_of_the_diamond.nes
+F:\MES\ROMS\NES\legend_of_kage.nes
+F:\MES\ROMS\NES\Life_force.nes
+F:\MES\ROMS\NES\Linus_spacehead.nes
+F:\MES\ROMS\NES\little_mermaid.nes
+F:\MES\ROMS\NES\little_nemo.nes
+F:\MES\ROMS\NES\Little_ninja_brothers.nes
+F:\MES\ROMS\NES\Lode_runner.nes
+F:\MES\ROMS\NES\Lone_ranger.nes
+F:\MES\ROMS\NES\Loopz.nes
+F:\MES\ROMS\NES\Low_g_man.nes
+F:\MES\ROMS\NES\Lunar_pool.nes
+F:\MES\ROMS\NES\Mach_rider.nes
+F:\MES\ROMS\NES\Mad_max.nes
+F:\MES\ROMS\NES\Mafat_conspiracy.nes
+F:\MES\ROMS\NES\Magician.nes
+F:\MES\ROMS\NES\magic_darts.nes
+F:\MES\ROMS\NES\magic_of_scheherazade.nes
+F:\MES\ROMS\NES\Magmax.nes
+F:\MES\ROMS\NES\Maniac_mansion.nes
+F:\MES\ROMS\NES\Mappy_land.nes
+F:\MES\ROMS\NES\Marble_madness.nes
+F:\MES\ROMS\NES\Mario 7-in-1 [p1][!].nes
+F:\MES\ROMS\NES\Mario's_time_machine.nes
+F:\MES\ROMS\NES\marvel's_x-men.nes
+F:\MES\ROMS\NES\Master_chu_&_the_drunkard_hu.nes
+F:\MES\ROMS\NES\Mechanized_attack.nes
+F:\MES\ROMS\NES\Megaman.nes
+F:\MES\ROMS\NES\MEGAMAN2.NES
+F:\MES\ROMS\NES\MEGAMAN3.NES
+F:\MES\ROMS\NES\MEGAMAN4.NES
+F:\MES\ROMS\NES\MEGAMAN5.NES
+F:\MES\ROMS\NES\MEGAMAN6.NES
+F:\MES\ROMS\NES\Mendel_palace.nes
+F:\MES\ROMS\NES\Metal_fighter.nes
+F:\MES\ROMS\NES\Metal_gear.nes
+F:\MES\ROMS\NES\Metal_mech.nes
+F:\MES\ROMS\NES\Metal_storm.nes
+F:\MES\ROMS\NES\Metroid.nes
+F:\MES\ROMS\NES\Micro_machines.nes
+F:\MES\ROMS\NES\mighty_bombjack.nes
+F:\MES\ROMS\NES\Mighty_final_fight.nes
+F:\MES\ROMS\NES\Might_&_magic.nes
+F:\MES\ROMS\NES\Mike_tyson's_punch_out.nes
+F:\MES\ROMS\NES\Millipede.nes
+F:\MES\ROMS\NES\Milon's_secret_castle.nes
+F:\MES\ROMS\NES\Mission_cobra.nes
+F:\MES\ROMS\NES\Mission_impossible.nes
+F:\MES\ROMS\NES\Monopoly.nes
+F:\MES\ROMS\NES\Monster_in_my_pocket.nes
+F:\MES\ROMS\NES\Motor_city_patrol.nes
+F:\MES\ROMS\NES\Ms_pacman.nes
+F:\MES\ROMS\NES\Mule.nes
+F:\MES\ROMS\NES\Muscle.nes
+F:\MES\ROMS\NES\Mystery_quest.nes
+F:\MES\ROMS\NES\M_c_kids.nes
+F:\MES\ROMS\NES\Narc.nes
+F:\MES\ROMS\NES\Nes_open_golf.nes
+F:\MES\ROMS\NES\NFL.nes
+F:\MES\ROMS\NES\Nightmare_on_elm_street.nes
+F:\MES\ROMS\NES\Nightshade.nes
+F:\MES\ROMS\NES\Ninja_gaiden.nes
+F:\MES\ROMS\NES\Ninja_gaiden2.nes
+F:\MES\ROMS\NES\Ninja_gaiden3.nes
+F:\MES\ROMS\NES\Ninja_kid.nes
+F:\MES\ROMS\NES\Nobunaga's_ambition.nes
+F:\MES\ROMS\NES\Nobunga's_ambition2.nes
+F:\MES\ROMS\NES\North_&_south.nes
+F:\MES\ROMS\NES\Operation_wolf.nes
+F:\MES\ROMS\NES\Orb-3d.nes
+F:\MES\ROMS\NES\Othello.nes
+F:\MES\ROMS\NES\Overlord.nes
+F:\MES\ROMS\NES\pacman.nes
+F:\MES\ROMS\NES\Pac_manL.nes
+F:\MES\ROMS\NES\Pac_manU.nes
+F:\MES\ROMS\NES\paperboy.nes
+F:\MES\ROMS\NES\Paperboy2.nes
+F:\MES\ROMS\NES\Peter_pan_&_the_pirates.nes
+F:\MES\ROMS\NES\Phantasy Star 2 (Unl).nes
+F:\MES\ROMS\NES\Phantom_fighter.nes
+F:\MES\ROMS\NES\Pictionary.nes
+F:\MES\ROMS\NES\Pinball.nes
+F:\MES\ROMS\NES\Pinball_quest.nes
+F:\MES\ROMS\NES\Pipe_dream.nes
+F:\MES\ROMS\NES\Pirates.nes
+F:\MES\ROMS\NES\Platoon.nes
+F:\MES\ROMS\NES\play_action_football.nes
+F:\MES\ROMS\NES\po.nes
+F:\MES\ROMS\NES\Pokemon Blue (Unl) [!].nes
+F:\MES\ROMS\NES\Pokemon Gold (Unl) [!].nes
+F:\MES\ROMS\NES\Pokemon Green (Unl) [!].nes
+F:\MES\ROMS\NES\Pokemon Silver (Unl).nes
+F:\MES\ROMS\NES\POPERSIA.NES
+F:\MES\ROMS\NES\Popeye.nes
+F:\MES\ROMS\NES\Pow.nes
+F:\MES\ROMS\NES\Power_blade.nes
+F:\MES\ROMS\NES\Power_blade2.nes
+F:\MES\ROMS\NES\Power_punch2.nes
+F:\MES\ROMS\NES\Predator.nes
+F:\MES\ROMS\NES\princess_tomato.nes
+F:\MES\ROMS\NES\Prince_of_persia.nes
+F:\MES\ROMS\NES\pro.nes
+F:\MES\ROMS\NES\pro_am.nes
+F:\MES\ROMS\NES\pro_am2.nes
+F:\MES\ROMS\NES\Pro_wrestling.nes
+F:\MES\ROMS\NES\Punch_out.nes
+F:\MES\ROMS\NES\Punisher.nes
+F:\MES\ROMS\NES\Puss_N_boot.nes
+F:\MES\ROMS\NES\Puzzle.nes
+F:\MES\ROMS\NES\Pyramid.nes
+F:\MES\ROMS\NES\quantum_fighter.nes
+F:\MES\ROMS\NES\quarterback.nes
+F:\MES\ROMS\NES\Q_bert.nes
+F:\MES\ROMS\NES\Race_america.nes
+F:\MES\ROMS\NES\Racket_attack.nes
+F:\MES\ROMS\NES\Rad_gravity.nes
+F:\MES\ROMS\NES\Rad_racer.nes
+F:\MES\ROMS\NES\Rad_racer2.nes
+F:\MES\ROMS\NES\Raid_2020.nes
+F:\MES\ROMS\NES\Raid_on_bungling_bay.nes
+F:\MES\ROMS\NES\Rambo.nes
+F:\MES\ROMS\NES\Rampage.nes
+F:\MES\ROMS\NES\Rampart.nes
+F:\MES\ROMS\NES\Rbi_baseball.nes
+F:\MES\ROMS\NES\Rbi_baseball2.nes
+F:\MES\ROMS\NES\Rbi_baseball3.nes
+F:\MES\ROMS\NES\Remote_control.nes
+F:\MES\ROMS\NES\Renegade.nes
+F:\MES\ROMS\NES\Ren_&_stimpy_buckaroos.nes
+F:\MES\ROMS\NES\Rescue.nes
+F:\MES\ROMS\NES\rescue_rangers.nes
+F:\MES\ROMS\NES\rescue_rangers2.nes
+F:\MES\ROMS\NES\Ring_king.nes
+F:\MES\ROMS\NES\river_city_ransom.nes
+F:\MES\ROMS\NES\Road Fighter (Japan).nes
+F:\MES\ROMS\NES\Road_blasters.nes
+F:\MES\ROMS\NES\Road_runner.nes
+F:\MES\ROMS\NES\Robin_hood.nes
+F:\MES\ROMS\NES\Robo_cop.nes
+F:\MES\ROMS\NES\Robo_cop2.nes
+F:\MES\ROMS\NES\Robo_cop3.nes
+F:\MES\ROMS\NES\Robo_warrior.nes
+F:\MES\ROMS\NES\Rocketeer.nes
+F:\MES\ROMS\NES\Rockin_kats.nes
+F:\MES\ROMS\NES\Rocky_&_bullwinkle.nes
+F:\MES\ROMS\NES\Rock_n_ball.nes
+F:\MES\ROMS\NES\Roger_clemens.nes
+F:\MES\ROMS\NES\Rollerball.nes
+F:\MES\ROMS\NES\Roller_games.nes
+F:\MES\ROMS\NES\Rolling_thunder.nes
+F:\MES\ROMS\NES\Romance_of_the_three_kingdoms.nes
+F:\MES\ROMS\NES\romance_of_the_three_kingdoms2.nes
+F:\MES\ROMS\NES\Roundball.nes
+F:\MES\ROMS\NES\Rush_n_attack.nes
+F:\MES\ROMS\NES\Rygar.nes
+F:\MES\ROMS\NES\Scat.nes
+F:\MES\ROMS\NES\Section_z.nes
+F:\MES\ROMS\NES\Seicross.nes
+F:\MES\ROMS\NES\Sesame_abc.nes
+F:\MES\ROMS\NES\Shadowgate.nes
+F:\MES\ROMS\NES\Shadow_of_the_ninja.nes
+F:\MES\ROMS\NES\Shatter_hand.nes
+F:\MES\ROMS\NES\Shingen_the_ruler.nes
+F:\MES\ROMS\NES\Shinobi.nes
+F:\MES\ROMS\NES\Side_pocket.nes
+F:\MES\ROMS\NES\Silent_assault.nes
+F:\MES\ROMS\NES\Silent_service.nes
+F:\MES\ROMS\NES\Silk_worm.nes
+F:\MES\ROMS\NES\Silver_surfer.nes
+F:\MES\ROMS\NES\simpson.nes
+F:\MES\ROMS\NES\simpsons_bart_meets_radioactive_man.nes
+F:\MES\ROMS\NES\simpsons_bart_vs_space_mutants.nes
+F:\MES\ROMS\NES\simpsons_bart_vs_the_world.nes
+F:\MES\ROMS\NES\SkateOrDie.nes
+F:\MES\ROMS\NES\SkateOrDie2.nes
+F:\MES\ROMS\NES\Sky_kid.nes
+F:\MES\ROMS\NES\Sky_shark.nes
+F:\MES\ROMS\NES\Slalom.nes
+F:\MES\ROMS\NES\Smario.nes
+F:\MES\ROMS\NES\Smash_tv.nes
+F:\MES\ROMS\NES\Smb3.nes
+F:\MES\ROMS\NES\Snakes_revenge.nes
+F:\MES\ROMS\NES\Snake_rattle_&_roll.nes
+F:\MES\ROMS\NES\Snoopy_silly_sports.nes
+F:\MES\ROMS\NES\SNOWBROS.NES
+F:\MES\ROMS\NES\Snow_brothers.nes
+F:\MES\ROMS\NES\Soccer.nes
+F:\MES\ROMS\NES\Solar_jetman.nes
+F:\MES\ROMS\NES\Solomon's_key.nes
+F:\MES\ROMS\NES\Solstice.nes
+F:\MES\ROMS\NES\space.nes
+F:\MES\ROMS\NES\Spelunker.nes
+F:\MES\ROMS\NES\Spiderman.nes
+F:\MES\ROMS\NES\spirtual_warfare.nes
+F:\MES\ROMS\NES\Spy_hunter.nes
+F:\MES\ROMS\NES\Spy_vs_spy.nes
+F:\MES\ROMS\NES\Sqoon.nes
+F:\MES\ROMS\NES\Stack_up.nes
+F:\MES\ROMS\NES\Starship_hector.nes
+F:\MES\ROMS\NES\Startropics.nes
+F:\MES\ROMS\NES\Star_force.nes
+F:\MES\ROMS\NES\Star_soldier.nes
+F:\MES\ROMS\NES\Star_trek_25th_anniversary.nes
+F:\MES\ROMS\NES\Star_trek_next_generation.nes
+F:\MES\ROMS\NES\Stealth.nes
+F:\MES\ROMS\NES\Stinger.nes
+F:\MES\ROMS\NES\Street_cop.nes
+F:\MES\ROMS\NES\Street_fighter_2010.nes
+F:\MES\ROMS\NES\Strider.nes
+F:\MES\ROMS\NES\Super C (USA).nes
+F:\MES\ROMS\NES\Super Contra II (Unl) [!].nes
+F:\MES\ROMS\NES\SUPERMAN.NES
+F:\MES\ROMS\NES\Super_c.nes
+F:\MES\ROMS\NES\Super_dodge_ball.nes
+F:\MES\ROMS\NES\Super_glove_ball.nes
+F:\MES\ROMS\NES\Super_mario_brothers.nes
+F:\MES\ROMS\NES\Super_mario_brothers2.nes
+F:\MES\ROMS\NES\Super_mario_brothers3.nes
+F:\MES\ROMS\NES\super_mario_brothers_duck_hunt.nes
+F:\MES\ROMS\NES\super_offroad.nes
+F:\MES\ROMS\NES\Super_pitfall.nes
+F:\MES\ROMS\NES\Super_spike_v-ball_world_cup.nes
+F:\MES\ROMS\NES\Super_sprint.nes
+F:\MES\ROMS\NES\Super_spy_hunter.nes
+F:\MES\ROMS\NES\swamp_thing.nes
+F:\MES\ROMS\NES\Swords_&_serpants.nes
+F:\MES\ROMS\NES\Sword_master.nes
+F:\MES\ROMS\NES\T&c_surf_design.nes
+F:\MES\ROMS\NES\Taboo.nes
+F:\MES\ROMS\NES\Tagin'_dragon.nes
+F:\MES\ROMS\NES\Tag_team_pro_wrestling.nes
+F:\MES\ROMS\NES\Talespin.nes
+F:\MES\ROMS\NES\Tecmo_baseball.nes
+F:\MES\ROMS\NES\Tecmo_basketball.nes
+F:\MES\ROMS\NES\Tecmo_bowl.nes
+F:\MES\ROMS\NES\Tecmo_cup_soccer.nes
+F:\MES\ROMS\NES\Tecmo_super_bowl.nes
+F:\MES\ROMS\NES\Tecmo_wrestling.nes
+F:\MES\ROMS\NES\Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!p].nes
+F:\MES\ROMS\NES\Teenage_mutant_ninja_turtles.nes
+F:\MES\ROMS\NES\Teenage_mutant_ninja_turtles2.nes
+F:\MES\ROMS\NES\Teenage_mutant_ninja_turtles3.nes
+F:\MES\ROMS\NES\Tennis.nes
+F:\MES\ROMS\NES\Terminator_2_judgement_day.nes
+F:\MES\ROMS\NES\Terra_cresta.nes
+F:\MES\ROMS\NES\Tetris-t.nes
+F:\MES\ROMS\NES\Tetris.nes
+F:\MES\ROMS\NES\Tetris2.nes
+F:\MES\ROMS\NES\three_stooges.nes
+F:\MES\ROMS\NES\thrilla's_safari.nes
+F:\MES\ROMS\NES\Thunder_&_lightning.nes
+F:\MES\ROMS\NES\Tiger_heli.nes
+F:\MES\ROMS\NES\Time_lord.nes
+F:\MES\ROMS\NES\Tiny Toon Adventures (U) [!].nes
+F:\MES\ROMS\NES\Tiny_toons_cartoon_workshop.nes
+F:\MES\ROMS\NES\Tiny_toon_adventures.nes
+F:\MES\ROMS\NES\Tiny_toon_adventures2.nes
+F:\MES\ROMS\NES\TMNT.NES
+F:\MES\ROMS\NES\Tmnt2.nes
+F:\MES\ROMS\NES\Tmnt3.nes
+F:\MES\ROMS\NES\Toki.nes
+F:\MES\ROMS\NES\Tombs_and_treasure.nes
+F:\MES\ROMS\NES\Tom_&_jerry.nes
+F:\MES\ROMS\NES\Toobin.nes
+F:\MES\ROMS\NES\Top_gun.nes
+F:\MES\ROMS\NES\Top_gun2.nes
+F:\MES\ROMS\NES\Top_players_tennis.nes
+F:\MES\ROMS\NES\Totally_rad.nes
+F:\MES\ROMS\NES\Total_recall.nes
+F:\MES\ROMS\NES\Touch_downd_fever.nes
+F:\MES\ROMS\NES\Toxic_crusader.nes
+F:\MES\ROMS\NES\Track_&_field.nes
+F:\MES\ROMS\NES\Track_&_field2.nes
+F:\MES\ROMS\NES\Trog.nes
+F:\MES\ROMS\NES\Trojan.nes
+F:\MES\ROMS\NES\Trolls_on_treasure_island.nes
+F:\MES\ROMS\NES\Twin_cobra.nes
+F:\MES\ROMS\NES\Ultimate_air_combat.nes
+F:\MES\ROMS\NES\Ultimate_basketball.nes
+F:\MES\ROMS\NES\Ultimate_stuntman.nes
+F:\MES\ROMS\NES\Ultima_exodus.nes
+F:\MES\ROMS\NES\Ultima_quest_for_the_avatar.nes
+F:\MES\ROMS\NES\Ultima_war_of_destiny.nes
+F:\MES\ROMS\NES\Ultmate_league_soccer.nes
+F:\MES\ROMS\NES\uncharted_waters.nes
+F:\MES\ROMS\NES\Uninvited.nes
+F:\MES\ROMS\NES\Untouchables.nes
+F:\MES\ROMS\NES\Urban_champion.nes
+F:\MES\ROMS\NES\Vegas_dreams.nes
+F:\MES\ROMS\NES\Venice_beach_volleyball.nes
+F:\MES\ROMS\NES\Vice_project_doom.nes
+F:\MES\ROMS\NES\Vindicators.nes
+F:\MES\ROMS\NES\Volleyball.nes
+F:\MES\ROMS\NES\Wacky_races.nes
+F:\MES\ROMS\NES\Wall_street_kid.nes
+F:\MES\ROMS\NES\Wario's_world.nes
+F:\MES\ROMS\NES\Wayne's_world.nes
+F:\MES\ROMS\NES\Wayne_gretzky.nes
+F:\MES\ROMS\NES\Werewolf.nes
+F:\MES\ROMS\NES\Wheel_of_fortune.nes
+F:\MES\ROMS\NES\Wheel_of_fortune_family_edition.nes
+F:\MES\ROMS\NES\Wheel_of_fortune_starring_vanna_white.nes
+F:\MES\ROMS\NES\where's_waldo.nes
+F:\MES\ROMS\NES\Whomp_em.nes
+F:\MES\ROMS\NES\who_framed_roger_rabbit.nes
+F:\MES\ROMS\NES\Wild_gunman.nes
+F:\MES\ROMS\NES\Willow.nes
+F:\MES\ROMS\NES\Winter_games.nes
+F:\MES\ROMS\NES\Win_lose_or_draw.nes
+F:\MES\ROMS\NES\Wizardry.nes
+F:\MES\ROMS\NES\Wizardry2.nes
+F:\MES\ROMS\NES\Wizards_n_warriors.nes
+F:\MES\ROMS\NES\Wizards_n_warriors2.nes
+F:\MES\ROMS\NES\wizards_n_warriors3.nes
+F:\MES\ROMS\NES\Wolverine.nes
+F:\MES\ROMS\NES\World_championship_wrestling.nes
+F:\MES\ROMS\NES\World_cup_soccer.nes
+F:\MES\ROMS\NES\World_games.nes
+F:\MES\ROMS\NES\Wrath_of_the_black_manta.nes
+F:\MES\ROMS\NES\Wrecking_crew.nes
+F:\MES\ROMS\NES\Wrestlemania.nes
+F:\MES\ROMS\NES\Wrestlemania_challenge.nes
+F:\MES\ROMS\NES\Wrestlemania_steel_cage_challenge.nes
+F:\MES\ROMS\NES\Wurm.nes
+F:\MES\ROMS\NES\Xenophobe.nes
+F:\MES\ROMS\NES\Xevious.nes
+F:\MES\ROMS\NES\Xexyz.nes
+F:\MES\ROMS\NES\Yo_noid.nes
+F:\MES\ROMS\NES\Zelda.nes
+F:\MES\ROMS\NES\zelda2.nes
+F:\MES\ROMS\NintendoDS\0004 - Feel the Magic - XY XX.nds
+F:\MES\ROMS\NintendoDS\0216 - Mario & Luigi - Partners in Time.nds
+F:\MES\ROMS\NintendoDS\0561 - Harvest Moon DS.nds
+F:\MES\ROMS\NintendoDS\0613 - Children of Mana.nds
+F:\MES\ROMS\NintendoDS\0614 - Magical Starsign.nds
+F:\MES\ROMS\NintendoDS\1181 - Hoshigami - Ruining Blue Earth Remix.nds
+F:\MES\ROMS\NintendoDS\1331 - Heroes of Mana.nds
+F:\MES\ROMS\NintendoDS\2107 - Final Fantasy Crystal Chronicles - Ring of Fates.nds
+F:\MES\ROMS\NintendoDS\2305 - Drone Tactics.nds
+F:\MES\ROMS\NintendoDS\2495 - Final Fantasy IV.nds
+F:\MES\ROMS\NintendoDS\2609 - Harvest Moon DS - Island of Happiness.nds
+F:\MES\ROMS\NintendoDS\2640 - Lock's Quest.nds
+F:\MES\ROMS\NintendoDS\2696 - Kirby - Super Star Ultra.nds
+F:\MES\ROMS\NintendoDS\3423 - Blue Dragon Plus.nds
+F:\MES\ROMS\NintendoDS\3574 - Final Fantasy Crystal Chronicles - Echoes of Time.nds
+F:\MES\ROMS\NintendoDS\3652 - Dark Spire, The.nds
+F:\MES\ROMS\NintendoDS\3728 - Super Robot Taisen OG Saga - Endless Frontier.nds
+F:\MES\ROMS\NintendoDS\3834 - Knights in the Nightmare (U)(PYRiDiA).nds
+F:\MES\ROMS\NintendoDS\4150 - Harvest Moon - Frantic Farming.nds
+F:\MES\ROMS\NintendoDS\4225 - Kingdom Hearts - 358-2 Days.nds
+F:\MES\ROMS\NintendoDS\4439 - Harvest Moon DS - Sunshine Islands.nds
+F:\MES\ROMS\NintendoDS\4440 - Star Wars - Battlefront - Elite Squadron.nds
+F:\MES\ROMS\NintendoDS\4527 - Legend of Zelda - Spirit Tracks, The.nds
+F:\MES\ROMS\NintendoDS\4722 - Ragnarok DS.nds
+F:\MES\ROMS\NintendoDS\4788 - Pokemon - SoulSilver Version.nds
+F:\MES\ROMS\NintendoDS\4804 - Infinite Space.nds
+F:\MES\ROMS\NintendoDS\4821 - Shin Megami Tensei - Strange Journey.nds
+F:\MES\ROMS\NintendoDS\4956 - Blue Dragon - Awakened Shadow.nds
+F:\MES\ROMS\NintendoDS\5067 - Dragon Ball - Origins 2.nds
+F:\MES\ROMS\NintendoDS\999 9 Hours, 9 Persons, 9 Doors (U).nds
+F:\MES\ROMS\NintendoDS\Advance Wars Days of Ruin.nds
+F:\MES\ROMS\NintendoDS\Disgaea DS.nds
+F:\MES\ROMS\NintendoDS\Dragon Ball Z - Attack of the Saiyans.nds
+F:\MES\ROMS\NintendoDS\Dragon Ball Z - Supersonic Warriors 2 .nds
+F:\MES\ROMS\NintendoDS\Etrian Odissey.nds
+F:\MES\ROMS\NintendoDS\Etrian Odyssey II - Heroes of Lagaard.nds
+F:\MES\ROMS\NintendoDS\Fighting Fantasy - The Warlock of Firetop Mountain.nds
+F:\MES\ROMS\NintendoDS\Final Fantasy Crystal Chronicles Rings Of Fate.nds
+F:\MES\ROMS\NintendoDS\Final Fantasy III.nds
+F:\MES\ROMS\NintendoDS\Final Fantasy Tactics A2 - Grimoire of the Rift.nds
+F:\MES\ROMS\NintendoDS\Golden Sun Dark Dawn (U).nds
+F:\MES\ROMS\NintendoDS\Lufia - Curse of the Sinistrals (U) Patched.nds
+F:\MES\ROMS\NintendoDS\Lunar - Dragon Song.nds
+F:\MES\ROMS\NintendoDS\Mario & Luigi - Bowser's Inside Story.nds
+F:\MES\ROMS\NintendoDS\MegaMan Battle Network 5 - Double Team DS.nds
+F:\MES\ROMS\NintendoDS\Nostalgia.nds
+F:\MES\ROMS\NintendoDS\PkmnB2_apfix.nds
+F:\MES\ROMS\NintendoDS\Pokemon Black (U).nds
+F:\MES\ROMS\NintendoDS\Pokémon Edición Blanca (E)[FIX].nds
+F:\MES\ROMS\NintendoDS\Rondo of Swords.nds
+F:\MES\ROMS\NintendoDS\Sands of Destruction.nds
+F:\MES\ROMS\NintendoDS\Shin Megami Tensei - Devil Survivor.nds
+F:\MES\ROMS\NintendoDS\Star Fox Command.nds
+F:\MES\ROMS\NintendoDS\Suikoden - Tierkreis.nds
+F:\MES\ROMS\NintendoDS\Super Princess Peach.nds
+F:\MES\ROMS\NintendoDS\Teenage Mutant Ninja Turtles 3 - Mutant Nightmare.nds
+F:\MES\ROMS\NintendoDS\Time Hollow.nds
+F:\MES\ROMS\NintendoDS\Touch The Dead.nds
+F:\MES\ROMS\NintendoDS\Valkyrie Profile - Covenant of the Plume.nds
+F:\MES\ROMS\NintendoDS\Worms Open Warfare 2 arm7.nds
+F:\MES\ROMS\NintendoDS\Yoshis Island.NDS
+F:\MES\ROMS\PS1\Chrono Cross
+F:\MES\ROMS\PS1\FastRecovery
+F:\MES\ROMS\PS1\FF5.jpg
+F:\MES\ROMS\PS1\FF5ico.jpg
+F:\MES\ROMS\PS1\FF6.jpg
+F:\MES\ROMS\PS1\FF6ico.jpg
+F:\MES\ROMS\PS1\Ffchronicles.jpg
+F:\MES\ROMS\PS1\FfchroniclesICO.jpg
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions
+F:\MES\ROMS\PS1\Final Fantasy VIII
+F:\MES\ROMS\PS1\FinalFantasyOrigins_BAJAR
+F:\MES\ROMS\PS1\FinalFantasyV
+F:\MES\ROMS\PS1\FinalFantasyVI
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger
+F:\MES\ROMS\PS1\F_F-5.iso
+F:\MES\ROMS\PS1\F_F-6.iso
+F:\MES\ROMS\PS1\Jet Moto 3
+F:\MES\ROMS\PS1\MasterBoy
+F:\MES\ROMS\PS1\Parasite eve
+F:\MES\ROMS\PS1\RE3 Nemesis
+F:\MES\ROMS\PS1\retro.txt
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 1).bin
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 1).cue
+F:\MES\ROMS\PS1\Chrono Cross\CHRONO CROSS (USA) (DISC 1)ISO.TOC
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 2).bin
+F:\MES\ROMS\PS1\Chrono Cross\Chrono Cross (USA) (Disc 2).cue
+F:\MES\ROMS\PS1\Chrono Cross\imgccico.jpg
+F:\MES\ROMS\PS1\Chrono Cross\imgChronocrossbox.jpg
+F:\MES\ROMS\PS1\Chrono Cross\SLUS01041
+F:\MES\ROMS\PS1\Chrono Cross\SLUS01041\EBOOT.PBP
+F:\MES\ROMS\PS1\FastRecovery\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\DOCUMENT.DAT
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\KEYS.BIN
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\LICENSE
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\[PSX-PSP] Final Fantasy 7 (Re-Release).torrent
+F:\MES\ROMS\PS1\Final Fantasy 7 ENG\LICENSE\UP9000-NPUJ94163_00-0000000000000001.rif
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\fft.jpg
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\fftico.jpg
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\rnt-fflw
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\rnt-fflw.iso
+F:\MES\ROMS\PS1\Final Fantasy Tactics The War Of The Lions\rnt-fflw\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy VIII\EBOOT.PBP
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_1.ccd
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_1.img
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_2.ccd
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_2.img
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_3.ccd
+F:\MES\ROMS\PS1\Final Fantasy VIII\FFVIII_3.img
+F:\MES\ROMS\PS1\Final Fantasy VIII\imgFFVIII.jpg
+F:\MES\ROMS\PS1\Final Fantasy VIII\imgFFVIIIico.jpg
+F:\MES\ROMS\PS1\FinalFantasyV\EBOOT.PBP
+F:\MES\ROMS\PS1\FinalFantasyVI\EBOOT.PBP
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\Final_Fantasy_Anthology.jpg
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa1.bin
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa1.cue
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa1.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa2.bin
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa2.cue
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\pr-ffa2.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa.nfo
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa1.rar
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r08
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.r09
+F:\MES\ROMS\PS1\Final_Fantasy_Anthology_FFV_FFVI\rar\pr-ffa2.rar
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\ChronoTrigger.jpg
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\ChronoTriggerico.jpg
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\FinalFantasyChronicles_ChronoTrigger
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc1.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc2.bin
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc2.cue
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\pr-ffc2.sfv
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\PR-FFC2ISO.TOC
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\FinalFantasyChronicles_ChronoTrigger\EBOOT.PBP
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc.nfo
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r08
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r09
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r10
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.r11
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc1.rar
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r00
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r01
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r02
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r03
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r04
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r05
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r06
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r07
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r08
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r09
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r10
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r11
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.r12
+F:\MES\ROMS\PS1\Final_Fantasy_Chronicles_ChronoTrigger\rar\pr-ffc2.rar
+F:\MES\ROMS\PS1\Jet Moto 3\EBOOT.PBP
+F:\MES\ROMS\PS1\MasterBoy\Kernel version
+F:\MES\ROMS\PS1\MasterBoy\MasterBoy.pdf
+F:\MES\ROMS\PS1\MasterBoy\PSP
+F:\MES\ROMS\PS1\MasterBoy\README.TXT
+F:\MES\ROMS\PS1\MasterBoy\Kernel version\EBOOT.PBP
+F:\MES\ROMS\PS1\MasterBoy\Kernel version\README.TXT
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\DEFAULT.INI
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\EBOOT.PBP
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\logo
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Music
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\palettes.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\plugins.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Roms GBC
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Roms SMS
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\ASTERIX.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\BALLOON KID.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\MARIO LAND.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Colorpak\MARIOLAND2.pal.ini
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\logo\neoflash.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Music\music.zip
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\back.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\font.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\glow.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\icons.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Res\numbers.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Glassy
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Glassy\back.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Glassy\icons.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\back.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\font.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\font.oft.bak
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\glow.oft
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\glow.oft.bak
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\icons.png
+F:\MES\ROMS\PS1\MasterBoy\PSP\GAME\MasterBoy\Skins\Sega\numbers.PNG
+F:\MES\ROMS\PS1\Parasite eve\EBOOT.PBP
+F:\MES\ROMS\PS1\RE3 Nemesis\DOCUMENT.DAT
+F:\MES\ROMS\PS1\RE3 Nemesis\EBOOT.PBP
+F:\MES\ROMS\PS1\RE3 Nemesis\KEYS.BIN
+F:\MES\ROMS\PSP\Castlevania Dracula X Chronicles - (Eur).cso
+F:\MES\ROMS\PSP\Crash Bandicoot tag Team Racing.cso
+F:\MES\ROMS\PSP\FFCC.cso
+F:\MES\ROMS\PSP\GOD OF WAR -GHOST OF SPARTA.cso
+F:\MES\ROMS\PSP\Metal Slug Anthology.cso
+F:\MES\ROMS\PSP\Parasite eve The 3rd Birthday Traducido.cso
+F:\MES\ROMS\PSP\PSP
+F:\MES\ROMS\PSP\Silent_Hill_Shattered_Memories Usa-Fix.cso
+F:\MES\ROMS\PSP\PSP\GAME
+F:\MES\ROMS\PSP\PSP\GAME\FinalFantasyType0
+F:\MES\ROMS\SEGA\BLASTER2.SMD
+F:\MES\ROMS\SEGA\BOMBERMA.SMD
+F:\MES\ROMS\SEGA\GAING.SMD
+F:\MES\ROMS\SEGA\GUNSTAR.SMD
+F:\MES\ROMS\SEGA\PENGO.SMD
+F:\MES\ROMS\SEGA\PHANSTAR.SMS
+F:\MES\ROMS\SEGA\PRINCE.SMD
+F:\MES\ROMS\SEGA\SNOWBROS.SMD
+F:\MES\ROMS\SEGA\Toejam & Earl in Panic on Funkotron.smd
+F:\MES\ROMS\SEGA\TOEJAM_A.BIN
+F:\MES\ROMS\SEGA\TOKI.SMD
+F:\MES\ROMS\SNES\3 Ninjas Kick Back
+F:\MES\ROMS\SNES\7th Saga 1
+F:\MES\ROMS\SNES\7th Saga 2
+F:\MES\ROMS\SNES\AAAHH! Real Monsters
+F:\MES\ROMS\SNES\ABC Monday Night Football
+F:\MES\ROMS\SNES\Accele Brid 1
+F:\MES\ROMS\SNES\Acrobat Mission
+F:\MES\ROMS\SNES\Action Pachio
+F:\MES\ROMS\SNES\ActRaiser 1
+F:\MES\ROMS\SNES\ActRaiser 2
+F:\MES\ROMS\SNES\AD&D - Eye of the Beholder
+F:\MES\ROMS\SNES\Addams Family 1
+F:\MES\ROMS\SNES\Addams Family 2
+F:\MES\ROMS\SNES\Addams Family Values
+F:\MES\ROMS\SNES\Adventures of Rocky & Bullwinkle
+F:\MES\ROMS\SNES\Aero Fighters
+F:\MES\ROMS\SNES\Aero the Acro-Bat 1
+F:\MES\ROMS\SNES\Aero the Acro-Bat 2
+F:\MES\ROMS\SNES\Aerobiz
+F:\MES\ROMS\SNES\Aerobiz Supersonic
+F:\MES\ROMS\SNES\Air Cavalry
+F:\MES\ROMS\SNES\Air Strike Patrol
+F:\MES\ROMS\SNES\Aladdin
+F:\MES\ROMS\SNES\Alfred Chicken
+F:\MES\ROMS\SNES\Alien 3.smc
+F:\MES\ROMS\SNES\Alien Vs Predator.smc
+F:\MES\ROMS\SNES\American Gladiators
+F:\MES\ROMS\SNES\An American Tale - Fievel Goes West
+F:\MES\ROMS\SNES\Anarchy 2
+F:\MES\ROMS\SNES\Animaniacs.smc
+F:\MES\ROMS\SNES\Arcana
+F:\MES\ROMS\SNES\Ardy Lightfoot
+F:\MES\ROMS\SNES\Arkanoid.smc
+F:\MES\ROMS\SNES\Art of Fighting
+F:\MES\ROMS\SNES\Axelay
+F:\MES\ROMS\SNES\Ballz 3D
+F:\MES\ROMS\SNES\Barbie Super Model
+F:\MES\ROMS\SNES\Barbie Vacation Adventure
+F:\MES\ROMS\SNES\Barkley Shut Up and Jam
+F:\MES\ROMS\SNES\Barts Nightmare.smc
+F:\MES\ROMS\SNES\Bass Masters Classic
+F:\MES\ROMS\SNES\Bass Masters Classic Pro Edition
+F:\MES\ROMS\SNES\Bassins' Black Bass Fishing with Hank Parker
+F:\MES\ROMS\SNES\Batman & Robin.smc
+F:\MES\ROMS\SNES\Batman Forever.smc
+F:\MES\ROMS\SNES\Batman Returns.smc
+F:\MES\ROMS\SNES\Batman Revenge of the Joker.smc
+F:\MES\ROMS\SNES\Battle Blaze
+F:\MES\ROMS\SNES\Battle Cars
+F:\MES\ROMS\SNES\Battle Clash
+F:\MES\ROMS\SNES\Battle Grand Prix
+F:\MES\ROMS\SNES\Battletoads & Double Dragon - The Ultimate Team.smc
+F:\MES\ROMS\SNES\Battletoads - Battlemaniacs.smc
+F:\MES\ROMS\SNES\Battletoads in Battlemaniacs (U) [!].smc
+F:\MES\ROMS\SNES\Bazooka Blitzkrieg
+F:\MES\ROMS\SNES\Beauty and the Beast
+F:\MES\ROMS\SNES\Beavis and Butthead
+F:\MES\ROMS\SNES\Bebe's Kids
+F:\MES\ROMS\SNES\Beethoven's 2nd
+F:\MES\ROMS\SNES\Best of the Best
+F:\MES\ROMS\SNES\Big Sky Trooper
+F:\MES\ROMS\SNES\Biker Mice From Mars
+F:\MES\ROMS\SNES\Bill Laimbeer's Combat Basketball
+F:\MES\ROMS\SNES\Bill Walsh College Football
+F:\MES\ROMS\SNES\Bio Metal
+F:\MES\ROMS\SNES\Black Thorne
+F:\MES\ROMS\SNES\Blaze On
+F:\MES\ROMS\SNES\Bobby's World
+F:\MES\ROMS\SNES\Bomberman 1.smc
+F:\MES\ROMS\SNES\Bomberman 2.smc
+F:\MES\ROMS\SNES\Bomberman 3.smc
+F:\MES\ROMS\SNES\Bomberman 4.smc
+F:\MES\ROMS\SNES\Bomberman 5.smc
+F:\MES\ROMS\SNES\Bonkers
+F:\MES\ROMS\SNES\Boogerman - A Pick and Flick Adventure
+F:\MES\ROMS\SNES\Boxing Legends of the Ring
+F:\MES\ROMS\SNES\Brain Lord
+F:\MES\ROMS\SNES\Bram Stoker's Dracula
+F:\MES\ROMS\SNES\Brandish
+F:\MES\ROMS\SNES\Brawl Brothers
+F:\MES\ROMS\SNES\BreakThru!
+F:\MES\ROMS\SNES\Breath of Fire 1.smc
+F:\MES\ROMS\SNES\Breath of Fire 2.smc
+F:\MES\ROMS\SNES\Breath of Fire.smc
+F:\MES\ROMS\SNES\breath2.smc
+F:\MES\ROMS\SNES\Brett Hull Hockey
+F:\MES\ROMS\SNES\Brett Hull Hockey 95
+F:\MES\ROMS\SNES\Bronkie Health Hero
+F:\MES\ROMS\SNES\Brunswick Bowling
+F:\MES\ROMS\SNES\Brutal Paws Of Fury
+F:\MES\ROMS\SNES\btdd.smc
+F:\MES\ROMS\SNES\Bubsy 2
+F:\MES\ROMS\SNES\Bubsy Bobcat
+F:\MES\ROMS\SNES\Bugs Bunny.smc
+F:\MES\ROMS\SNES\Bulls Vs. Blazers
+F:\MES\ROMS\SNES\Bust-a-Move
+F:\MES\ROMS\SNES\Cacoma Knight
+F:\MES\ROMS\SNES\Cal Ripken's Baseball
+F:\MES\ROMS\SNES\California Games 2
+F:\MES\ROMS\SNES\Cannondale Cup
+F:\MES\ROMS\SNES\Capcom MVP Football
+F:\MES\ROMS\SNES\Capcom's Soccer Shootout
+F:\MES\ROMS\SNES\Captain America & the Avengers
+F:\MES\ROMS\SNES\Captain Commando
+F:\MES\ROMS\SNES\Captain Novolin
+F:\MES\ROMS\SNES\Carrier Aces
+F:\MES\ROMS\SNES\Casper
+F:\MES\ROMS\SNES\castle5.smc
+F:\MES\ROMS\SNES\Castlevania 4.smc
+F:\MES\ROMS\SNES\Castlevania 5.smc
+F:\MES\ROMS\SNES\Castlevania Dracula X.smc
+F:\MES\ROMS\SNES\Champions World Class Soccer
+F:\MES\ROMS\SNES\Championship Pool
+F:\MES\ROMS\SNES\Championship Soccer '94
+F:\MES\ROMS\SNES\Chavez Boxing
+F:\MES\ROMS\SNES\Chavez Boxing 2
+F:\MES\ROMS\SNES\Chess Master
+F:\MES\ROMS\SNES\Chester Cheetah - Too Cool to Fool
+F:\MES\ROMS\SNES\Chester Cheetah - Wild Wild Quest
+F:\MES\ROMS\SNES\Choplifter 3
+F:\MES\ROMS\SNES\Chrono Trigger.smc
+F:\MES\ROMS\SNES\Chuck Rock
+F:\MES\ROMS\SNES\Civilization
+F:\MES\ROMS\SNES\Clay Fighter 1.smc
+F:\MES\ROMS\SNES\Clay Fighter 2.smc
+F:\MES\ROMS\SNES\Claymates
+F:\MES\ROMS\SNES\Cliff Hanger
+F:\MES\ROMS\SNES\Clue
+F:\MES\ROMS\SNES\College Slam Basketball
+F:\MES\ROMS\SNES\Columns
+F:\MES\ROMS\SNES\Combatribes
+F:\MES\ROMS\SNES\Congo's Caper
+F:\MES\ROMS\SNES\Contra 3 - The Alien Wars.smc
+F:\MES\ROMS\SNES\Contra III - The Alien Wars (U) [!].smc
+F:\MES\ROMS\SNES\Cool Spot
+F:\MES\ROMS\SNES\Cool World
+F:\MES\ROMS\SNES\Cutthroat Island
+F:\MES\ROMS\SNES\Cybernator - With Sound Test
+F:\MES\ROMS\SNES\D Ballz 2 Jap
+F:\MES\ROMS\SNES\D Ballz 3 Jap
+F:\MES\ROMS\SNES\D-Force
+F:\MES\ROMS\SNES\Daffy Duck - The Marvin Missions.smc
+F:\MES\ROMS\SNES\Darius Twin
+F:\MES\ROMS\SNES\David Crane's Amazing Tennis
+F:\MES\ROMS\SNES\Demolition Man
+F:\MES\ROMS\SNES\Demon's Crest (E).smc
+F:\MES\ROMS\SNES\Demon's Crest.smc
+F:\MES\ROMS\SNES\Dennis the Menace
+F:\MES\ROMS\SNES\Desert Strike - Return to the Gulf
+F:\MES\ROMS\SNES\Destero Porno
+F:\MES\ROMS\SNES\Dig and Spike Vollyball
+F:\MES\ROMS\SNES\Dino City
+F:\MES\ROMS\SNES\Dirt Trax FX
+F:\MES\ROMS\SNES\Dkc.smc
+F:\MES\ROMS\SNES\Dkc2.smc
+F:\MES\ROMS\SNES\Dkc3.smc
+F:\MES\ROMS\SNES\Dodgeball
+F:\MES\ROMS\SNES\Donald Duck -  Maui Mallard in Cold Shadow
+F:\MES\ROMS\SNES\Donkey Kong Country 1.smc
+F:\MES\ROMS\SNES\Donkey Kong Country 2 - Diddy's Kong Quest.smc
+F:\MES\ROMS\SNES\Donkey Kong Country 3 - Dixie Kong's Double Trouble.smc
+F:\MES\ROMS\SNES\Doom Troopers
+F:\MES\ROMS\SNES\Doomsday Warrior
+F:\MES\ROMS\SNES\Double Dragon 2.smc
+F:\MES\ROMS\SNES\Double Dragon 5 - The Shadow Falls.smc
+F:\MES\ROMS\SNES\Dragon - The Bruce Lee Story
+F:\MES\ROMS\SNES\Dragon View
+F:\MES\ROMS\SNES\Dragon's Lair
+F:\MES\ROMS\SNES\Drakkhen
+F:\MES\ROMS\SNES\Dream TV
+F:\MES\ROMS\SNES\Dungeon Master
+F:\MES\ROMS\SNES\E.V.O. Search for Eden
+F:\MES\ROMS\SNES\EA College Football 97'
+F:\MES\ROMS\SNES\Earthbound.smc
+F:\MES\ROMS\SNES\Earthworm Jim (E) [!].smc
+F:\MES\ROMS\SNES\Earthworm Jim 1.smc
+F:\MES\ROMS\SNES\Earthworm Jim 2.smc
+F:\MES\ROMS\SNES\Eek! the Cat
+F:\MES\ROMS\SNES\Elite Soccer
+F:\MES\ROMS\SNES\Emmitt Smith Football
+F:\MES\ROMS\SNES\Equinox
+F:\MES\ROMS\SNES\ESPN Baseball Tonight
+F:\MES\ROMS\SNES\ESPN Hockey Night
+F:\MES\ROMS\SNES\ESPN Speed World
+F:\MES\ROMS\SNES\ESPN Sunday Night NFL
+F:\MES\ROMS\SNES\Exertainment Mountain Bike Rally
+F:\MES\ROMS\SNES\F-Zero 1.smc
+F:\MES\ROMS\SNES\F-Zero 2 - Grand Prix.smc
+F:\MES\ROMS\SNES\F-Zero.smc
+F:\MES\ROMS\SNES\F1 Pole Position
+F:\MES\ROMS\SNES\F1 Roc 1 - Race of Champions
+F:\MES\ROMS\SNES\F1 Roc 2 - Race of Champions
+F:\MES\ROMS\SNES\Faceball
+F:\MES\ROMS\SNES\Family Dog
+F:\MES\ROMS\SNES\Family Fued
+F:\MES\ROMS\SNES\Fatal Fury 1.smc
+F:\MES\ROMS\SNES\Fatal Fury 2.smc
+F:\MES\ROMS\SNES\Fatal Fury Special.smc
+F:\MES\ROMS\SNES\ff2.smc
+F:\MES\ROMS\SNES\FF4.SMC
+F:\MES\ROMS\SNES\ff5.smc
+F:\MES\ROMS\SNES\Fifa 95
+F:\MES\ROMS\SNES\Fifa 96
+F:\MES\ROMS\SNES\Fifa 97
+F:\MES\ROMS\SNES\FIFA 98
+F:\MES\ROMS\SNES\FIFA International Soccer.smc
+F:\MES\ROMS\SNES\Fighter's History.smc
+F:\MES\ROMS\SNES\Final Fantasy (Mystic Quest).smc
+F:\MES\ROMS\SNES\Final Fantasy 1 Mystic Quest.smc
+F:\MES\ROMS\SNES\Final Fantasy 2.smc
+F:\MES\ROMS\SNES\Final Fantasy 3.smc
+F:\MES\ROMS\SNES\Final Fantasy 4.smc
+F:\MES\ROMS\SNES\Final Fantasy 5.smc
+F:\MES\ROMS\SNES\Final Fantasy 6.smc
+F:\MES\ROMS\SNES\Final Fantasy II (U) (V1.0) [!].smc
+F:\MES\ROMS\SNES\Final Fantasy II.smc
+F:\MES\ROMS\SNES\Final Fantasy III (U) (V1.0) (Bugfix Edition Hack).smc
+F:\MES\ROMS\SNES\Final Fantasy V (J) [b1].smc
+F:\MES\ROMS\SNES\Final Fantasy VI (J) [T+Eng1.2_RPGOne][h1] (All Fixes).smc
+F:\MES\ROMS\SNES\Final Fight 3.smc
+F:\MES\ROMS\SNES\Final Fight Guy
+F:\MES\ROMS\SNES\Fire Striker
+F:\MES\ROMS\SNES\Firepower 2000
+F:\MES\ROMS\SNES\First Samurai
+F:\MES\ROMS\SNES\Flashback
+F:\MES\ROMS\SNES\Football Fury
+F:\MES\ROMS\SNES\Foreman For Real
+F:\MES\ROMS\SNES\Frank Thomas' Big Hurt Baseball
+F:\MES\ROMS\SNES\Frankenstein
+F:\MES\ROMS\SNES\Frantic Flea
+F:\MES\ROMS\SNES\Full Throttle Racing
+F:\MES\ROMS\SNES\Fun 'N Games
+F:\MES\ROMS\SNES\Fuzzy Shooting
+F:\MES\ROMS\SNES\Fzero2.smc
+F:\MES\ROMS\SNES\Gemfire
+F:\MES\ROMS\SNES\Genghis Khan 1
+F:\MES\ROMS\SNES\Genghis Khan 2 - Clan of the Grey Wolf
+F:\MES\ROMS\SNES\George Foreman K.O. Boxing
+F:\MES\ROMS\SNES\Ghoul Patrol
+F:\MES\ROMS\SNES\Gods
+F:\MES\ROMS\SNES\Goof Troop
+F:\MES\ROMS\SNES\GP-1
+F:\MES\ROMS\SNES\GP-1 Part 2
+F:\MES\ROMS\SNES\Gradius 3.smc
+F:\MES\ROMS\SNES\Gradius III (U) [!].smc
+F:\MES\ROMS\SNES\Great Waldo Search
+F:\MES\ROMS\SNES\Great Waldo Search - Copy
+F:\MES\ROMS\SNES\GS Mikami jap
+F:\MES\ROMS\SNES\GS Mikami jap - Copy
+F:\MES\ROMS\SNES\Gun Force
+F:\MES\ROMS\SNES\Hagane
+F:\MES\ROMS\SNES\Hal's Hole in One Golf
+F:\MES\ROMS\SNES\Hardball 3
+F:\MES\ROMS\SNES\Harley's Humongous Adventure
+F:\MES\ROMS\SNES\Harvest Moon
+F:\MES\ROMS\SNES\Head-On Soccer
+F:\MES\ROMS\SNES\Hit the Ice
+F:\MES\ROMS\SNES\Home Alone 1
+F:\MES\ROMS\SNES\Home Alone 2
+F:\MES\ROMS\SNES\Home Improvement
+F:\MES\ROMS\SNES\Hook
+F:\MES\ROMS\SNES\Hot Teens Slideshow
+F:\MES\ROMS\SNES\Hunt for Red October
+F:\MES\ROMS\SNES\Hyper V-Ball
+F:\MES\ROMS\SNES\Hyper Zone
+F:\MES\ROMS\SNES\Ignition Factor
+F:\MES\ROMS\SNES\Illusion of Gaia
+F:\MES\ROMS\SNES\Imperium
+F:\MES\ROMS\SNES\Incantation
+F:\MES\ROMS\SNES\Indiana Jones - Trilogy
+F:\MES\ROMS\SNES\Inindo
+F:\MES\ROMS\SNES\Inspector Gadget
+F:\MES\ROMS\SNES\International Superstar Soccer Deluxe (E).smc
+F:\MES\ROMS\SNES\International Superstar Soccer Deluxe.smc
+F:\MES\ROMS\SNES\International Tennis Tour
+F:\MES\ROMS\SNES\International Tennis Tour - Copy
+F:\MES\ROMS\SNES\Irem Skins Game
+F:\MES\ROMS\SNES\Irem Skins Game - Copy
+F:\MES\ROMS\SNES\Itchy & Scratchy
+F:\MES\ROMS\SNES\Itchy & Scratchy - Copy
+F:\MES\ROMS\SNES\Izzy's Quest for the Olympic Rings
+F:\MES\ROMS\SNES\Izzy's Quest for the Olympic Rings - Copy
+F:\MES\ROMS\SNES\Jack Nicklaus Golf
+F:\MES\ROMS\SNES\Jack Nicklaus Golf - Copy
+F:\MES\ROMS\SNES\James Bond Jr
+F:\MES\ROMS\SNES\Jammit
+F:\MES\ROMS\SNES\Jeopardy! - Deluxe Edition
+F:\MES\ROMS\SNES\Jeopardy! - Sports Edition
+F:\MES\ROMS\SNES\Jetsons.smc
+F:\MES\ROMS\SNES\Jim Powers - The Lost Dimension 3D
+F:\MES\ROMS\SNES\jim2.smc
+F:\MES\ROMS\SNES\Jimmy Connors Pro Tennis Tour
+F:\MES\ROMS\SNES\Jimmy Houston's Bass Tournament USA
+F:\MES\ROMS\SNES\Joe and Mac 1 - Caveman Ninja
+F:\MES\ROMS\SNES\Joe and Mac 2
+F:\MES\ROMS\SNES\Judge Dredd
+F:\MES\ROMS\SNES\Jungle Strike
+F:\MES\ROMS\SNES\Jurassic Park 1
+F:\MES\ROMS\SNES\Jurassic Park 2
+F:\MES\ROMS\SNES\Justice League Task Force
+F:\MES\ROMS\SNES\Kablooey
+F:\MES\ROMS\SNES\Kawasaki Carribean Challenge
+F:\MES\ROMS\SNES\Kawasaki Superbike Challenge
+F:\MES\ROMS\SNES\Ken Griffey Jr's. Winning Run Baseball
+F:\MES\ROMS\SNES\Ken Griffy Jr Baseball
+F:\MES\ROMS\SNES\Kendo Rage
+F:\MES\ROMS\SNES\Kid Klown in Crazy Chase
+F:\MES\ROMS\SNES\Killer Instinct.smc
+F:\MES\ROMS\SNES\King Arthur & The Knights of Justice
+F:\MES\ROMS\SNES\King of the Monsters 1
+F:\MES\ROMS\SNES\King of the Monsters 2
+F:\MES\ROMS\SNES\Kirby Super Star (U) [!].smc
+F:\MES\ROMS\SNES\Kirby Super Star.smc
+F:\MES\ROMS\SNES\Kirby's Avalanche (U) [!].smc
+F:\MES\ROMS\SNES\Kirby's Avalanche.smc
+F:\MES\ROMS\SNES\Knights of the Round
+F:\MES\ROMS\SNES\Kyle Petty's No Fear Racing
+F:\MES\ROMS\SNES\Lagoon
+F:\MES\ROMS\SNES\Lamborghini - American Challenge
+F:\MES\ROMS\SNES\Legend
+F:\MES\ROMS\SNES\Legend of Zelda, The - A Link to the Past (E) [!].smc
+F:\MES\ROMS\SNES\Lemmings
+F:\MES\ROMS\SNES\Lemmings 2
+F:\MES\ROMS\SNES\Lester The Unlikely
+F:\MES\ROMS\SNES\Lethal Enforcers
+F:\MES\ROMS\SNES\Lethal Weapon
+F:\MES\ROMS\SNES\Liberty or Death
+F:\MES\ROMS\SNES\Lion's Porno 2
+F:\MES\ROMS\SNES\Lions Porno 1
+F:\MES\ROMS\SNES\Lock-On
+F:\MES\ROMS\SNES\Looney Tunes - Acme Animation Factory
+F:\MES\ROMS\SNES\Looney Tunes - B-Ball
+F:\MES\ROMS\SNES\Lord of the Ring.smc
+F:\MES\ROMS\SNES\Lords of Darkness
+F:\MES\ROMS\SNES\Lufia & The Fortress of Doom
+F:\MES\ROMS\SNES\Lufia 1
+F:\MES\ROMS\SNES\Lufia 2
+F:\MES\ROMS\SNES\Lufia II - Rise of the Sinistrals
+F:\MES\ROMS\SNES\Madden 95
+F:\MES\ROMS\SNES\Madden 96
+F:\MES\ROMS\SNES\Madden 97
+F:\MES\ROMS\SNES\Madden 98
+F:\MES\ROMS\SNES\Madden NFL '93
+F:\MES\ROMS\SNES\Madden NFL '94.smc
+F:\MES\ROMS\SNES\Madden NFL Football
+F:\MES\ROMS\SNES\Magic Boy
+F:\MES\ROMS\SNES\Magic Johnson's Super Slam Dunk
+F:\MES\ROMS\SNES\Magic Sword
+F:\MES\ROMS\SNES\Mario Paint.smc
+F:\MES\ROMS\SNES\MARIO.SMC
+F:\MES\ROMS\SNES\Mark Davis' The Fishing Master
+F:\MES\ROMS\SNES\Marvel Super Heroes - War of the Gems
+F:\MES\ROMS\SNES\Math Blaster
+F:\MES\ROMS\SNES\Maximum Carnage.smc
+F:\MES\ROMS\SNES\Mecarobot Golf
+F:\MES\ROMS\SNES\Mech Warrior
+F:\MES\ROMS\SNES\Mech Warrior 3050
+F:\MES\ROMS\SNES\Mega Man 7.smc
+F:\MES\ROMS\SNES\Mega Man VII (E).smc
+F:\MES\ROMS\SNES\Mega Man X (U) (V1.0) [!].smc
+F:\MES\ROMS\SNES\Mega Man X 1.smc
+F:\MES\ROMS\SNES\Mega Man X 2.smc
+F:\MES\ROMS\SNES\Mega Man X 3.smc
+F:\MES\ROMS\SNES\Mega Man X2.smc
+F:\MES\ROMS\SNES\Mega Man X3.smc
+F:\MES\ROMS\SNES\Metal Combat (US).smc
+F:\MES\ROMS\SNES\Metal Combat - Falcon's Revenge
+F:\MES\ROMS\SNES\Metal Marines
+F:\MES\ROMS\SNES\Metal Morph
+F:\MES\ROMS\SNES\Metroid.smc
+F:\MES\ROMS\SNES\Michael Andretti's Indy Car Challenge
+F:\MES\ROMS\SNES\Michael Jordan - Chaos in the Windy City
+F:\MES\ROMS\SNES\Mickey & Minnie - The Great Circus Mystery.smc
+F:\MES\ROMS\SNES\Mickey Mania.smc
+F:\MES\ROMS\SNES\Mickey's Playtown Adventure - A Day Of Discovery!.smc
+F:\MES\ROMS\SNES\Mickey's Ultimate Challenge.smc
+F:\MES\ROMS\SNES\Micro Machines
+F:\MES\ROMS\SNES\Might and Magic 3
+F:\MES\ROMS\SNES\Mighty Max
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers  - Battle Racers
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers - Fighting Edition
+F:\MES\ROMS\SNES\Mighty Morphin Power Rangers - Movie Edition
+F:\MES\ROMS\SNES\MK2.SMC
+F:\MES\ROMS\SNES\MKOMBAT.SMC
+F:\MES\ROMS\SNES\MLBPA Baseball
+F:\MES\ROMS\SNES\Mohawk and Headphone Jack
+F:\MES\ROMS\SNES\Monopoly
+F:\MES\ROMS\SNES\Mortal Kombat 1.smc
+F:\MES\ROMS\SNES\Mortal Kombat 2.smc
+F:\MES\ROMS\SNES\Mortal Kombat 3 - Ultimate.smc
+F:\MES\ROMS\SNES\Mr. Do!
+F:\MES\ROMS\SNES\Mr. Nutz
+F:\MES\ROMS\SNES\Ms.smc
+F:\MES\ROMS\SNES\Musya
+F:\MES\ROMS\SNES\Natsume Championship Wrestling
+F:\MES\ROMS\SNES\NBA All-Star Challenge.smc
+F:\MES\ROMS\SNES\NBA Give 'N Go
+F:\MES\ROMS\SNES\NBA Hang Time
+F:\MES\ROMS\SNES\NBA Jam - Majerle
+F:\MES\ROMS\SNES\NBA Jam Tournament Edition
+F:\MES\ROMS\SNES\NBA Jam.smc
+F:\MES\ROMS\SNES\NBA Live 95
+F:\MES\ROMS\SNES\NBA Live 96
+F:\MES\ROMS\SNES\NBA Live 97
+F:\MES\ROMS\SNES\NBA Live 98
+F:\MES\ROMS\SNES\NBA Showdown
+F:\MES\ROMS\SNES\NCAA Basketball
+F:\MES\ROMS\SNES\NCAA Final Four Basketball
+F:\MES\ROMS\SNES\Newman Hass Indy Car Racing
+F:\MES\ROMS\SNES\NFL Football
+F:\MES\ROMS\SNES\NFL Quarterback Club
+F:\MES\ROMS\SNES\NFL Quarterback Club '96
+F:\MES\ROMS\SNES\NHL 94
+F:\MES\ROMS\SNES\NHL 95
+F:\MES\ROMS\SNES\NHL 96
+F:\MES\ROMS\SNES\NHL 97
+F:\MES\ROMS\SNES\NHL 98
+F:\MES\ROMS\SNES\NHL Stanley Cup
+F:\MES\ROMS\SNES\NHLPA Hockey '93
+F:\MES\ROMS\SNES\Nickelodeon Guts
+F:\MES\ROMS\SNES\Nigel Mansell's World Championship Racing
+F:\MES\ROMS\SNES\Ninja Gaiden Trilogy.smc
+F:\MES\ROMS\SNES\No Escape
+F:\MES\ROMS\SNES\Nobunaga's Ambition
+F:\MES\ROMS\SNES\Nobunaga's Ambition 2
+F:\MES\ROMS\SNES\Nolan Ryan's Baseball
+F:\MES\ROMS\SNES\Nosferatu
+F:\MES\ROMS\SNES\Obitus
+F:\MES\ROMS\SNES\Ogre Battle
+F:\MES\ROMS\SNES\Ohmono Black Bass
+F:\MES\ROMS\SNES\Olympic Summer Games 96
+F:\MES\ROMS\SNES\On the Ball
+F:\MES\ROMS\SNES\Operation Europe
+F:\MES\ROMS\SNES\Operation Logic Bomb
+F:\MES\ROMS\SNES\Operation Thunderbolt
+F:\MES\ROMS\SNES\Oscar
+F:\MES\ROMS\SNES\Out Of This World 1
+F:\MES\ROMS\SNES\Out of This World 2
+F:\MES\ROMS\SNES\Out to Lunch
+F:\MES\ROMS\SNES\Outlander
+F:\MES\ROMS\SNES\Pac Attack
+F:\MES\ROMS\SNES\Pac in Time
+F:\MES\ROMS\SNES\Pac Man 2 - The New Adventures
+F:\MES\ROMS\SNES\Pac-Man 1.smc
+F:\MES\ROMS\SNES\Pac-Man 2 (The New Adventures).smc
+F:\MES\ROMS\SNES\Pachio
+F:\MES\ROMS\SNES\Pacific Theater of Operations
+F:\MES\ROMS\SNES\Pacific Theater of Operations 2
+F:\MES\ROMS\SNES\Packy and Marlon
+F:\MES\ROMS\SNES\Paladins Quest 1
+F:\MES\ROMS\SNES\Paladins Quest 2
+F:\MES\ROMS\SNES\Paper Boy 2
+F:\MES\ROMS\SNES\Peace Keepers
+F:\MES\ROMS\SNES\Pebble Beach Golf Links
+F:\MES\ROMS\SNES\PGA European Tour
+F:\MES\ROMS\SNES\PGA Tour 96
+F:\MES\ROMS\SNES\PGA Tour Golf
+F:\MES\ROMS\SNES\Phalanx
+F:\MES\ROMS\SNES\Phantom 2040
+F:\MES\ROMS\SNES\Pieces
+F:\MES\ROMS\SNES\Pilotwings
+F:\MES\ROMS\SNES\Pinball Fantasies
+F:\MES\ROMS\SNES\Pit Fighter
+F:\MES\ROMS\SNES\Pitfall
+F:\MES\ROMS\SNES\Plok
+F:\MES\ROMS\SNES\Pocky
+F:\MES\ROMS\SNES\Pong
+F:\MES\ROMS\SNES\Populous
+F:\MES\ROMS\SNES\Porky Pig's Haunted Holiday
+F:\MES\ROMS\SNES\Power Instinct
+F:\MES\ROMS\SNES\Power Moves
+F:\MES\ROMS\SNES\Power Piggs of the Dark Age
+F:\MES\ROMS\SNES\PowerInstinct
+F:\MES\ROMS\SNES\Prehistorik Man
+F:\MES\ROMS\SNES\Primal Rage
+F:\MES\ROMS\SNES\Pro Quarterback
+F:\MES\ROMS\SNES\Pro Sport Hockey
+F:\MES\ROMS\SNES\Pushover
+F:\MES\ROMS\SNES\Q Bert 3
+F:\MES\ROMS\SNES\Race Drivin'
+F:\MES\ROMS\SNES\Radical Rex
+F:\MES\ROMS\SNES\Raiden Trad
+F:\MES\ROMS\SNES\Rampart
+F:\MES\ROMS\SNES\Ranma ½.smc
+F:\MES\ROMS\SNES\Rape Games
+F:\MES\ROMS\SNES\Rapid Fire Counter
+F:\MES\ROMS\SNES\Realm
+F:\MES\ROMS\SNES\Redline F-1 Racer
+F:\MES\ROMS\SNES\Relief Pitcher
+F:\MES\ROMS\SNES\Ren and Stimpy - Buckaroos
+F:\MES\ROMS\SNES\Ren and Stimpy - Fire Dog
+F:\MES\ROMS\SNES\Ren and Stimpy - Time Warp
+F:\MES\ROMS\SNES\Ren and Stimpy - Veediots
+F:\MES\ROMS\SNES\Return of the Jedi.smc
+F:\MES\ROMS\SNES\Revolution X
+F:\MES\ROMS\SNES\Rex Ronan
+F:\MES\ROMS\SNES\Riddick Bowe Boxing
+F:\MES\ROMS\SNES\Rifle Simulator (NG-Dump Known)
+F:\MES\ROMS\SNES\Rise of the Phoenix
+F:\MES\ROMS\SNES\Rise of the Robots
+F:\MES\ROMS\SNES\Rival Turf
+F:\MES\ROMS\SNES\River City Ransom
+F:\MES\ROMS\SNES\Road Riot 4WD
+F:\MES\ROMS\SNES\Road Runner's Death Valley Rally
+F:\MES\ROMS\SNES\Robocop 3
+F:\MES\ROMS\SNES\Robocop VS The Terminator
+F:\MES\ROMS\SNES\Robotrek
+F:\MES\ROMS\SNES\Rock & Roll Racing
+F:\MES\ROMS\SNES\Rocketeer
+F:\MES\ROMS\SNES\Rockman & Forte Jap.smc
+F:\MES\ROMS\SNES\Rocko's Modern Life
+F:\MES\ROMS\SNES\Rocky the Rodent
+F:\MES\ROMS\SNES\Roger Clemens's MVP Baseball
+F:\MES\ROMS\SNES\Roller Hockey 95
+F:\MES\ROMS\SNES\Romance of the Three Kingdoms 2
+F:\MES\ROMS\SNES\Romance of the Three Kingdoms 3
+F:\MES\ROMS\SNES\Romance of the Three Kingdoms 4
+F:\MES\ROMS\SNES\Samurai Showdown.smc
+F:\MES\ROMS\SNES\Saturday Night Slammaster
+F:\MES\ROMS\SNES\Scooby Doo
+F:\MES\ROMS\SNES\SeaQuest
+F:\MES\ROMS\SNES\Secret of Evermore.smc
+F:\MES\ROMS\SNES\Secret of Mana 1.smc
+F:\MES\ROMS\SNES\Secret of mana 2.smc
+F:\MES\ROMS\SNES\Secret of Mana.smc
+F:\MES\ROMS\SNES\Secret of the Stars.smc
+F:\MES\ROMS\SNES\Sex Pics
+F:\MES\ROMS\SNES\Sexy HK Game Girls 1
+F:\MES\ROMS\SNES\Sexy HK Game Girls 2
+F:\MES\ROMS\SNES\Shadow
+F:\MES\ROMS\SNES\Shadow Run
+F:\MES\ROMS\SNES\Shanghai 2 - The Dragon's Eye
+F:\MES\ROMS\SNES\Shaq Fu
+F:\MES\ROMS\SNES\Shien's Revenge
+F:\MES\ROMS\SNES\Shoot Your Load
+F:\MES\ROMS\SNES\Side Pocket
+F:\MES\ROMS\SNES\Sim Ant
+F:\MES\ROMS\SNES\Sim City 2000.smc
+F:\MES\ROMS\SNES\Sim City.smc
+F:\MES\ROMS\SNES\Sim Earth
+F:\MES\ROMS\SNES\Sink or Swim
+F:\MES\ROMS\SNES\Skul Jagger
+F:\MES\ROMS\SNES\Sky Blazer
+F:\MES\ROMS\SNES\Smart Ball
+F:\MES\ROMS\SNES\Smash TV
+F:\MES\ROMS\SNES\Snow White in Happily Ever After
+F:\MES\ROMS\SNES\Soldiers of Fortune
+F:\MES\ROMS\SNES\Sonic Blastman 2.smc
+F:\MES\ROMS\SNES\Sonic Blastman.smc
+F:\MES\ROMS\SNES\Sonic the Hetchog.smc
+F:\MES\ROMS\SNES\Soul Blazer
+F:\MES\ROMS\SNES\Space Ace
+F:\MES\ROMS\SNES\Space Football
+F:\MES\ROMS\SNES\Space Invaders (The Original Game).smc
+F:\MES\ROMS\SNES\Space Invaders - The Original Game.smc
+F:\MES\ROMS\SNES\Space Megaforce
+F:\MES\ROMS\SNES\Spanky's Quest
+F:\MES\ROMS\SNES\Sparkster
+F:\MES\ROMS\SNES\Spawn
+F:\MES\ROMS\SNES\Spectre
+F:\MES\ROMS\SNES\Speed Racer
+F:\MES\ROMS\SNES\Speedy Gonzales
+F:\MES\ROMS\SNES\Spell Craft
+F:\MES\ROMS\SNES\Spider Man and Venom - Maximum Carnage.smc
+F:\MES\ROMS\SNES\Spin Dizzy Worlds
+F:\MES\ROMS\SNES\Sporting News Power Baseball
+F:\MES\ROMS\SNES\Sports Illustrated Championship Football & Baseball
+F:\MES\ROMS\SNES\Star Fox (U) (V1.0) [!].smc
+F:\MES\ROMS\SNES\Star Fox 1.smc
+F:\MES\ROMS\SNES\Star Fox 2 (Beta TD) [b1].smc
+F:\MES\ROMS\SNES\Star Fox 2 (Early Beta).smc
+F:\MES\ROMS\SNES\Star Fox Competition - Weekend Edition.smc
+F:\MES\ROMS\SNES\Star Trek - Deep Space Nine v2.smc
+F:\MES\ROMS\SNES\Star Trek - Deep Space Nine.smc
+F:\MES\ROMS\SNES\Star Trek - Starfleet Academy.smc
+F:\MES\ROMS\SNES\Star Trek - The Next Generation.smc
+F:\MES\ROMS\SNES\Star Trek.smc
+F:\MES\ROMS\SNES\Stargate.smc
+F:\MES\ROMS\SNES\Steel Talons
+F:\MES\ROMS\SNES\Sterling Sharpe End 2 End
+F:\MES\ROMS\SNES\Stone Protectors
+F:\MES\ROMS\SNES\Street Combat
+F:\MES\ROMS\SNES\Street Fighter 2 - The New Challengers
+F:\MES\ROMS\SNES\Street Fighter 2 Black Belt Edition
+F:\MES\ROMS\SNES\Street Fighter 2 Carnage
+F:\MES\ROMS\SNES\Street Fighter 2 Champ.smc
+F:\MES\ROMS\SNES\Street Fighter 2 Lightning Edition.smc
+F:\MES\ROMS\SNES\Street Fighter 2 Modified Edition Hype Hack
+F:\MES\ROMS\SNES\Street Fighter 2 New Moves Edition Japan
+F:\MES\ROMS\SNES\Street Fighter 2 Next Generation
+F:\MES\ROMS\SNES\Street Fighter 2 Special Accelerated Edition
+F:\MES\ROMS\SNES\Street Fighter 2 Turbo.smc
+F:\MES\ROMS\SNES\Street Fighter 2 World Warrior
+F:\MES\ROMS\SNES\Street Hockey '95
+F:\MES\ROMS\SNES\Street Racer
+F:\MES\ROMS\SNES\Strike Gunner
+F:\MES\ROMS\SNES\Stunt Race FX
+F:\MES\ROMS\SNES\Sunset Riders.smc
+F:\MES\ROMS\SNES\Super Adventure Island 1.smc
+F:\MES\ROMS\SNES\Super Adventure Island 2.smc
+F:\MES\ROMS\SNES\Super Aquatic Games
+F:\MES\ROMS\SNES\Super Baseball 2020
+F:\MES\ROMS\SNES\Super Baseball Simulator 1000
+F:\MES\ROMS\SNES\Super Bases Loaded 1
+F:\MES\ROMS\SNES\Super Bases Loaded 2
+F:\MES\ROMS\SNES\Super Bases Loaded 3
+F:\MES\ROMS\SNES\Super Batter Up
+F:\MES\ROMS\SNES\Super Battle Tank 1.smc
+F:\MES\ROMS\SNES\Super Battle Tank 2.smc
+F:\MES\ROMS\SNES\Super Battleship.smc
+F:\MES\ROMS\SNES\Super Black Bass
+F:\MES\ROMS\SNES\Super Bomberman 1.smc
+F:\MES\ROMS\SNES\Super Bomberman 2.smc
+F:\MES\ROMS\SNES\Super Bomberman.smc
+F:\MES\ROMS\SNES\Super Bonk
+F:\MES\ROMS\SNES\Super Bowling
+F:\MES\ROMS\SNES\Super Buster Brothers
+F:\MES\ROMS\SNES\Super Caesars Palace
+F:\MES\ROMS\SNES\Super Castlevania IV (U) [t1].smc
+F:\MES\ROMS\SNES\Super Chase HQ
+F:\MES\ROMS\SNES\Super Conflict
+F:\MES\ROMS\SNES\Super Double Dragon (E) [!].smc
+F:\MES\ROMS\SNES\Super Double Dragon.smc
+F:\MES\ROMS\SNES\Super Earth Defence Force
+F:\MES\ROMS\SNES\Super Ghouls 'N Ghosts (E).smc
+F:\MES\ROMS\SNES\Super Ghouls and Ghosts
+F:\MES\ROMS\SNES\Super Goal! 1
+F:\MES\ROMS\SNES\Super Goal! 2.smc
+F:\MES\ROMS\SNES\Super Godzilla
+F:\MES\ROMS\SNES\Super High Impact
+F:\MES\ROMS\SNES\Super James Pond
+F:\MES\ROMS\SNES\Super Mario All-Stars + Super Mario World.smc
+F:\MES\ROMS\SNES\Super Mario Kart.smc
+F:\MES\ROMS\SNES\Super Mario Paint.smc
+F:\MES\ROMS\SNES\Super Mario RPG - Legend of the Seven Stars.smc
+F:\MES\ROMS\SNES\Super Mario World (E) (V1.0) [h1C].smc
+F:\MES\ROMS\SNES\Super Mario World 2 (Yoshi's Island).smc
+F:\MES\ROMS\SNES\Super Mario World 2 - Yoshi's Island.smc
+F:\MES\ROMS\SNES\Super Mario World.smc
+F:\MES\ROMS\SNES\Super Metroid.smc
+F:\MES\ROMS\SNES\Super Ninja Boy
+F:\MES\ROMS\SNES\Super Noah's Ark 3D
+F:\MES\ROMS\SNES\Super Nova
+F:\MES\ROMS\SNES\Super Off Road - The Baja
+F:\MES\ROMS\SNES\Super Pinball Behind the Mask
+F:\MES\ROMS\SNES\Super Play Action Football
+F:\MES\ROMS\SNES\Super Punch-Out!!.smc
+F:\MES\ROMS\SNES\Super Putty
+F:\MES\ROMS\SNES\Super R-Type
+F:\MES\ROMS\SNES\Super RBI Baseball
+F:\MES\ROMS\SNES\Super Scope 6
+F:\MES\ROMS\SNES\Super Shadow of the Beast
+F:\MES\ROMS\SNES\Super Slapshot
+F:\MES\ROMS\SNES\Super Soccer
+F:\MES\ROMS\SNES\Super Soccer Champion
+F:\MES\ROMS\SNES\Super Solitaire
+F:\MES\ROMS\SNES\Super Star Wars - Empire Strikes Back.smc
+F:\MES\ROMS\SNES\Super Star Wars-Return of the Jedi.smc
+F:\MES\ROMS\SNES\Super Star Wars.smc
+F:\MES\ROMS\SNES\Super Strike Eagle
+F:\MES\ROMS\SNES\Super Tennis
+F:\MES\ROMS\SNES\Super Tom & Jerry
+F:\MES\ROMS\SNES\Super Troll Islands
+F:\MES\ROMS\SNES\Super Turrican 1.smc
+F:\MES\ROMS\SNES\Super Turrican 2.smc
+F:\MES\ROMS\SNES\Super Valis 4
+F:\MES\ROMS\SNES\Super Widget
+F:\MES\ROMS\SNES\SuperMarioRPG.smc
+F:\MES\ROMS\SNES\Suzuka 8 Hours
+F:\MES\ROMS\SNES\Swat Kats
+F:\MES\ROMS\SNES\Syndicate
+F:\MES\ROMS\SNES\Tales of Phantasia.smc
+F:\MES\ROMS\SNES\Taz-Mania
+F:\MES\ROMS\SNES\Tecmo Super Baseball
+F:\MES\ROMS\SNES\Tecmo Super Bowl 1
+F:\MES\ROMS\SNES\Tecmo Super Bowl 2
+F:\MES\ROMS\SNES\Tecmo Super Bowl 3
+F:\MES\ROMS\SNES\Tecmo Super NBA Basketball
+F:\MES\ROMS\SNES\Teenage Mutant Ninja Turtles 4 - Turtles in Time.smc
+F:\MES\ROMS\SNES\Teenage Mutant Ninja Turtles 5.smc
+F:\MES\ROMS\SNES\Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].smc
+F:\MES\ROMS\SNES\Tekken 2 Jap
+F:\MES\ROMS\SNES\Ten Chimy
+F:\MES\ROMS\SNES\Terminator 1.smc
+F:\MES\ROMS\SNES\Terminator 2 -  The Arcade Game.smc
+F:\MES\ROMS\SNES\Terminator 2.smc
+F:\MES\ROMS\SNES\Test Drive 2
+F:\MES\ROMS\SNES\Tetris & Dr. Mario.smc
+F:\MES\ROMS\SNES\Tetris & Dr.smc
+F:\MES\ROMS\SNES\Tetris 2.smc
+F:\MES\ROMS\SNES\Tetris Attack.smc
+F:\MES\ROMS\SNES\The Legend of Zelda (A Link to The Past).smc
+F:\MES\ROMS\SNES\The Lord of the Rings - Volume One.smc
+F:\MES\ROMS\SNES\The Lost Vikings
+F:\MES\ROMS\SNES\The Tick
+F:\MES\ROMS\SNES\Theme Park
+F:\MES\ROMS\SNES\Thomas the Tank
+F:\MES\ROMS\SNES\Thunder Spirits
+F:\MES\ROMS\SNES\Tic Tac Toe
+F:\MES\ROMS\SNES\Time Cop
+F:\MES\ROMS\SNES\Time Slip
+F:\MES\ROMS\SNES\Time Trax
+F:\MES\ROMS\SNES\Timon & Pumba
+F:\MES\ROMS\SNES\Tinstar
+F:\MES\ROMS\SNES\Tiny Toons Adventure.smc
+F:\MES\ROMS\SNES\Tiny Toons Sports
+F:\MES\ROMS\SNES\TKO Super Championship Boxing
+F:\MES\ROMS\SNES\TNN Bass Fishing
+F:\MES\ROMS\SNES\Toilet
+F:\MES\ROMS\SNES\Tony Meola's Sidekicks Soccer
+F:\MES\ROMS\SNES\Top English
+F:\MES\ROMS\SNES\Top Gear 1
+F:\MES\ROMS\SNES\Top Gear 2
+F:\MES\ROMS\SNES\Top Gear 3000
+F:\MES\ROMS\SNES\Total Carnage
+F:\MES\ROMS\SNES\Tournamrnt Fighter
+F:\MES\ROMS\SNES\Toy Story
+F:\MES\ROMS\SNES\Toys
+F:\MES\ROMS\SNES\Troddlers
+F:\MES\ROMS\SNES\Troy Aikman NFL Football
+F:\MES\ROMS\SNES\True Lies
+F:\MES\ROMS\SNES\Tuff E Nuff
+F:\MES\ROMS\SNES\Turn and Burn - No-Fly Zone
+F:\MES\ROMS\SNES\Twisted Tales of Spike McFang
+F:\MES\ROMS\SNES\U.N. Squadron
+F:\MES\ROMS\SNES\Ultima - Runes of Virtue 2
+F:\MES\ROMS\SNES\Ultima 6
+F:\MES\ROMS\SNES\Ultima 7 - The Black Gate
+F:\MES\ROMS\SNES\Ultimate Fighter
+F:\MES\ROMS\SNES\Ultraman -Towards the Future
+F:\MES\ROMS\SNES\Uncharted Waters 1
+F:\MES\ROMS\SNES\Uncharted Waters 2
+F:\MES\ROMS\SNES\Uni Racers
+F:\MES\ROMS\SNES\Universal Soldier
+F:\MES\ROMS\SNES\Untouchables
+F:\MES\ROMS\SNES\Urban Strike
+F:\MES\ROMS\SNES\Utopia
+F:\MES\ROMS\SNES\Vegas Stakes
+F:\MES\ROMS\SNES\Villgust - Transcore
+F:\MES\ROMS\SNES\Virtual Bart
+F:\MES\ROMS\SNES\Vortex
+F:\MES\ROMS\SNES\Waialae Golf
+F:\MES\ROMS\SNES\Wanderers from Ys
+F:\MES\ROMS\SNES\War 2410
+F:\MES\ROMS\SNES\War 3010 - The Revolution
+F:\MES\ROMS\SNES\Wario's Woods.smc
+F:\MES\ROMS\SNES\Warlock
+F:\MES\ROMS\SNES\Warp Speed
+F:\MES\ROMS\SNES\Wayne Gretzky Hockey
+F:\MES\ROMS\SNES\Wayne's World
+F:\MES\ROMS\SNES\WCW Super Brawl
+F:\MES\ROMS\SNES\We're Back - A Dinosaur Story
+F:\MES\ROMS\SNES\Weapon Lord
+F:\MES\ROMS\SNES\What A Chess
+F:\MES\ROMS\SNES\Wheel of Fortune
+F:\MES\ROMS\SNES\Wheel Of Fortune - Deluxe Edition
+F:\MES\ROMS\SNES\Where in the World is Carmen Sandiego
+F:\MES\ROMS\SNES\Where in Time is Carmen Sandiego
+F:\MES\ROMS\SNES\Whizz
+F:\MES\ROMS\SNES\Wicked 18 Golf
+F:\MES\ROMS\SNES\Wild Guns
+F:\MES\ROMS\SNES\Wild Snake
+F:\MES\ROMS\SNES\Williams Arcade Games
+F:\MES\ROMS\SNES\Williams Arcade Games - Atari
+F:\MES\ROMS\SNES\Wing Commander
+F:\MES\ROMS\SNES\Wings 2
+F:\MES\ROMS\SNES\Winter Extreme Sking
+F:\MES\ROMS\SNES\Winter Olympics.smc
+F:\MES\ROMS\SNES\Wizard of Oz
+F:\MES\ROMS\SNES\Wizardry 5
+F:\MES\ROMS\SNES\Wolf Child
+F:\MES\ROMS\SNES\Wolfenstein 3D.smc
+F:\MES\ROMS\SNES\Wolverine Adamantiun Rage.smc
+F:\MES\ROMS\SNES\Wordtris
+F:\MES\ROMS\SNES\World Cup USA 94
+F:\MES\ROMS\SNES\World Heroes 1
+F:\MES\ROMS\SNES\World Heroes 2.smc
+F:\MES\ROMS\SNES\World League Basketball
+F:\MES\ROMS\SNES\World League Soccer.smc
+F:\MES\ROMS\SNES\World Soccer 94 - Road to Glory
+F:\MES\ROMS\SNES\Worms
+F:\MES\ROMS\SNES\WWF Raw
+F:\MES\ROMS\SNES\WWF Royal Rumble
+F:\MES\ROMS\SNES\WWF Super Wrestlemania
+F:\MES\ROMS\SNES\WWF Wrestlemania
+F:\MES\ROMS\SNES\WWF Wrestlemania Arcade
+F:\MES\ROMS\SNES\X - Kalibur 2097
+F:\MES\ROMS\SNES\X - Men 1.smc
+F:\MES\ROMS\SNES\X - Men 2 - Mutant Apocalypse.smc
+F:\MES\ROMS\SNES\X - Zone
+F:\MES\ROMS\SNES\Xardion
+F:\MES\ROMS\SNES\Yogi Bear
+F:\MES\ROMS\SNES\Yoshi's Cookie
+F:\MES\ROMS\SNES\Yoshi's Island.smc
+F:\MES\ROMS\SNES\Yoshi's Safari.smc
+F:\MES\ROMS\SNES\Young Merlin
+F:\MES\ROMS\SNES\Zelda - A Link to The Past.smc
+F:\MES\ROMS\SNES\Zero the Kamikaze Squirrel

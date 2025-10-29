@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mixtli Retro Inventory</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+  <script>
+    // Pass initial game data down to JS
+    window.MIXTLI_GAMES = {{ games|tojson }};
+  </script>
+
+  <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+
+<body>
+  <!-- Power-on prompt -->
+<div id="power-start">
+  <div class="power-bg"></div>
+  <div class="power-text flicker">PUSH POWER BUTTON TO START</div>
+</div>
+  <!-- CRT scanlines -->
+  <div class="scan-overlay"></div>
+    <div id="boot-overlay">
+    <div class="boot-bg"></div>
+    <div class="boot-logo">MIXTLI<br>ENTERTAINMENT SYSTEM</div>
+    <img src="{{ url_for('static', filename='seal.png') }}" class="boot-seal" id="boot-seal" alt="Mixtli Seal">
+    <audio id="boot-sfx" src="{{ url_for('static', filename='boot.mp3') }}"></audio>
+  </div>
+
+
+  <header class="app-header">
+    <div class="brand-row">
+      <div class="brand-left">
+        <div class="brand-logo">MIXTLI</div>
+        <div class="brand-sub">RETRO CONSOLE LIBRARY</div>
+      </div>
+      <div class="brand-right">
+        <div class="sys-badges">
+          <span class="badge snes">SNES</span>
+          <span class="badge nes">NES</span>
+          <span class="badge gba">GBA</span>
+          <span class="badge psx">PS1</span>
+          <span class="badge n64">N64</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="title-bar">
+      <div id="current-title" class="current-title">SELECT A GAME</div>
+      <div id="current-platform" class="current-platform">-</div>
+    </div>
+  </header>
+
+  <main class="carousel-stage">
+    <div id="carousel" class="carousel-track">
+      {% for g in games %}
+      <div class="cart-slot"
+           data-index="{{ loop.index0 }}"
+           data-title="{{ g.title }}"
+           data-platform="{{ g.platform }}"
+           data-path="{{ g.path }}">
+        <div class="cover-frame">
+          <img class="cover-img" src="{{ g.cover }}" alt="{{ g.title }}">
+          <div class="platform-chip {{ g.platform|lower }}">{{ g.platform }}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </main>
+
+  <footer class="hud-footer">
+    <div class="hint-row">
+      <div class="hint"><span class="keycap">←</span><span class="keycap">→</span> Browse</div>
+      <div class="hint"><span class="keycap">A / Enter</span> Launch</div>
+      <div class="hint"><span class="keycap">B</span> Back</div>
+    </div>
+    <div class="sig-row">
+      <div class="sig-left">Mixtli Entertainment System</div>
+      <div class="sig-right">PC MASTER RACE MODE</div>
+      <div class="eq-container">
+        <div class="eq-bar" id="eq1"></div>
+        <div class="eq-bar" id="eq2"></div>
+        <div class="eq-bar" id="eq3"></div>
+     </div>
+    </div>
+  </footer>
+
+  <!-- Sound effects (you provide the .wav files) -->
+  <audio id="sfx-move" src="{{ url_for('static', filename='move.mp3') }}"></audio>
+  <audio id="sfx-launch" src="{{ url_for('static', filename='launch.mp3') }}"></audio>
+  <!-- Background music -->
+  <audio id="bgm" src="{{ url_for('static', filename='bg/02_ShopChannel.mp3') }}" loop></audio>
+
+
+</body>
+</html>

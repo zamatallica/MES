@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Mixtli Retro OST Cataloguer</title>
+<style>
+body { 
+  background:#0b0b0b; 
+  color:#ddd; 
+  font-family:Consolas, monospace; 
+  display:flex; 
+  gap:1rem; 
+  padding:1rem; 
+  margin:0;
+  height:100vh;
+  overflow:hidden;
+  position: relative;
+}
+
+/* Animated Pixel Art Background */
+#pixel-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0.15;
+  background: linear-gradient(to bottom, #0b0b0b 0%, #1a1a2e 100%);
+  overflow: hidden;
+}
+
+.pixel {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background-color: #0ff;
+  animation: float 15s infinite linear;
+}
+
+.pixel:nth-child(2n) {
+  background-color: #f0f;
+  animation-duration: 20s;
+  animation-delay: -5s;
+}
+
+.pixel:nth-child(3n) {
+  background-color: #ff0;
+  animation-duration: 25s;
+  animation-delay: -10s;
+}
+
+.pixel:nth-child(4n) {
+  background-color: #0f0;
+  animation-duration: 30s;
+  animation-delay: -15s;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(100vh) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100px) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+/* Retro scanlines effect */
+.scanlines {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(255,255,255,0) 0%,
+    rgba(255,255,255,0.03) 50%,
+    rgba(255,255,255,0) 100%
+  );
+  background-size: 100% 4px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* CRT screen curvature effect */
+.crt::before {
+  content: " ";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(18, 16, 16, 0) 50%,
+    rgba(0, 0, 0, 0.25) 50%
+  );
+  background-size: 100% 4px;
+  z-index: 2;
+  pointer-events: none;
+  border-radius: 10px;
+}
+
+.crt::after {
+  content: " ";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(18, 16, 16, 0.1);
+  opacity: 0.15;
+  z-index: 2;
+  pointer-events: none;
+  border-radius: 10px;
+}
+
+#roms { 
+  flex:1; 
+  max-height:90vh; 
+  overflow-y:auto; 
+  border-right:1px solid #333; 
+  padding-right:1rem;
+  background: rgba(11, 11, 11, 0.7);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+}
+#yt-results { 
+  flex:2; 
+  overflow-y:auto;
+  padding:0 1rem;
+  background: rgba(11, 11, 11, 0.7);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+}
+#details { 
+  flex:1; 
+  border-left:1px solid #333; 
+  padding:0 1rem;
+  overflow-y:auto;
+  background: rgba(11, 11, 11, 0.7);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+}
+.rom { 
+  padding:0.5rem; 
+  cursor:pointer; 
+  border-bottom:1px solid #222; 
+  transition: all 0.2s ease;
+  position:relative;
+  border-radius: 4px;
+}
+.rom:hover { 
+  background:#1a1a1a; 
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+.rom.active { 
+  background:#222; 
+  color:#0ff; 
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);
+}
+.yt-item { 
+  display:flex; 
+  align-items:center; 
+  cursor:pointer; 
+  margin-bottom:0.5rem; 
+}
+.yt-item img { 
+  width:90px; 
+  margin-right:0.5rem; 
+  border-radius:4px; 
+}
+button { 
+  background:#0ff; 
+  color:#000; 
+  border:none; 
+  padding:0.5rem 1rem; 
+  cursor:pointer; 
+  border-radius:4px; 
+  font-family:Consolas, monospace;
+  font-weight:bold;
+  transition: all 0.2s ease;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+button:hover { 
+  background:#09f; 
+  transform:translateY(-2px);
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);
+}
+button:disabled {
+  background:#666;
+  cursor:not-allowed;
+  transform:none;
+  box-shadow: none;
+}
+.yt-result {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  margin-bottom: 8px;
+  padding:8px;
+  border-radius:4px;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.yt-result:hover {
+  background: rgba(0,255,255,0.1);
+  border: 1px solid rgba(0,255,255,0.3);
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+}
+
+.yt-result.selected {
+  background: rgba(0,255,255,0.2);
+  border: 1px solid #0ff;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);
+}
+
+.yt-result img {
+  width: 90px;
+  height: 60px;
+  border-radius: 5px;
+  object-fit:cover;
+}
+.rom.linked {
+  background: rgba(0,255,255,0.15);
+  border-left: 3px solid #0ff;
+  position: relative;
+}
+
+.rom.linked::after {
+  content: "✔";
+  position: absolute;
+  right: 8px;
+  color: #0ff;
+  font-size: 0.9rem;
+}
+
+.rom.linked {
+  animation: pulse 1.5s ease-in-out;
+}
+@keyframes pulse {
+  0% { background-color: rgba(0,255,255,0.05); }
+  50% { background-color: rgba(0,255,255,0.15); }
+  100% { background-color: rgba(0,255,255,0.05); }
+}
+#manualVideoId:focus {
+  outline: none;
+  box-shadow: 0 0 5px #0ff;
+}
+
+input, select {
+  background:#111;
+  color:#0ff;
+  border:1px solid #333;
+  padding:8px;
+  border-radius:4px;
+  font-family:Consolas, monospace;
+  width:100%;
+  margin-bottom:10px;
+  transition: all 0.2s ease;
+}
+
+input:focus {
+  outline:none;
+  box-shadow:0 0 5px #0ff;
+  border-color: #0ff;
+}
+
+#preview {
+  margin-top:15px;
+  text-align:center;
+}
+
+#preview iframe {
+  border-radius:5px;
+  border:1px solid #333;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+}
+
+#status {
+  margin-top:10px;
+  min-height:20px;
+  font-weight:bold;
+}
+
+.header {
+  color:#0ff;
+  border-bottom:1px solid #333;
+  padding-bottom:10px;
+  margin-bottom:15px;
+  text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+}
+
+.section {
+  margin-bottom:20px;
+}
+
+.loading {
+  color:#0ff;
+  text-align:center;
+  padding:10px;
+  text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
+}
+
+.error {
+  color:#f55;
+  text-align:center;
+  padding:10px;
+  text-shadow: 0 0 5px rgba(255, 85, 85, 0.5);
+}
+
+.success {
+  color:#5f5;
+  text-align:center;
+  padding:10px;
+  text-shadow: 0 0 5px rgba(85, 255, 85, 0.5);
+}
+
+.controls {
+  display:flex;
+  gap:10px;
+  margin-bottom:15px;
+}
+
+.controls button {
+  flex:1;
+}
+
+.audio-controls {
+  position:fixed;
+  bottom:15px;
+  right:15px;
+  background:rgba(0,0,0,0.7);
+  padding:10px;
+  border-radius:5px;
+  border:1px solid #333;
+  z-index: 10;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+}
+
+.audio-controls button {
+  background:#333;
+  color:#0ff;
+}
+
+.audio-controls button:hover {
+  background:#444;
+}
+
+/* Retro game characters in background */
+.pixel-art {
+  position: absolute;
+  image-rendering: pixelated;
+  z-index: -1;
+  opacity: 0.05;
+}
+
+.mario {
+  width: 32px;
+  height: 32px;
+  bottom: 10%;
+  left: 5%;
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="8" y="4" width="8" height="4" fill="%23e52521"/><rect x="16" y="4" width="8" height="4" fill="%23e52521"/><rect x="4" y="8" width="4" height="4" fill="%23e52521"/><rect x="8" y="8" width="16" height="4" fill="%23e52521"/><rect x="24" y="8" width="4" height="4" fill="%23e52521"/><rect x="4" y="12" width="4" height="4" fill="%23e52521"/><rect x="8" y="12" width="16" height="4" fill="%23e52521"/><rect x="24" y="12" width="4" height="4" fill="%23e52521"/><rect x="8" y="16" width="4" height="4" fill="%23e52521"/><rect x="12" y="16" width="8" height="4" fill="%23e52521"/><rect x="20" y="16" width="4" height="4" fill="%23e52521"/><rect x="12" y="20" width="8" height="4" fill="%23e52521"/><rect x="8" y="24" width="4" height="4" fill="%23e52521"/><rect x="12" y="24" width="8" height="4" fill="%23e52521"/><rect x="20" y="24" width="4" height="4" fill="%23e52521"/><rect x="4" y="28" width="4" height="4" fill="%23e52521"/><rect x="8" y="28" width="4" height="4" fill="%23e52521"/><rect x="20" y="28" width="4" height="4" fill="%23e52521"/><rect x="24" y="28" width="4" height="4" fill="%23e52521"/></svg>');
+  animation: floatMario 20s infinite linear;
+}
+
+@keyframes floatMario {
+  0% {
+    transform: translateX(-100px) rotate(0deg);
+  }
+  100% {
+    transform: translateX(calc(100vw + 100px)) rotate(360deg);
+  }
+}
+
+.sonic {
+  width: 32px;
+  height: 32px;
+  top: 20%;
+  right: 5%;
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="12" y="4" width="8" height="4" fill="%2300f"/><rect x="8" y="8" width="16" height="4" fill="%2300f"/><rect x="4" y="12" width="24" height="4" fill="%2300f"/><rect x="4" y="16" width="4" height="4" fill="%2300f"/><rect x="8" y="16" width="16" height="4" fill="%2300f"/><rect x="24" y="16" width="4" height="4" fill="%2300f"/><rect x="4" y="20" width="4" height="4" fill="%2300f"/><rect x="8" y="20" width="16" height="4" fill="%2300f"/><rect x="24" y="20" width="4" height="4" fill="%2300f"/><rect x="8" y="24" width="16" height="4" fill="%2300f"/><rect x="12" y="28" width="8" height="4" fill="%2300f"/></svg>');
+  animation: floatSonic 25s infinite linear reverse;
+}
+
+@keyframes floatSonic {
+  0% {
+    transform: translateX(100px) rotate(0deg);
+  }
+  100% {
+    transform: translateX(calc(-100vw - 100px)) rotate(-360deg);
+  }
+}
+
+/* 8-bit stars in background */
+.star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background-color: #fff;
+  border-radius: 50%;
+  animation: twinkle 3s infinite ease-in-out;
+}
+
+.star:nth-child(2n) {
+  animation-delay: 1s;
+}
+
+.star:nth-child(3n) {
+  animation-delay: 2s;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 1; }
+}
+</style>
+</head>
+<body class="crt">
+
+<!-- Animated Pixel Art Background -->
+<div id="pixelBackground"></div>
+<div class="scanlines"></div>
+
+<!-- Retro game characters -->
+<div class="pixel-art mario"></div>
+<div class="pixel-art sonic"></div>
+
+<!-- Static stars -->
+<div id="stars-container"></div>
+
+
+
+<div id="roms">
+  <div class="header">
+    <h3>ROM Library</h3>
+    <input type="text" id="romFilter" placeholder="Filter ROMs..." />
+  </div>
+  <div id="romsList"></div>
+</div>
+
+<div id="yt-results">
+  <div class="header">
+    <h3>YouTube OST Search</h3>
+    <div class="controls">
+      <input id="searchBox" placeholder="Search YouTube OST..." />
+      <button onclick="searchYT()">Search</button>
+    </div>
+  </div>
+  <div id="resultsList" class="section"></div>
+</div>
+
+<div id="details">
+  <div class="header">
+    <h3>ROM Details</h3>
+    <div id="romTitle">No ROM Selected</div>
+  </div>
+  
+  <div class="section">
+    <p id="romSystem"></p>
+    <p id="currentOST"></p>
+    <p id="chosenVideo"></p>
+  </div>
+  
+  <div class="section">
+    <input id="manualVideoId" placeholder="Paste YouTube Video ID here (e.g. dQw4w9WgXcQ)" />
+    <button id="saveBtn" disabled>💾 Save OST</button>
+  </div>
+  
+  <div id="preview" class="section"></div>
+  
+  <div class="section">
+    <p id="status"></p>
+  </div>
+</div>
+
+<div class="audio-controls">
+  <p id="audioStatus">Shift + M = (🔊)/🔇</p>
+  <button onclick="MuteVol()">Toggle Audio</button>
+</div>
+
+<!-- Background music -->
+<audio id="bgm" src="{{ url_for('static', filename='bg/Mii-Channel-Plaza.mp3') }}" loop></audio>
+
+<script>
+// Global state
+let roms = [];
+let currentRom = null;
+let selectedVideo = null;
+let audioEnabled = true;
+
+// DOM elements
+const romsList = document.getElementById('romsList');
+const searchBox = document.getElementById('searchBox');
+const resultsList = document.getElementById('resultsList');
+const romTitle = document.getElementById('romTitle');
+const romSystem = document.getElementById('romSystem');
+const currentOST = document.getElementById('currentOST');
+const chosenVideo = document.getElementById('chosenVideo');
+const preview = document.getElementById('preview');
+const status = document.getElementById('status');
+const saveBtn = document.getElementById('saveBtn');
+const manualVideoId = document.getElementById('manualVideoId');
+const romFilter = document.getElementById('romFilter');
+const bgm = document.getElementById('bgm');
+const audioStatus = document.getElementById('audioStatus');
+const pixelBackground = document.getElementById('pixelBackground');
+const starsContainer = document.getElementById('stars-container');
+
+// Initialize the application
+document.addEventListener('DOMContentLoaded', function() {
+  alert("Welcome to the MES Retro cataloguer!");
+  initializeBGM();
+  loadRoms();
+  setupEventListeners();
+    createPixelBackground();
+  createStars();
+});
+
+// Create animated pixel background
+function createPixelBackground() {
+  for (let i = 0; i < 100; i++) {
+    const pixel = document.createElement('div');
+    pixel.classList.add('pixel');
+    
+    // Random position
+    const left = Math.random() * 100;
+    const top = Math.random() * 100;
+    
+    pixel.style.left = `${left}%`;
+    pixel.style.top = `${top}%`;
+    
+    // Random size
+    const size = 2 + Math.random() * 4;
+    pixel.style.width = `${size}px`;
+    pixel.style.height = `${size}px`;
+    
+    pixelBackground.appendChild(pixel);
+  }
+}
+
+// Create twinkling stars
+function createStars() {
+  for (let i = 0; i < 150; i++) {
+    const star = document.createElement('div');
+    star.classList.add('star');
+    
+    // Random position
+    const left = Math.random() * 100;
+    const top = Math.random() * 100;
+    
+    star.style.left = `${left}%`;
+    star.style.top = `${top}%`;
+    
+    starsContainer.appendChild(star);
+  }
+}
+
+// Set up event listeners
+function setupEventListeners() {
+  // Search on Enter key
+  searchBox.addEventListener('keypress', e => {
+    if (e.key === 'Enter') searchYT();
+  });
+  
+  // Manual video ID input
+  manualVideoId.addEventListener('input', handleManualVideoInput);
+  
+  // Save button
+  saveBtn.addEventListener('click', saveOST);
+  
+  // ROM filtering
+  romFilter.addEventListener('input', filterRoms);
+  
+  // Keyboard shortcuts
+  document.addEventListener('keydown', handleKeyboardShortcuts);
+}
+
+// Keyboard shortcuts
+function handleKeyboardShortcuts(event) {
+  if (event.shiftKey && event.key === 'M' || event.shiftKey && event.key === 'm') {
+    MuteVol();
+  }
+  
+  // Escape key to clear selection
+  if (event.key === 'Escape') {
+    selectedVideo = null;
+    saveBtn.disabled = true;
+    status.textContent = "Selection cleared";
+    document.querySelectorAll('.yt-result').forEach(el => el.classList.remove('selected'));
+  }
+}
+
+// Background music
+function initializeBGM() {
+  if (!bgm) return;
+  
+  
+  bgm.volume = 0.4;
+  bgm.loop = true;
+  
+
+  const playPromise = bgm.play();
+  if (playPromise !== undefined) {
+    playPromise.catch(err => {
+      console.log("Autoplay blocked:", err);
+      audioStatus.textContent = "Shift + M = 🔊/(🔇) - Click to enable audio";
+    });
+  }
+}
+
+function MuteVol() {
+  if (!bgm) return;
+  
+  if (bgm.volume > 0) {
+    bgm.volume = 0;
+    audioStatus.textContent = "Shift + M = 🔊/(🔇)";
+    audioEnabled = false;
+  } else {
+    bgm.volume = 0.4;
+    audioStatus.textContent = "Shift + M = (🔊)/🔇";
+    audioEnabled = true;
+    
+    // Try to play if it was paused
+    if (bgm.paused) {
+      bgm.play().catch(err => console.log("Playback failed:", err));
+    }
+  }
+}
+
+// ROM management
+async function loadRoms() {
+  romsList.innerHTML = "<div class='loading'>Loading ROMs...</div>";
+  
+  try {
+    // In a real implementation, this would fetch from your API
+     const res = await fetch('/api/roms');
+     roms = await res.json();
+    
+    // For demo purposes, we'll use mock data
+    //roms = getMockRoms();
+    
+    renderRoms();
+  } catch (err) {
+    console.error("Failed to load ROMs:", err);
+    romsList.innerHTML = "<div class='error'>Failed to load ROMs</div>";
+  }
+}
+
+
+function renderRoms() {
+  romsList.innerHTML = '';
+  
+  if (roms.length === 0) {
+    romsList.innerHTML = "<div class='loading'>No ROMs found</div>";
+    return;
+  }
+  
+  roms.forEach(rom => {
+    const romDiv = document.createElement('div');
+    const linkedClass = rom.YouTubeOST ? "linked" : "";
+    const display = `${rom.DisplayName} <small>[${rom.SystemName}]</small>`;
+    romDiv.className = `rom ${linkedClass}`;
+    romDiv.setAttribute('data-id', rom.RomID);
+    romDiv.innerHTML = display;
+    romDiv.addEventListener('click', () => selectRom(rom.RomID));
+    romsList.appendChild(romDiv);
+  });
+}
+
+function filterRoms() {
+  const filter = romFilter.value.toLowerCase();
+  document.querySelectorAll('.rom').forEach(rom => {
+    const text = rom.textContent.toLowerCase();
+    rom.style.display = text.includes(filter) ? 'block' : 'none';
+  });
+}
+
+function selectRom(id) {
+  // Reset previous selection
+  selectedVideo = null;
+  manualVideoId.value = '';
+  saveBtn.disabled = true;
+  
+  // Update UI
+  document.querySelectorAll('.rom').forEach(el => el.classList.remove('active'));
+  const romDiv = document.querySelector(`.rom[data-id="${id}"]`);
+  romDiv.classList.add('active');
+  
+  // Set current ROM
+  currentRom = roms.find(r => r.RomID === id);
+  
+  // Update details
+  romTitle.textContent = currentRom.DisplayName;
+  romSystem.textContent = `System: ${currentRom.SystemName}`;
+  
+  if (currentRom.YouTubeOST) {
+    currentOST.textContent = `Current OST: ${currentRom.YouTubeOST}`;
+    currentOST.className = 'success';
+    
+    // Show preview
+    preview.innerHTML = `
+      <iframe id="ytPrev" width="300" height="170"
+        src="https://www.youtube.com/embed/${currentRom.YouTubeOST}"
+        frameborder="0" allowfullscreen></iframe>
+    `;
+  } else {
+    currentOST.textContent = 'No OST linked';
+    currentOST.className = '';
+    preview.innerHTML = "";
+  }
+  
+  // Set search query
+  const queryText = `${currentRom.DisplayName} ${currentRom.SystemName} Title Theme Intro OST`;
+  searchBox.value = queryText;
+  
+  // Copy to clipboard automatically
+  navigator.clipboard.writeText(queryText)
+    .then(() => {
+      status.textContent = "📋 Search copied to clipboard!";
+      status.className = 'success';
+    })
+    .catch(err => {
+      console.warn("Clipboard copy failed:", err);
+      status.textContent = "Search ready (copy failed)";
+      status.className = '';
+    });
+  
+  // Auto search (in a real implementation)
+  // searchYT();
+}
+
+// YouTube integration
+async function searchYT() {
+  const query = searchBox.value.trim();
+  
+  if (!query) {
+    resultsList.innerHTML = "<div class='error'>Please enter a search term</div>";
+    return;
+  }
+  
+  resultsList.innerHTML = "<div class='loading'>Searching YouTube...</div>";
+  
+  try {
+    const data = getMockYTResults(query);
+    
+    renderYTResults(data);
+  } catch (err) {
+    console.error("YT Search failed:", err);
+    resultsList.innerHTML = "<div class='error'>Error fetching results</div>";
+  }
+}
+
+
+function renderYTResults(videos) {
+  resultsList.innerHTML = '';
+  
+  if (!Array.isArray(videos) || videos.length === 0) {
+    resultsList.innerHTML = "<div class='loading'>No results found</div>";
+    return;
+  }
+  
+  videos.forEach(video => {
+    const div = document.createElement('div');
+    div.className = 'yt-result';
+    div.innerHTML = `
+      <img src="${video.thumbnail}" alt="thumbnail" />
+      <span>${video.title}</span>
+    `;
+    div.addEventListener('click', (e) => selectVideo(video, e));
+    resultsList.appendChild(div);
+  });
+}
+
+function selectVideo(video, event) {
+  if (!video || !video.videoId) {
+    console.warn('Invalid video object:', video);
+    return;
+  }
+  
+  // Clear previous selection
+  document.querySelectorAll('.yt-result').forEach(el => el.classList.remove('selected'));
+  
+  // Mark current selection
+  if (event && event.currentTarget) {
+    event.currentTarget.classList.add('selected');
+  }
+  
+  selectedVideo = video;
+  saveBtn.disabled = false;
+  manualVideoId.value = ''; // Clear manual input
+  
+  // Update preview
+  preview.innerHTML = `
+    <iframe id="ytPrev" width="300" height="170"
+      src="https://www.youtube.com/embed/${video.videoId}"
+      frameborder="0" allowfullscreen></iframe>
+    <p>${video.title}</p>
+  `;
+  
+  status.textContent = "🎥 Video selected! Ready to save.";
+  status.className = 'success';
+}
+
+function handleManualVideoInput(e) {
+  const val = e.target.value.trim();
+  
+  // Basic YouTube ID validation (8-11 characters, alphanumeric and underscores)
+  if (val.length >= 8 && /^[a-zA-Z0-9_-]{8,11}$/.test(val)) {
+    selectedVideo = { 
+      videoId: val, 
+      title: "Manual entry - " + val,
+      thumbnail: "https://img.youtube.com/vi/" + val + "/default.jpg"
+    };
+    saveBtn.disabled = false;
+    status.textContent = "🎥 Manual video ID ready!";
+    status.className = 'success';
+    
+    // Clear any YouTube result selection
+    document.querySelectorAll('.yt-result').forEach(el => el.classList.remove('selected'));
+    
+    // Update preview
+    preview.innerHTML = `
+      <iframe id="ytPrev" width="300" height="170"
+        src="https://www.youtube.com/embed/${val}"
+        frameborder="0" allowfullscreen></iframe>
+      <p>Manual entry: ${val}</p>
+    `;
+  } else {
+    saveBtn.disabled = true;
+    selectedVideo = null;
+    if (val.length > 0) {
+      status.textContent = "❌ Invalid YouTube Video ID format";
+      status.className = 'error';
+    } else {
+      status.textContent = "";
+    }
+  }
+}
+
+// Save OST to ROM
+async function saveOST() {
+  if (!selectedVideo) {
+    alert("Please select a YouTube video first!");
+    return;
+  }
+  
+  if (!currentRom) {
+    alert("No ROM selected!");
+    return;
+  }
+  
+  status.textContent = "Saving OST...";
+  status.className = '';
+  
+  try {
+       const resp = await fetch("/api/save_ost", {
+       method: "POST",
+       headers: { "Content-Type": "application/json" },
+       body: JSON.stringify({
+         RomID: currentRom.RomID,
+         YouTubeOST: selectedVideo.videoId
+       })
+    });
+     
+    const data = await resp.json();
+    
+    // For demo purposes, we'll simulate a successful save
+    //const data = { status: "ok" };
+    
+    if (data.status === "ok") {
+      // Update local state
+      currentRom.YouTubeOST = selectedVideo.videoId;
+      
+      // Update UI
+      status.textContent = "✅ OST Linked Successfully!";
+      status.className = 'success';
+      
+      // Visually mark the ROM as linked
+      const romDiv = document.querySelector(`.rom[data-id="${currentRom.RomID}"]`);
+      if (romDiv) {
+        romDiv.classList.add("linked");
+      }
+      
+      // Update current OST display
+      currentOST.textContent = `Current OST: ${selectedVideo.videoId}`;
+      currentOST.className = 'success';
+      
+      // Reset selection
+      selectedVideo = null;
+      saveBtn.disabled = true;
+    } else {
+      status.textContent = "❌ " + (data.error || "Unknown error");
+      status.className = 'error';
+    }
+  } catch (err) {
+    console.error("Save failed:", err);
+    status.textContent = "❌ Network error - Failed to save";
+    status.className = 'error';
+  }
+}
+</script>
+</body>
+</html>
