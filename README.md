@@ -19,7 +19,9 @@ A comprehensive **retro gaming entertainment system** that combines game launchi
  <p align="center">
 <img width="2555" height="1269" alt="image" src="https://github.com/user-attachments/assets/181f5300-50f8-4608-9ba5-828f5b4075b9" />
 <p align="center">
+
 ## 🎧 OST Cataloguer
+
 <img width="2557" height="1274" alt="image" src="https://github.com/user-attachments/assets/98c7a83c-2069-4b2d-bf62-54bbe80c325e" />
 </p>
 
