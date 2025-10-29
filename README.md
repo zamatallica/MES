@@ -80,20 +80,7 @@ DATABASE_USERNAME=your_username
 DATABASE_PASSWORD=your_password
 ```
 
-### 4️⃣ Database Setup
-Update your connection string in `app.py`:
-```python
-conn_str = (
-    "DRIVER={ODBC Driver 18 for SQL Server};"
-    "SERVER=your_server,port;"
-    "DATABASE=your_database;"
-    "UID=your_username;"
-    "PWD=your_password;"
-    "TrustServerCertificate=yes;"
-)
-```
-
-### 5️⃣ Emulator Configuration
+### 4️⃣ Emulator Configuration
 Ensure your SQL Server is running and update the .env file with your database credentials:
 
 - DATABASE_SERVER: Your SQL Server instance (e.g., localhost,1433 or server-name,port)
@@ -106,7 +93,7 @@ Ensure your SQL Server is running and update the .env file with your database cr
 
 - DATABASE_DRIVER: ODBC driver name (default: ODBC Driver 18 for SQL Server)
 
-### 6️⃣ Directory Structure
+### 5️⃣ Directory Structure
 ```
 mixtli/
 ├── ROMS/           # Game ROMs by platform
