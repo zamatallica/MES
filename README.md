@@ -4,7 +4,9 @@ A comprehensive **retro gaming entertainment system** that combines game launchi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Theme-Retro%2520Gaming-00ffd9?style=for-the-badge" alt="Theme Badge">
+  ## 🕹️ MES GUI
   <img src="https://img.shields.io/badge/Flask-2.3.3-000?style=for-the-badge&logo=flask" alt="Flask Badge">
+  ## 🎧 OST Cataloguer
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 </p>
 
